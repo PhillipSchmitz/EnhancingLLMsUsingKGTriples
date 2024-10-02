@@ -1,0 +1,13 @@
+Test Results: TransE model
+
+--- Positive Samples ---
+Mean Rank: 21.9726
+MRR: 0.2608
+Hits@10: 0.5470
+Mean Squared Error (MSE): 12.5726
+
+--- Negative Samples ---
+Mean Rank: 50.8009
+MRR: 0.1247
+Hits@10: 0.3791
+Mean Squared Error (MSE): 16.3528

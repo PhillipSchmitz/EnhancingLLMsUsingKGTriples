@@ -1,0 +1,4 @@
+Epoch,Avg_Train_Loss,Validation_Loss,Validation_Accuracy
+1,0.5273,0.0483,0.9962
+2,0.0393,0.0141,1.0000
+3,0.0157,0.0064,1.0000

@@ -1,0 +1,72 @@
+ID,label,description
+P749,übergeordnete Organisation,"Organisation, das die untergeordnete Organisation kontrolliert"
+P2578,untersucht,Forschungsthema dieser wissenschaftlichen Disziplin
+P509,Todesursache,Grund für den Eintritt des Sterbevorgangs und des Todes einer Person oder eines anderen Organismus
+P149,Architekturstil,Baustil eines Bauwerks oder Architekten
+P451,Lebenspartner/-in,"jemand, mit dem die Person in einer Beziehung ist, ohne P26 ""verheiratet"" zu sein"
+P452,Branche,Wirtschaftszweig eines Unternehmens
+P123,Verlag,"Namen des Medienunternehmens, das die Publikation auf den Markt gebracht hat"
+P194,gesetzgebende Körperschaft,politische Institution mit gewählten oder berufenen Vertretern wie ein Parlament oder ein Rat
+P19,Geburtsort,"Ort, in dem ein Mensch geboren wurde (so genau wie bekannt, z. B. Stadt anstatt von Land)"
+P20,Sterbeort,"Ort, an dem ein Mensch gestorben ist (so genau wie bekannt, z. B. Stadt anstatt von Land)"
+P138,benannt nach,Person oder anderes Objekt als Namensgeber dieses Objekts
+P161,Darsteller,"Darsteller einer Haupt- oder Nebenrolle vor der Kamera oder vor Publikum (für reine Sprechrollen verwende ""Sprecher"" (P725))"
+P2176,behandelt mit,"Medikament, das zur Behandlung dieser Krankheit verwendet wird"
+P641,Sportart,"Sportart, der das Objekt zugehörig ist"
+P54,Mitglied von Sportteam oder -verein,"Person ist/war aktiv für Sportmannschaft, -team oder -verein"
+P1050,Erkrankung,Krankheit oder andere Gesundheitsprobleme eines einzelnen Menschen oder Tieres
+P159,Hauptverwaltung,"Ort oder Gebäude, in dem die Hauptverwaltung einer Organisation ihren Sitz hat"
+P131,liegt in der Verwaltungseinheit,"administratives Gebiet, auf dem sich das Objekt befindet"
+P780,Symptome,mögliche Symptome einer Krankheit
+P36,Hauptstadt,"Repräsentativste Stadt innerhalb einer administrierten geografischen Region, häufig auch Regierungs- oder Verwaltungssitz der Administration. Hauptstadt und Stadt des Regierungssitzes sind aber nicht in jedem Fall identisch."
+P140,Religionszugehörigkeit,"einer Person, Organisation, eines religiösen Bau- oder Kunstwerks"
+P2283,benutzt,verwendetes Objekt
+P488,Vorsitzender,Vorsitzendes Mitglied einer Organisation oder Körperschaft
+P47,gemeinsame Grenze mit,"Länder oder administrative Einheit derselben Ebene, die an das Objekt grenzen (Staat an Staat, Provinz an Provinz). Bereits ein gemeinsamer Punkt reicht aus."
+P4552,Gebirgszug,"Folge hoher Berggipfel oder eine zusammenhängende Bergkette innerhalb eines größeren Gebirges, zu der dieses Element gehört"
+P106,Tätigkeit,"Beruf oder andere Tätigkeit einer Person (ergänzt durch ""Arbeitsgebiet"": Property:P101)"
+P3373,Geschwister,Person mit mindestens einem gemeinsamen Elternteil
+P551,Wohnsitz,"Ort, an dem die Person einen Wohnsitz hat oder hatte (Alternative: Wirkungsstätte, P937)"
+P26,Ehepartner(in),weiterer Teil einer juristisch als „Ehe“ definierten Lebensgemeinschaft. Verwende „Lebenspartner/-in“ (P451) im Falle von nicht-ehelichen Lebensgemeinschaften
+P1412,gesprochene oder publizierte Sprachen,"Sprachen, in denen sich eine Person äußert, insbesondere Fremdsprachen, darf Muttersprachen (P103) enthalten"
+P466,Bewohner/Nutzer,"Person, Gruppe oder Organisation, die ein Gebäude bewohnt bzw. nutzt"
+P800,bedeutende Werke,relevante wissenschaftliche oder künstlerische Werke der Person
+P2348,Zeitraum,"Zeitraum (historische Periode oder Zeitalter, Sportsaison, Theatersaison, Legislaturperiode o.ä.) in der das Subjekt auftritt"
+P1454,Rechtsform,Rechtsform einer Organisation an ihrem Sitz
+P495,Ursprungsland,Ursprungsland der gestalterischen Arbeit (Werk)
+P407,"Sprache des Werks, Namens oder Begriffes",zugeordnete menschliche Sprache (für Personen benutze P103 und P1412)
+P102,Parteizugehörigkeit,"politische Partei, deren Mitglied die Person ist oder war"
+P69,besuchte Bildungseinrichtung,von der Person besuchte Bildungseinrichtung
+P840,Handlungsort,"Ort, an dem die fiktive Handlung stattfindet"
+P264,Plattenlabel,eigenständig geführte Abteilung eines Tonträgerunternehmens
+P172,Bevölkerungsgruppe,*Umstritten*! siehe Diskussionsseite
+P84,Architekt,"Person oder Architektengruppe, die dieses Bauwerk geplant hat"
+P169,Geschäftsführer,geschäftsführendes Vorstandsmitglied in einer Organisation (meist ein Unternehmen)
+P35,Staatsoberhaupt,höchste formale Autorität in einem Staat oder Land
+P17,Staat,"souveräner Staat, in dem sich das Objekt befindet"
+P170,Urheber,Urheber eines Werkes (vor allem für darstellende Künstler)
+P57,Regisseur,Regisseur eines Films oder ähnlichem
+P40,Kind,Kind der Person (mit Namen)
+P135,Bewegung,"literarische, künstlerische, wissenschaftliche oder philosophische Strömung, mit der das Objekt verbunden ist"
+P50,Autor,"Person(en), die ein schriftliches Werk verfasst hat bzw. haben; P2093 verwenden, falls der Autor in Wikidata nicht bekannt ist"
+P1303,Instrument,"Instrument, welches von einer Person gespielt wird"
+P463,Mitglied von,"Mitglied einer Organisation oder Vereinigung (nicht für ethnische oder soziale Gruppen oder Parlamentsmitglieder zu verwenden, stattdessen P39)"
+P30,Kontinent,"Erdteil, auf dem sich das Objekt befindet (bei Ländern und wo es sich nicht aus dem Land ergibt)"
+P3095,praktiziert von,"Person, die diesen Beruf, diese Religion oder diese Aktivität praktiziert"
+P113,Luftfahrt-Drehkreuz,Umsteigeflughafen einer Fluggesellschaft
+P27,Land der Staatsangehörigkeit,"Staat, der die Person als Staatsangehöriger anerkennt oder anerkannte"
+P361,ist Teil von,Subjekt ist Teil des Objekts (Teil-Ganzes-Relation)
+P1056,Produkt,produziertes Material oder Produkt
+P740,Gründungsort,"Ort, an dem etwas entstand oder gegründet wurde"
+P119,Begräbnisort,Ort des Grabes
+P1995,medizinisches Fachgebiet,"medizinisches Fachgebiet, das hauptsächlich zur Behandlung dieser Krankheit herangezogen wird"
+P530,diplomatische Beziehung,diplomatische Beziehungen des Landes
+P457,Gründungsvertrag,"Text, durch den eine Institution gegründet wurde"
+P112,Gründer,"Person oder Organisation, die das Objekt gegründet hat"
+P37,Amtssprache,offizielle Sprache des Staates
+P366,Benutzung,Hauptbenutzungszweck des Objekts (welcher bspw. bei einem Gebäude vom ursprünglichen Zweck abweichen kann; umfasst aktuelle und frühere Nutzungszwecke)
+P114,Luftfahrtallianz,"Kooperation, der ein Luftfahrtunternehmen angehört"
+P108,Arbeitgeber,früherer oder aktueller Arbeitgeber einer Person
+P737,beeinflusst von,"Entität, welches dieses Subjekt oder Objekt beeinflusste."
+P101,Arbeitsgebiet,"Themenkreis, auf dem eine Person oder Institution ihre Haupttätigkeit (Property:P106) entfaltet"
+P136,Genre,"Genre eines Kunstwerkes oder das Genre, in dem eine Person oder ein Projekt tätig ist"

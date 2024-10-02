@@ -1,0 +1,1807 @@
+@prefix ns1: <http://example.org/> .
+@prefix ns2: <http://example.org/Lebenspartner/-> .
+
+<Q1000> <P463> <Q47543> .
+
+<Q1010602> <P1412> <Q652> .
+
+<Q1016> <P463> <Q842490> ;
+    <P530> <Q30> .
+
+<Q101740> <P463> <Q270794> .
+
+<Q1019> <P463> <Q899770> .
+
+<Q1020> <P463> <Q8475> .
+
+<Q1028> <P463> <Q7809> .
+
+<Q1032> <P463> <Q134102> .
+
+<Q1033> <P463> <Q191384> .
+
+<Q103835> <P108> <Q152838>,
+        <Q49115> .
+
+<Q104049> <P463> <Q463303> .
+
+<Q1041> <P530> <Q183> .
+
+<Q1044> <P463> <Q7159> .
+
+<Q1050> <P530> <Q458> .
+
+<Q1065956> <P106> <Q36180> .
+
+<Q106775> <P106> <Q488205> .
+
+<Q107424> <P106> <Q36834> .
+
+<Q107933> <P106> <Q245068> .
+
+<Q108560> <P136> <Q9778> .
+
+<Q114> <P530> <Q148> .
+
+<Q117012> <P264> <Q155152> .
+
+<Q119546> <P106> <Q1930187> .
+
+<Q12003> <P101> <Q207628> .
+
+<Q123174> <P136> <Q316930> .
+
+<Q1242553> <P1303> <Q17172850> .
+
+<Q12706> <P106> <Q36180> .
+
+<Q127330> <P106> <Q177220> .
+
+<Q1276> <P264> <Q183387> .
+
+<Q128126> <P737> <Q9235> .
+
+<Q128297> <P108> <Q503246> .
+
+<Q128532> <P27> <Q34266> .
+
+<Q128799> <P1303> <Q17172850> .
+
+<Q1290> <P106> <Q169470> .
+
+<Q12908> <P19> <Q1781> .
+
+<Q131149> <P106> <Q18939491> .
+
+<Q132537> <P108> <Q35794> ;
+    <P172> <Q7325> .
+
+<Q134180> <P106> <Q6625963> .
+
+<Q1350303> <P1303> <Q46185> .
+
+<Q1391164> <P106> <Q486748> .
+
+<Q1394> <P106> <Q36180> .
+
+<Q142> <P463> <Q19771> ;
+    <P530> <Q1037>,
+        <Q971> .
+
+<Q144622> <P106> <Q855091> .
+
+<Q1511> <P106> <Q3387717> .
+
+<Q151118> <P172> <Q49085> .
+
+<Q151164> <P106> <Q1930187> .
+
+<Q152293> <P136> <Q9730> .
+
+<Q152301> <P101> <Q184485> .
+
+<Q152513> <P1412> <Q1860> .
+
+<Q153694> <P106> <Q10798782> ;
+    <P264> <Q645889> .
+
+<Q153996> <P27> <Q183> .
+
+<Q154145> <P737> <Q9358> .
+
+<Q1545> <P106> <Q177220> .
+
+<Q154691> <P106> <Q36180> ;
+    <P27> <Q96> .
+
+<Q155079> <P106> <Q10800557>,
+        <Q177220> .
+
+<Q155786> <P463> <Q123885> .
+
+<Q156941> <P463> <Q123885> .
+
+<Q157324> <P463> <Q253439> .
+
+<Q1586454> <P106> <Q639669> .
+
+<Q16> <P530> <Q219>,
+        <Q41>,
+        <Q769> .
+
+<Q16053> <P1412> <Q150> .
+
+<Q161806> <P37> <Q150> .
+
+<Q1624891> <P106> <Q10798782> .
+
+<Q162667> <P136> <Q186472> .
+
+<Q16409> <P106> <Q193391> .
+
+<Q164119> <P106> <Q177220> .
+
+<Q1643790> <P136> <Q8261> .
+
+<Q164487> <P106> <Q4610556> .
+
+<Q168992> <P136> <Q37073> .
+
+<Q1698> <P106> <Q1415090> .
+
+<Q17> <P530> <Q258> .
+
+<Q170576> <P106> <Q177220> .
+
+<Q171969> <P463> <Q543804> .
+
+<Q173061> <P1303> <Q17172850> .
+
+<Q173637> <P106> <Q33999> .
+
+<Q1779> <P172> <Q49085> .
+
+<Q1785> <P106> <Q10800557> .
+
+<Q178698> <P106> <Q1622272> ;
+    <P737> <Q37767> .
+
+<Q179257> <P136> <Q11366> .
+
+<Q180004> <P264> <Q202585> .
+
+<Q180861> <P1303> <Q46185> .
+
+<Q180962> <P737> <Q131333> .
+
+<Q183266> <P106> <Q36180> .
+
+<Q183279> <P102> <Q79854> .
+
+<Q183492> <P737> <Q991> .
+
+<Q183535> <P106> <Q33999> .
+
+<Q184> <P530> <Q213>,
+        <Q262>,
+        <Q35> .
+
+<Q184366> <P27> <Q174193> .
+
+<Q184440> <P737> <Q311145> .
+
+<Q184535> <P509> <Q12192> .
+
+<Q184697> <P27> <Q30> .
+
+<Q185085> <P106> <Q11774202> .
+
+<Q185465> <P264> <Q203059> .
+
+<Q185610> <P106> <Q3282637>,
+        <Q43845> .
+
+<Q185724> <P106> <Q2526255> .
+
+<Q186327> <P136> <Q83270> .
+
+<Q186485> <P106> <Q10800557> ;
+    <P1303> <Q17172850> .
+
+<Q187019> <P737> <Q105756>,
+        <Q82925> .
+
+<Q187884> <P27> <Q33946> .
+
+<Q18809> <P102> <Q79854> ;
+    <P463> <Q2370801> .
+
+<Q188648> <P1303> <Q17172850> .
+
+<Q189> <P463> <Q1377612> .
+
+<Q191> <P530> <Q668> .
+
+<Q191064> <P106> <Q10800557> .
+
+<Q191480> <P509> <Q12192> .
+
+<Q192185> <P106> <Q486748> .
+
+<Q192279> <P1412> <Q7737> .
+
+<Q192348> <P27> <Q38> .
+
+<Q193803> <P106> <Q169470> .
+
+<Q194333> <P106> <Q486748> .
+
+<Q19526> <P106> <Q6625963> .
+
+<Q200586> <P106> <Q486748> .
+
+<Q201500> <P20> <Q65> .
+
+<Q201656> <P451> <Q4235> .
+
+<Q202319> <P106> <Q36834> .
+
+<Q202550> <P264> <Q664167> .
+
+<Q204868> <P1412> <Q7737> .
+
+<Q206439> <P106> <Q2405480> .
+
+<Q206832> <P463> <Q329464> .
+
+<Q207197> <P27> <Q30> .
+
+<Q207544> <P106> <Q36180> .
+
+<Q2086086> <P27> <Q159> .
+
+<Q210741> <P106> <Q33999> .
+
+<Q212> <P530> <Q227> .
+
+<Q212015> <P106> <Q55960555> .
+
+<Q214226> <P106> <Q639669> .
+
+<Q215> <P530> <Q221> .
+
+<Q215927> <P106> <Q593644> .
+
+<Q216179> <P106> <Q753110> .
+
+<Q216195> <P737> <Q5686> .
+
+<Q216341> <P1303> <Q17172850> .
+
+<Q217160> <P264> <Q193023>,
+        <Q202585> .
+
+<Q217427> <P106> <Q639669> ;
+    <P3373> <Q44855> .
+
+<Q217787> <P106> <Q36834> .
+
+<Q219060> <P530> <Q865> .
+
+<Q221074> <P106> <Q3282637> .
+
+<Q221364> <P106> <Q131524>,
+        <Q33999> .
+
+<Q223741> <P1303> <Q2643890> .
+
+<Q224> <P530> <Q30>,
+        <Q43>,
+        <Q794>,
+        <Q851> .
+
+<Q2263> <P106> <Q33999> .
+
+<Q228> <P530> <Q458> .
+
+<Q228787> <P136> <Q11399> .
+
+<Q228832> <P136> <Q484641> .
+
+<Q228909> <P172> <Q49085> .
+
+<Q229> <P530> <Q36> .
+
+<Q229018> <P106> <Q36834> .
+
+<Q229282> <P26> <Q77112> .
+
+<Q229375> <P1303> <Q6607> .
+
+<Q230> <P530> <Q117>,
+        <Q183> .
+
+<Q231690> <P106> <Q201788> .
+
+<Q231694> <P136> <Q11401> .
+
+<Q232> <P463> <Q842490> ;
+    <P530> <Q884> .
+
+<Q233> <P17> <Q7785> .
+
+<Q233081> <P264> <Q277626> .
+
+<Q233295> <P106> <Q13590141> .
+
+<Q233377> <P106> <Q33999> .
+
+<Q235931> <P27> <Q30> .
+
+<Q236> <P530> <Q1246> .
+
+<Q236005> <P1412> <Q1860> .
+
+<Q236318> <P136> <Q850412> .
+
+<Q23728> <P106> <Q10798782> .
+
+<Q237659> <P1412> <Q1860> .
+
+<Q238819> <P106> <Q36834> .
+
+<Q240808> <P106> <Q639669> .
+
+<Q242095> <P106> <Q1930187> .
+
+<Q242454> <P106> <Q36180> .
+
+<Q245257> <P737> <Q6882> .
+
+<Q246731> <P106> <Q36180> .
+
+<Q25089> <P106> <Q15981151> .
+
+<Q251068> <P106> <Q183945> ;
+    <P27> <Q30> .
+
+<Q254> <P106> <Q16145150> .
+
+<Q254510> <P106> <Q33999> .
+
+<Q25820> <P106> <Q4773904> ;
+    <P463> <Q188771> .
+
+<Q26058> <P1303> <Q5994> .
+
+<Q2643> <P106> <Q488205> .
+
+<Q26876> <P1303> <Q6607> .
+
+<Q27> <P37> <Q1860> ;
+    <P463> <Q782942> .
+
+<Q270935> <P106> <Q36834> .
+
+<Q275247> <P264> <Q183412> .
+
+<Q275875> <P1303> <Q17172850> ;
+    <P136> <Q186472> .
+
+<Q281034> <P136> <Q11399> .
+
+<Q29> <P530> <Q28> .
+
+<Q296609> <P106> <Q28389>,
+        <Q3282637>,
+        <Q49757> .
+
+<Q297736> <P106> <Q12144794> .
+
+<Q298> <P463> <Q899770> .
+
+<Q298255> <P106> <Q488205> ;
+    <P264> <Q212699> .
+
+<Q306403> <P108> <Q49210> .
+
+<Q30875> <P1412> <Q1860> .
+
+<Q31> <P463> <Q826700> .
+
+<Q311256> <P19> <Q1297> .
+
+<Q312053> <P106> <Q753110> .
+
+<Q312407> <P463> <Q463281> .
+
+<Q313080> <P19> <Q1297> .
+
+<Q313849> <P106> <Q855091> .
+
+<Q315181> <P27> <Q159> .
+
+<Q315222> <P1412> <Q809> .
+
+<Q317397> <P140> <Q432> .
+
+<Q318509> <P106> <Q1476215> .
+
+<Q320895> <P136> <Q83270> .
+
+<Q32257> <P463> <Q83172> .
+
+<Q33760> <P737> <Q93343> .
+
+<Q34> <P530> <Q408> .
+
+<Q342723> <P106> <Q2722764> .
+
+<Q34474> <P136> <Q35760> ;
+    <P463> <Q83172> .
+
+<Q344983> <P264> <Q190585> .
+
+<Q345612> <P69> <Q49112> .
+
+<Q347> <P30> <Q46> .
+
+<Q347685> <P1412> <Q7737> ;
+    <P19> <Q656> .
+
+<Q348497> <P106> <Q49757>,
+        <Q6625963> .
+
+<Q348658> <P106> <Q2259451> .
+
+<Q349217> <P106> <Q639669> .
+
+<Q34969> <P106> <Q188094>,
+        <Q36180> .
+
+<Q354033> <P106> <Q36834> .
+
+<Q355288> <P106> <Q18814623> .
+
+<Q361257> <P1412> <Q1860> .
+
+<Q362332> <P106> <Q245068> .
+
+<Q36268> <P106> <Q18814623> .
+
+<Q364875> <P106> <Q177220> .
+
+<Q367634> <P136> <Q11401> .
+
+<Q379580> <P106> <Q11900058> .
+
+<Q38193> <P551> <Q1055> .
+
+<Q39> <P463> <Q663492>,
+        <Q842490> .
+
+<Q392> <P1303> <Q51290> .
+
+<Q40> <P530> <Q159>,
+        <Q183> .
+
+<Q4030> <P509> <Q47912> .
+
+<Q4039> <P264> <Q585643> .
+
+<Q4061> <P1303> <Q51290> .
+
+<Q40909> <P106> <Q11774202> .
+
+<Q41257> <P69> <Q152087> .
+
+<Q414> <P530> <Q38> .
+
+<Q423> <P530> <Q1007>,
+        <Q1030>,
+        <Q148>,
+        <Q20> .
+
+<Q42398> <P106> <Q36180> .
+
+<Q42402> <P264> <Q38903> .
+
+<Q43432> <P136> <Q37073> .
+
+<Q434745> <P106> <Q5716684> .
+
+<Q43718> <P106> <Q482980> .
+
+<Q439315> <P27> <Q30> .
+
+<Q440996> <P106> <Q36180> .
+
+<Q44301> <P106> <Q3455803> .
+
+<Q443995> <P106> <Q10798782> .
+
+<Q44414> <P106> <Q177220> .
+
+<Q44426> <P20> <Q1726> .
+
+<Q44648> <P136> <Q83270> .
+
+<Q446743> <P106> <Q201788> .
+
+<Q448837> <P172> <Q49085> .
+
+<Q45> <P530> <Q252> .
+
+<Q450412> <P106> <Q36180> .
+
+<Q46096> <P172> <Q34069> .
+
+<Q4612> <P1412> <Q188> ;
+    <P27> <Q41304> .
+
+<Q4636> <P106> <Q2526255> .
+
+<Q467482> <P106> <Q18844224> .
+
+<Q47100> <P106> <Q28389> .
+
+<Q47122> <P1412> <Q1321> .
+
+<Q47152> <P106> <Q18844224> ;
+    <P136> <Q49084> .
+
+<Q483507> <P106> <Q36834> .
+
+<Q484302> <P1412> <Q1860> .
+
+<Q49074> <P106> <Q1930187> .
+
+<Q49767> <P106> <Q11774202> ;
+    <P463> <Q684415> .
+
+<Q50020> <P135> <Q7066> ;
+    <P172> <Q42406> .
+
+<Q5104> <P1303> <Q6607> .
+
+<Q526406> <P136> <Q37073> .
+
+<Q526709> <P27> <Q30> .
+
+<Q544387> <P1412> <Q1860> .
+
+<Q550778> <P106> <Q639669> .
+
+<Q554406> <P106> <Q182436> .
+
+<Q557> <P101> <Q184485> .
+
+<Q55800> <P106> <Q578109> ;
+    <P27> <Q30> ;
+    <P551> <Q23197> .
+
+<Q561458> <P106> <Q36180> .
+
+<Q563057> <P1303> <Q5994> .
+
+<Q567> <P106> <Q82955> .
+
+<Q57075> <P509> <Q12152> .
+
+<Q57382> <P101> <Q35760> .
+
+<Q58062> <P106> <Q18814623>,
+        <Q2374149> .
+
+<Q582713> <P20> <Q1741> .
+
+<Q587361> <P264> <Q216364> .
+
+<Q5878> <P106> <Q482980> .
+
+<Q59185> <P264> <Q4413456> .
+
+<Q597433> <P1303> <Q258896> .
+
+<Q60197> <P108> <Q49088> .
+
+<Q60285> <P106> <Q82955> .
+
+<Q60586> <P463> <Q253439> .
+
+<Q60969> <P463> <Q543804> .
+
+<Q61597> <P3373> <Q77087> .
+
+<Q61863> <P106> <Q82955> .
+
+<Q633> <P106> <Q183945> .
+
+<Q6530> <P136> <Q5891> .
+
+<Q65350> <P463> <Q543804> .
+
+<Q6538> <P106> <Q11774202> .
+
+<Q66107> <P106> <Q193391> .
+
+<Q66732> <P106> <Q2306091> .
+
+<Q6701> <P106> <Q333634> .
+
+<Q6711> <P20> <Q60> ;
+    <P463> <Q463303> .
+
+<Q6714> <P106> <Q182436> .
+
+<Q686> <P463> <Q376150> .
+
+<Q695> <P463> <Q842490> .
+
+<Q697> <P37> <Q1860> .
+
+<Q699541> <P463> <Q191583> .
+
+<Q702468> <P69> <Q273626> .
+
+<Q704700> <P1303> <Q17172850> .
+
+<Q70855> <P106> <Q201788> .
+
+<Q709> <P463> <Q294278> .
+
+<Q712860> <P106> <Q36834> ;
+    <P1303> <Q17172850> ;
+    <P1412> <Q1860> .
+
+<Q712914> <P106> <Q855091> .
+
+<Q721819> <P106> <Q33999> .
+
+<Q7241> <P1412> <Q1860> ;
+    <P69> <Q193196> .
+
+<Q726071> <P1303> <Q17172850> .
+
+<Q7314> <P264> <Q183387> .
+
+<Q733> <P463> <Q191384>,
+        <Q5611262> .
+
+<Q739> <P361> <Q653884> ;
+    <P463> <Q123759>,
+        <Q656801> .
+
+<Q741862> <P20> <Q220> .
+
+<Q750> <P463> <Q376150> .
+
+<Q754> <P463> <Q899770> ;
+    <P530> <Q145> .
+
+<Q75814> <P737> <Q9047> .
+
+<Q760> <P463> <Q8475> .
+
+<Q7604> <P106> <Q11063> ;
+    <P1412> <Q188> .
+
+<Q76600> <P463> <Q337234>,
+        <Q463303> .
+
+<Q76738> <P27> <Q12548> .
+
+<Q76791> <P119> <Q64> .
+
+<Q76823> <P108> <Q151510> ;
+    <P20> <Q84> .
+
+<Q76959> <P463> <Q463303> .
+
+<Q778> <P530> <Q865> .
+
+<Q77888> <P106> <Q37226> ;
+    <P463> <Q684415> .
+
+<Q78487> <P106> <Q482980> .
+
+<Q78506> <P106> <Q4964182> .
+
+<Q786> <P463> <Q376150> .
+
+<Q78608> <P509> <Q12078> ;
+    <P551> <Q1741> .
+
+<Q796> <P530> <Q241> .
+
+<Q800> <P463> <Q5611262> ;
+    <P530> <Q77> .
+
+<Q80596> <P19> <Q60> .
+
+<Q811> <P30> <Q49> ;
+    <P463> <Q376150> .
+
+<Q813> <P463> <Q842490> .
+
+<Q819> <P530> <Q30> .
+
+<Q82222> <P136> <Q45981> .
+
+<Q82238> <P27> <Q145> .
+
+<Q826> <P463> <Q376150> .
+
+<Q83059> <P737> <Q502>,
+        <Q82925> .
+
+<Q83297> <P463> <Q684415> .
+
+<Q833> <P530> <Q1030> .
+
+<Q84423> <P1412> <Q188> ;
+    <P27> <Q41304> .
+
+<Q8446> <P106> <Q18939491> ;
+    <P136> <Q11366> .
+
+<Q863> <P463> <Q17495> .
+
+<Q878> <P463> <Q656801> ;
+    <P530> <Q148>,
+        <Q851> .
+
+<Q881> <P530> <Q35> .
+
+<Q8814> <P463> <Q463303> .
+
+<Q888666> <P106> <Q486748> .
+
+<Q889> <P463> <Q376150> ;
+    <P530> <Q794> .
+
+<Q892> <P106> <Q14467526> .
+
+<Q902> <P463> <Q384535> .
+
+<Q9049> <P106> <Q14467526> .
+
+<Q905> <P27> <Q33946> .
+
+<Q912> <P463> <Q1065> .
+
+<Q916> <P30> <Q15> ;
+    <P530> <Q258> .
+
+<Q928> <P463> <Q188822> .
+
+<Q929> <P463> <Q7825> ;
+    <P530> <Q1049> .
+
+<Q9364> <P19> <Q90> .
+
+<Q93996> <P106> <Q121594> .
+
+<Q944275> <P108> <Q35794> .
+
+<Q957627> <P136> <Q206159> .
+
+<Q958> <P463> <Q7809> .
+
+<Q965> <P463> <Q134102>,
+        <Q7825> .
+
+<Q974> <P463> <Q656801> .
+
+<Q977> <P463> <Q7809> .
+
+<Q9960> <P27> <Q30> .
+
+ns1:A._R._Rahman ns1:Genre ns1:elektronische_Musik .
+
+ns1:Aaron_Copland ns1:Taetigkeit ns1:Pianist .
+
+ns1:Académie_française ns1:Amtssprache ns1:Franzoesisch .
+
+ns1:Adam_Ant ns1:Taetigkeit ns1:Buehnenschauspieler .
+
+ns1:Afghanistan ns1:Mitglied_von ns1:Internationale_Fernmeldeunion ;
+    ns1:diplomatische_Beziehung ns1:Iran .
+
+ns1:Akiko_Yano ns1:Taetigkeit ns1:Komponist .
+
+ns1:Al_Jolson ns1:Land_der_Staatsangehoerigkeit ns1:Russisches_Kaiserreich .
+
+ns1:Alberto_Manguel ns1:Taetigkeit ns1:Bibliothekar .
+
+ns1:Alexander_Issajewitsch_Solschenizyn ns1:Genre ns1:Essay ;
+    ns1:Mitglied_von ns1:Russische_Akademie_der_Wissenschaften .
+
+ns1:Alexei_Nikolajewitsch_Tolstoi ns1:gesprochene_oder_publizierte_Sprachen ns1:Russisch .
+
+ns1:Alexei_Wladimirowitsch_Worobjow ns1:Land_der_Staatsangehoerigkeit ns1:Russland .
+
+ns1:Alfred_Einstein ns1:Arbeitgeber ns1:Columbia_University .
+
+ns1:Allen_Ginsberg ns1:Mitglied_von ns1:American_Academy_of_Arts_and_Sciences ;
+    ns1:Sterbeort ns1:New_York_City .
+
+ns1:Amerie ns1:Taetigkeit ns1:Schauspieler .
+
+ns1:Anatoli_Wassiljewitsch_Lunatscharski ns1:Mitglied_von ns1:Akademie_der_Wissenschaften_der_UdSSR ;
+    ns1:Parteizugehoerigkeit ns1:Kommunistische_Partei_der_Sowjetunion .
+
+ns1:Andorra ns1:diplomatische_Beziehung ns1:Europaeische_Union .
+
+ns1:Andrea_Bocelli ns1:Plattenlabel ns1:Universal_Music_Group .
+
+ns1:André_3000 ns1:Bevoelkerungsgruppe ns1:Afroamerikaner .
+
+ns1:André_Malraux ns1:Taetigkeit ns1:Journalist .
+
+ns1:Angela_Merkel ns1:Taetigkeit ns1:Politiker .
+
+ns1:Angola ns1:Kontinent ns1:Afrika ;
+    ns1:diplomatische_Beziehung ns1:Suedafrika .
+
+ns1:Aram_Chatschaturjan ns1:Genre ns1:klassische_Musik .
+
+ns1:Argentinien ns1:diplomatische_Beziehung ns1:Italien .
+
+ns1:Art_Garfunkel ns1:Plattenlabel ns1:Atco-Records .
+
+ns1:Arthur_Miller ns1:Geburtsort ns1:New_York_City .
+
+ns1:Arthur_Schopenhauer ns1:Wohnsitz ns1:Hamburg .
+
+ns1:Athanasius_Kircher ns1:Land_der_Staatsangehoerigkeit ns1:Heiliges_Roemisches_Reich .
+
+ns1:Augustin-Louis_Cauchy ns1:Mitglied_von ns1:American_Academy_of_Arts_and_Sciences .
+
+ns1:Ava_Gardner ns1:Taetigkeit ns1:Model .
+
+ns1:Babyface ns1:Plattenlabel ns1:Island_Records .
+
+ns1:Bahamas ns1:diplomatische_Beziehung ns1:Republik_China .
+
+ns1:Bangladesch ns1:Mitglied_von <http://example.org/African_Union/United_Nations_Hybrid_Operation_in_Darfur> .
+
+ns1:Barbra_Streisand ns1:Taetigkeit ns1:Filmregisseur .
+
+ns1:Barthold_Georg_Niebuhr ns1:Mitglied_von ns1:Koeniglich_Niederlaendische_Akademie_der_Wissenschaften .
+
+ns1:Belgien ns1:Mitglied_von ns1:Internationale_Energieagentur .
+
+ns1:Ben_Moody ns1:Taetigkeit ns1:Gitarrist .
+
+ns1:Ben_Stiller ns1:Taetigkeit ns1:Drehbuchautor .
+
+ns1:Benedetto_Croce ns1:Land_der_Staatsangehoerigkeit ns1:Italien .
+
+ns1:Benjamin_Franklin ns1:Taetigkeit ns1:Schriftsteller,
+        ns1:Wirtschaftswissenschaftler .
+
+ns1:Benoît_Mandelbrot ns1:Mitglied_von ns1:National_Academy_of_Sciences .
+
+ns1:Berry_Gordy ns1:Taetigkeit ns1:Autobiograf .
+
+ns1:Bertrand_Russell ns1:beeinflusst_von ns1:Percy_Bysshe_Shelley .
+
+ns1:Bhimrao_Ramji_Ambedkar ns1:Taetigkeit ns1:Historiker .
+
+ns1:Big_Sean ns1:Genre ns1:Hip-Hop .
+
+ns1:Bill_Haley ns1:Taetigkeit ns1:Komponist .
+
+ns1:Billy_Crystal ns1:Instrument ns1:Stimme ;
+    ns1:Taetigkeit ns1:Filmschauspieler .
+
+ns1:Billy_Joel ns1:Taetigkeit ns1:Pianist .
+
+ns1:Blaise_Pascal ns1:Taetigkeit ns1:Physiker .
+
+ns1:Bob_Dylan ns1:Instrument ns1:Mundharmonika .
+
+ns1:Bobby_Scott ns1:Taetigkeit ns1:Pianist .
+
+ns1:Bolivien ns1:Mitglied_von ns1:Internationale_Fernmeldeunion .
+
+ns1:Brian_Molko ns1:Instrument ns1:Vokalist .
+
+ns1:Brigitte_Bardot ns1:Taetigkeit ns1:Autobiograf .
+
+ns1:Bryan_Ferry ns1:Taetigkeit ns1:Songschreiber .
+
+ns1:Bud_Spencer ns1:Taetigkeit ns1:Filmproduzent .
+
+ns1:Burkina_Faso ns1:Mitglied_von ns1:Internationale_Organisation_der_Frankophonie,
+        ns1:Welthandelsorganisation .
+
+ns1:Busta_Rhymes ns1:Plattenlabel ns1:Republic_Records .
+
+ns1:Carl_Djerassi ns1:Todesursache ns1:Krebs ;
+    ns1:Wohnsitz ns1:Wien .
+
+ns1:Carl_Friedrich_von_Weizsaecker ns1:Mitglied_von ns1:Deutsche_Akademie_der_Naturforscher_Leopoldina .
+
+ns1:Carlos_Fuentes ns1:Land_der_Staatsangehoerigkeit ns1:Mexiko ;
+    ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Carole_King ns1:Taetigkeit ns1:Komponist .
+
+ns1:Charles_Aznavour ns1:Taetigkeit ns1:Filmschauspieler .
+
+ns1:Charles_Rosen ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Charlie_Rich ns1:Instrument ns1:Klavier .
+
+ns1:Cher ns1:Arbeitsgebiet ns1:Musikkomposition .
+
+ns1:Chile ns1:Mitglied_von ns1:Internationales_Zentrum_zur_Beilegung_von_Investitionsstreitigkeiten .
+
+ns1:Chris_Cornell ns1:Taetigkeit ns1:Komponist .
+
+ns1:Chris_Martin ns1:Instrument ns1:Stimme ;
+    ns1:Taetigkeit ns1:Komponist ;
+    ns1:gesprochene_oder_publizierte_Sprachen ns1:Englisch .
+
+ns1:Christa_Wolf ns1:Arbeitsgebiet ns1:Essay .
+
+ns1:Christoph_Wilhelm_Hufeland ns1:Mitglied_von ns1:Russische_Akademie_der_Wissenschaften .
+
+ns1:Claude_Lévi-Strauss ns1:beeinflusst_von ns1:Georg_Wilhelm_Friedrich_Hegel .
+
+ns1:Cliff_Richard ns1:Land_der_Staatsangehoerigkeit ns1:Vereinigtes_Koenigreich .
+
+ns1:Connie_Francis ns1:Instrument ns1:Stimme .
+
+ns1:Costa_Rica ns1:Mitglied_von ns1:Group_on_Earth_Observations ;
+    ns1:diplomatische_Beziehung ns1:Uruguay .
+
+ns1:Cyndi_Lauper ns1:Taetigkeit ns1:Saenger .
+
+ns1:David_Cross ns1:Taetigkeit ns1:Komiker .
+
+ns1:Demokratische_Republik_Kongo ns1:Mitglied_von ns1:Internationale_Finanz-Corporation .
+
+ns1:Dennis_Gábor ns1:Mitglied_von ns1:Royal_Society .
+
+ns1:Dido ns1:Plattenlabel ns1:Arista_Records .
+
+ns1:Dino_Buzzati ns1:Taetigkeit ns1:Journalist .
+
+ns1:Dominikanische_Republik ns1:Mitglied_von ns1:Internationale_Fernmeldeunion .
+
+ns1:Dschibuti ns1:Mitglied_von ns1:UNESCO .
+
+ns1:Duke_Ellington ns1:Todesursache ns1:Bronchialkarzinom .
+
+ns1:Eduard_Suess ns1:Mitglied_von ns1:Royal_Society .
+
+ns1:Enrique_Iglesias ns1:gesprochene_oder_publizierte_Sprachen ns1:Spanisch .
+
+ns1:Eric_Burdon ns1:Genre ns1:Hard_Rock .
+
+ns1:Eric_Idle ns1:Taetigkeit ns1:Schauspieler .
+
+ns1:Erika_Mann ns1:Geschwister ns1:Klaus_Mann .
+
+ns1:Ernst_Mach ns1:Taetigkeit ns1:Professor .
+
+ns1:Ernst_Troeltsch ns1:Taetigkeit ns1:Politiker .
+
+ns1:Estland ns1:diplomatische_Beziehung ns1:Indien .
+
+ns1:Eswatini ns1:diplomatische_Beziehung ns1:Europaeische_Union .
+
+ns1:Eugen_Rosenstock-Huessy ns1:Taetigkeit ns1:Soziologe .
+
+ns1:Eugène-Melchior_de_Vogueé ns1:gesprochene_oder_publizierte_Sprachen ns1:Franzoesisch .
+
+ns1:Faith_Evans ns1:Genre <http://example.org/Contemporary_R&B> .
+
+ns1:Felix_Mendelssohn_Bartholdy ns1:Bevoelkerungsgruppe ns1:Aschkenasim .
+
+ns1:Ferdinand_von_Richthofen ns1:Begraebnisort ns1:Berlin .
+
+ns1:Fergie ns1:Plattenlabel ns1:RCA_Records .
+
+ns1:Frank_Zappa ns1:Taetigkeit ns1:Saenger .
+
+ns1:Frankreich ns1:Mitglied_von ns1:Gruppe_der_zwanzig_wichtigsten_Industrie-_und_Schwellenlaender ;
+    ns1:diplomatische_Beziehung ns1:Republik_Kongo,
+        ns1:Ruanda .
+
+ns1:Franz_Kafka ns1:Land_der_Staatsangehoerigkeit ns1:Tschechoslowakei .
+
+ns1:François-René_de_Chateaubriand ns1:Mitglied_von ns1:Bayerische_Akademie_der_Wissenschaften ;
+    ns1:Taetigkeit ns1:Essayist .
+
+ns1:François_Guizot ns1:Mitglied_von ns1:Koeniglich_Niederlaendische_Akademie_der_Wissenschaften .
+
+ns1:Friedrich_von_Raumer ns1:Taetigkeit ns1:Historiker .
+
+ns1:Fritz_Haber ns1:Todesursache ns1:Herzinfarkt .
+
+ns1:Gabriel_García_Márquez ns1:Taetigkeit ns1:Autor .
+
+ns1:Gabriel_Marcel ns1:beeinflusst_von ns1:Friedrich_Nietzsche .
+
+ns1:Gabun ns1:Mitglied_von ns1:Organisation_fuer_Islamische_Zusammenarbeit .
+
+ns1:Gaspard_Monge ns1:Mitglied_von ns1:Preussische_Akademie_der_Wissenschaften .
+
+ns1:Geddy_Lee ns1:Genre ns1:Hard_Rock .
+
+ns1:Gene_Autry ns1:Taetigkeit ns1:Hoerfunkmoderator .
+
+ns1:Gene_Simmons ns1:Land_der_Staatsangehoerigkeit ns1:Vereinigte_Staaten .
+
+ns1:Geoffrey_Ingram_Taylor ns1:Mitglied_von ns1:Koeniglich_Schwedische_Akademie_der_Wissenschaften .
+
+ns1:George_Harrison ns1:Taetigkeit ns1:Singer-Songwriter .
+
+ns1:George_Soros ns1:Geburtsort ns1:Budapest .
+
+ns1:George_Tabori ns1:Arbeitsgebiet ns1:darstellende_Kunst .
+
+ns1:Georges_Cuvier ns1:Mitglied_von ns1:Deutsche_Akademie_der_Naturforscher_Leopoldina .
+
+ns1:Georgien ns1:diplomatische_Beziehung ns1:Deutschland,
+        ns1:Ghana .
+
+ns1:Gerald_Wilson ns1:Sterbeort ns1:Los_Angeles .
+
+ns1:Giorgio_Gaber ns1:gesprochene_oder_publizierte_Sprachen ns1:Italienisch .
+
+ns1:Glen_Campbell ns1:Genre ns1:Folk-Rock .
+
+ns1:Gloria_Estefan ns1:Land_der_Staatsangehoerigkeit ns1:Vereinigte_Staaten .
+
+ns1:Guenter_Grass ns1:Taetigkeit ns1:Essayist .
+
+ns1:Harold_Bloom ns1:besuchte_Bildungseinrichtung ns1:Yale_University .
+
+ns1:Harry_Chapin ns1:Taetigkeit ns1:Musiker .
+
+ns1:Harry_Nilsson ns1:Genre ns1:Rockmusik .
+
+ns1:Heinrich_Hertz ns1:besuchte_Bildungseinrichtung ns1:Humboldt-Universitaet_zu_Berlin .
+
+ns1:Henry_David_Thoreau ns1:Taetigkeit ns1:Tagebuchschreiber .
+
+ns1:Henry_Kissinger ns1:Taetigkeit ns1:Diplomat .
+
+ns1:Henry_Louis_Gates ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Henry_Rollins ns1:Taetigkeit ns1:Menschenrechtler .
+
+ns1:Henry_Wadsworth_Longfellow ns1:gesprochene_oder_publizierte_Sprachen ns1:Englisch .
+
+ns1:Herbert_Groenemeyer ns1:Plattenlabel ns1:EMI .
+
+ns1:Hermann_Burmeister ns1:Mitglied_von ns1:Deutsche_Akademie_der_Naturforscher_Leopoldina .
+
+ns1:Holly_Johnson ns1:Instrument ns1:Bassgitarre .
+
+ns1:Holly_Near ns1:Taetigkeit ns1:Fernsehschauspieler .
+
+ns1:Howard_Zinn ns1:Taetigkeit ns1:Journalist .
+
+ns1:Ice_Cube ns1:Taetigkeit ns1:Schauspieler .
+
+ns1:Igor_Strawinsky ns1:Plattenlabel ns1:Columbia_Records .
+
+ns1:Ilja_Grigorjewitsch_Ehrenburg ns1:Taetigkeit ns1:Dichter,
+        ns1:Romancier .
+
+ns1:Ingeborg_Bachmann ns1:Taetigkeit ns1:Philosoph .
+
+ns1:Interscope_Records ns1:Genre ns1:Hip-Hop .
+
+ns1:Irak ns1:diplomatische_Beziehung ns1:Kuba .
+
+ns1:Irland ns1:Amtssprache ns1:Englisch ;
+    ns1:Mitglied_von ns1:Australische_Gruppe .
+
+ns1:Isaac_Hayes ns1:Taetigkeit ns1:Sprecher .
+
+ns1:Island ns1:Mitglied_von ns1:Europaeische_Zahlungsunion .
+
+ns1:Iwan_Andrejewitsch_Krylow ns1:Todesursache ns1:Lungenentzuendung .
+
+ns1:J._R._R._Tolkien ns1:Taetigkeit ns1:Linguist .
+
+ns1:J._Rodolfo_Wilcock ns1:Genre ns1:Roman .
+
+ns1:Jaan_Kaplinski ns1:Taetigkeit ns1:Science-Fiction-Schriftsteller .
+
+ns1:Jacob_Grimm ns1:Taetigkeit ns1:Übersetzer .
+
+ns1:Jada_Pinkett_Smith ns1:Genre ns1:Rockmusik .
+
+ns1:Jaden_Smith ns1:Taetigkeit ns1:Schauspieler,
+        ns1:Unternehmer .
+
+ns1:James_Belushi ns1:Taetigkeit ns1:Komiker .
+
+ns1:James_Franco ns1:Arbeitgeber ns1:New_York_University .
+
+ns1:James_Hetfield ns1:gesprochene_oder_publizierte_Sprachen ns1:Englisch .
+
+ns1:James_Maslow ns1:Instrument ns1:Klavier .
+
+ns1:Jan_Rubes ns1:Land_der_Staatsangehoerigkeit ns1:Tschechoslowakei .
+
+ns1:Japan ns1:diplomatische_Beziehung ns1:Suedafrika .
+
+ns1:Jay_Chou ns1:Taetigkeit ns1:Komponist .
+
+ns1:Jean-Paul_Sartre ns1:Geburtsort ns1:Paris .
+
+ns1:Jemaine_Clement ns1:Land_der_Staatsangehoerigkeit ns1:Vereinigte_Staaten .
+
+ns1:Jerry_Reed ns1:Taetigkeit ns1:Gitarrist .
+
+ns1:Jeschajahu_Leibowitz ns1:Taetigkeit ns1:Chemiker .
+
+ns1:Jessica_Simpson ns1:Genre ns1:Popmusik .
+
+ns1:Jewel ns1:Taetigkeit ns1:Komponist .
+
+ns1:Jewgeni_Alexandrowitsch_Jewtuschenko ns1:Taetigkeit ns1:Prosaist .
+
+ns1:Jewgeni_Iwanowitsch_Samjatin ns1:gesprochene_oder_publizierte_Sprachen ns1:Russisch .
+
+ns1:Jim_Morrison ns1:Taetigkeit ns1:Regisseur .
+
+ns1:Jimmy_Buffett ns1:Instrument ns1:Stimme .
+
+ns1:Joe_Walsh ns1:Taetigkeit ns1:Komponist .
+
+ns1:Johann_Georg_Adam_Forster ns1:Taetigkeit ns1:Autobiograf,
+        ns1:Botaniker .
+
+ns1:John_Cameron_Mitchell ns1:Taetigkeit ns1:Fernsehschauspieler .
+
+ns1:John_Dos_Passos ns1:Mitglied_von ns1:American_Academy_of_Arts_and_Letters .
+
+ns1:John_Hartford ns1:Instrument ns1:Stimme .
+
+ns1:John_Muir ns1:Taetigkeit ns1:Forschungsreisender .
+
+ns1:John_Stuart_Mill ns1:Bevoelkerungsgruppe ns1:Englaender ;
+    ns1:Bewegung ns1:Atheismus .
+
+<http://example.org/John_William_Strutt,_3._Baron_Rayleigh> ns1:Mitglied_von ns1:Bayerische_Akademie_der_Wissenschaften .
+
+ns1:John_de_Lancie ns1:Taetigkeit ns1:Musiker .
+
+ns1:Johnny_Hallyday ns1:Taetigkeit ns1:Aufnahmekuenstler .
+
+ns1:Jorge_Amado ns1:beeinflusst_von ns1:Joaquim_Maria_Machado_de_Assis .
+
+ns1:Julian_Klaczko ns1:Taetigkeit ns1:Historiker .
+
+ns1:Julija_Olegowna_Wolkowa ns1:Genre ns1:Pop-Rock .
+
+ns1:Justin_Timberlake ns1:Genre ns1:Popmusik .
+
+ns1:Kanada ns1:diplomatische_Beziehung ns1:Bulgarien,
+        ns1:Grenada,
+        ns1:Griechenland .
+
+ns1:Karl_Mannheim ns1:Arbeitgeber ns1:Ruprecht-Karls-Universitaet_Heidelberg ;
+    ns1:Sterbeort ns1:London .
+
+ns1:Kasachstan ns1:Mitglied_von ns1:Organisation_fuer_das_Verbot_chemischer_Waffen ;
+    ns1:diplomatische_Beziehung ns1:Suedkorea .
+
+ns1:Katerina_Graham ns1:Bevoelkerungsgruppe ns1:Afroamerikaner .
+
+ns1:Katharine_McPhee ns1:Ehepartner\(in\) ns1:David_Foster .
+
+ns1:Kelly_Clarkson ns1:Taetigkeit ns1:Komponist .
+
+ns1:Kenia ns1:diplomatische_Beziehung ns1:Volksrepublik_China .
+
+ns1:Kenny_Rogers ns1:Plattenlabel ns1:Capitol_Records,
+        ns1:RCA_Records .
+
+ns1:Kirgisistan ns1:Mitglied_von ns1:Organisation_fuer_das_Verbot_chemischer_Waffen .
+
+ns1:Kolumbien ns1:Mitglied_von ns1:Internationale_Finanz-Corporation,
+        ns1:Organisation_Amerikanischer_Staaten ;
+    ns1:ist_Teil_von ns1:Hispanoamerika .
+
+ns1:Kornei_Iwanowitsch_Tschukowski ns1:Geburtsort ns1:Sankt_Petersburg ;
+    ns1:gesprochene_oder_publizierte_Sprachen ns1:Russisch .
+
+ns1:Kroatien ns1:diplomatische_Beziehung ns1:Iran,
+        ns1:Saudi-Arabien,
+        ns1:Tuerkei,
+        ns1:Vereinigte_Staaten .
+
+ns1:Kurt_Cobain ns1:Genre ns1:Alternative_Rock ;
+    ns1:Taetigkeit ns1:Tagebuchschreiber .
+
+ns1:Kurt_Vonnegut ns1:Taetigkeit ns1:Journalist .
+
+ns1:La_Toya_Jackson ns1:Geschwister ns1:Jackie_Jackson ;
+    ns1:Taetigkeit ns1:Musiker .
+
+ns1:Laos ns1:diplomatische_Beziehung ns1:Vereinigte_Staaten .
+
+ns1:Larry_David ns1:Taetigkeit ns1:Fernsehschauspieler .
+
+ns1:Lauryn_Hill ns1:Taetigkeit ns1:Musiker .
+
+ns1:Leonard_Cohen ns1:Plattenlabel ns1:Columbia_Records .
+
+ns1:Leonhard_Euler ns1:Taetigkeit ns1:Astronom ;
+    ns1:gesprochene_oder_publizierte_Sprachen ns1:Deutsch .
+
+ns1:Libyen ns1:Mitglied_von ns1:Organisation_fuer_das_Verbot_chemischer_Waffen ;
+    ns1:diplomatische_Beziehung ns1:Vereinigte_Staaten .
+
+ns1:Liechtenstein ns1:Kontinent ns1:Europa .
+
+ns1:Linda_Ronstadt ns1:Instrument ns1:Gitarre .
+
+ns1:Little_Richard ns1:Genre ns1:Rhythm_and_Blues .
+
+ns1:Liv_Ullmann ns1:Taetigkeit ns1:Filmschauspieler .
+
+ns1:Lonnie_Liston_Smith ns1:Instrument ns1:Stimme .
+
+ns1:Louis_Armstrong ns1:Bevoelkerungsgruppe ns1:Afroamerikaner .
+
+ns1:Luis_Alberto_Spinetta ns1:Genre ns1:Psychedelic_Rock .
+
+ns1:Lyman_Frank_Baum ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Madagaskar ns1:Mitglied_von ns1:Internationales_Zentrum_zur_Beilegung_von_Investitionsstreitigkeiten .
+
+ns1:Malawi ns1:Mitglied_von ns1:Interpol .
+
+ns1:Malaysia ns1:diplomatische_Beziehung ns1:Namibia .
+
+ns1:Malediven ns1:Mitglied_von ns1:Internationale_Fernmeldeunion .
+
+ns1:Mali ns1:Mitglied_von ns1:Vereinte_Nationen .
+
+ns1:Malta ns1:Staat ns1:Commonwealth_of_Nations .
+
+ns1:Manfred_Eigen ns1:Mitglied_von ns1:Academia_Europaea,
+        ns1:American_Academy_of_Arts_and_Sciences .
+
+ns1:Margaret_Atwood ns1:beeinflusst_von ns1:Fjodor_Michailowitsch_Dostojewski .
+
+ns1:Maria_Callas ns1:Arbeitgeber ns1:Juilliard_School .
+
+ns1:Marietta_Sergejewna_Schaginjan ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Marilyn_Manson ns1:Genre ns1:Hard_Rock .
+
+ns1:Mark_Wahlberg ns1:Taetigkeit ns1:Saenger .
+
+ns1:Marlene_Dietrich ns1:Land_der_Staatsangehoerigkeit ns1:Weimarer_Republik ;
+    ns1:gesprochene_oder_publizierte_Sprachen ns1:Deutsch .
+
+ns1:Marokko ns1:Mitglied_von ns1:UNESCO .
+
+ns1:Marshallinseln ns1:Mitglied_von ns1:AKP-Gruppe .
+
+ns1:Martin_Buber ns1:Land_der_Staatsangehoerigkeit ns1:Weimarer_Republik ;
+    ns1:gesprochene_oder_publizierte_Sprachen ns1:Deutsch .
+
+ns1:Mary_J._Blige ns1:Bevoelkerungsgruppe ns1:Afroamerikaner .
+
+ns1:Mary_Shelley ns1:Genre ns1:Kurzgeschichte ;
+    ns1:Taetigkeit ns1:Science-Fiction-Schriftsteller .
+
+ns1:Massimo_Bontempelli ns1:Sterbeort ns1:Rom .
+
+ns1:Maureen_Tucker ns1:Taetigkeit ns1:Musiker .
+
+ns1:Maxim_Gorki ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Maya_Angelou ns1:Taetigkeit ns1:Romancier .
+
+ns1:Melanie_Brown ns1:gesprochene_oder_publizierte_Sprachen ns1:Englisch .
+
+ns1:Melissa_Auf_der_Maur ns1:Taetigkeit ns1:Schauspieler .
+
+ns1:Michael_Bublé ns1:Plattenlabel ns1:Reprise_Records ;
+    ns1:Taetigkeit ns1:Fernsehschauspieler .
+
+ns1:Michael_James_Lighthill ns1:Arbeitgeber ns1:University_of_Cambridge .
+
+ns1:Michail_Alexandrowitsch_Scholochow ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Miguel_de_Unamuno ns1:Taetigkeit ns1:Essayist .
+
+ns1:Mike_Myers ns1:Taetigkeit ns1:Filmregisseur .
+
+ns1:Milla_Jovovich ns1:Taetigkeit ns1:Saenger .
+
+ns1:Miranda_Cosgrove ns1:Instrument ns1:Gitarre .
+
+ns1:Missy_Elliott ns1:Taetigkeit ns1:Filmschauspieler,
+        ns1:Saenger .
+
+ns1:Montenegro ns1:diplomatische_Beziehung ns1:Kosovo .
+
+ns1:Nauru ns1:Amtssprache ns1:Englisch .
+
+ns1:Neil_Young ns1:Taetigkeit ns1:Musikproduzent .
+
+ns1:Nena ns1:Land_der_Staatsangehoerigkeit ns1:Deutschland .
+
+ns1:Nicaragua ns1:Kontinent ns1:Nordamerika ;
+    ns1:Mitglied_von ns1:Internationale_Fernmeldeunion .
+
+ns1:Nick_Jonas ns2:in ns1:Miley_Cyrus .
+
+ns1:Niger ns1:Mitglied_von ns1:Internationale_Organisation_der_Frankophonie .
+
+ns1:Nigeria ns1:Mitglied_von ns1:Internationale_Bank_fuer_Wiederaufbau_und_Entwicklung .
+
+ns1:Nikolai_Wassiljewitsch_Gogol ns1:Taetigkeit ns1:Autor .
+
+ns1:Noam_Chomsky ns1:Taetigkeit ns1:Linguist .
+
+ns1:Nordkorea ns1:diplomatische_Beziehung ns1:Guinea-Bissau,
+        ns1:Namibia,
+        ns1:Norwegen,
+        ns1:Volksrepublik_China .
+
+ns1:Norman_Mailer ns1:beeinflusst_von ns1:George_Eliot .
+
+ns1:Norman_Wisdom ns1:Taetigkeit ns1:Musiker .
+
+ns1:Oprah_Winfrey ns1:Land_der_Staatsangehoerigkeit ns1:Vereinigte_Staaten ;
+    ns1:Taetigkeit ns1:Fernsehproduzent ;
+    ns1:Wohnsitz ns1:Nashville .
+
+ns1:Oscar_Wilde ns1:gesprochene_oder_publizierte_Sprachen ns1:Englisch .
+
+ns1:Palau ns1:Mitglied_von ns1:Organisation_fuer_das_Verbot_chemischer_Waffen .
+
+ns1:Paraguay ns1:Mitglied_von ns1:Group_on_Earth_Observations,
+        ns1:Internationale_Bank_fuer_Wiederaufbau_und_Entwicklung .
+
+ns1:Patti_Smith ns1:Arbeitsgebiet ns1:darstellende_Kunst .
+
+ns1:Paula_Abdul ns1:Plattenlabel ns1:Virgin_Records .
+
+ns1:Penny_Marshall ns1:gesprochene_oder_publizierte_Sprachen ns1:Englisch .
+
+ns1:Peter_Debye ns1:Arbeitgeber ns1:Cornell_University,
+        ns1:Georg-August-Universitaet_Goettingen .
+
+ns1:Peter_Tork ns1:Instrument ns1:Banjo .
+
+ns1:Phil_Collins ns1:Taetigkeit ns1:Gitarrist .
+
+ns1:Philip_Roth ns1:beeinflusst_von ns1:John_Updike,
+        ns1:Joseph_Conrad .
+
+ns1:Philippinen ns1:Mitglied_von ns1:Asiatische_Entwicklungsbank .
+
+ns1:Portugal ns1:diplomatische_Beziehung ns1:Indonesien .
+
+ns1:Rabindranath_Thakur ns1:besuchte_Bildungseinrichtung ns1:University_College_London ;
+    ns1:gesprochene_oder_publizierte_Sprachen ns1:Englisch .
+
+ns1:Rainer_Werner_Fassbinder ns1:Sterbeort ns1:Muenchen .
+
+ns1:Ralf_Dahrendorf ns1:Mitglied_von ns1:American_Academy_of_Arts_and_Sciences .
+
+ns1:Raven-Symoné_Pearman ns1:Instrument ns1:Stimme .
+
+ns1:Ray_Charles ns1:gesprochene_oder_publizierte_Sprachen ns1:Englisch .
+
+ns1:Republik_Zypern ns1:diplomatische_Beziehung ns1:Polen .
+
+ns1:Ric_Ocasek ns1:Genre ns1:Popmusik .
+
+ns1:Richard_Harris ns1:Taetigkeit ns1:Singer-Songwriter .
+
+ns1:Richard_Marx ns1:Geburtsort ns1:Chicago .
+
+ns1:Richard_Sennett ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Richard_Wagner ns1:Taetigkeit ns1:Buehnenregisseur .
+
+ns1:Rick_Rubin ns1:Plattenlabel ns1:Epic_Records .
+
+ns1:Rick_Wakeman ns1:Taetigkeit ns1:Songschreiber .
+
+ns1:Ricky_Martin ns1:Instrument ns1:Stimme .
+
+ns1:Rob_Zombie ns1:Plattenlabel ns1:Geffen_Records ;
+    ns1:Taetigkeit ns1:Singer-Songwriter .
+
+ns1:Robert_Musil ns1:Taetigkeit ns1:Autor .
+
+ns1:Robert_Oppenheimer ns1:Arbeitgeber ns1:University_of_Cambridge ;
+    ns1:Bevoelkerungsgruppe ns1:Juden .
+
+ns1:Roger_Penrose ns1:Taetigkeit ns1:Physiker .
+
+ns1:Roger_Waters ns1:Instrument ns1:Bassgitarre .
+
+ns1:Ronald_Reagan ns1:Land_der_Staatsangehoerigkeit ns1:Vereinigte_Staaten .
+
+ns1:Roy_Clark ns1:Taetigkeit ns1:Schauspieler .
+
+ns1:Russell_Brand ns1:Taetigkeit ns1:Dichter,
+        ns1:Drehbuchautor,
+        ns1:Filmproduzent .
+
+ns1:Salvador_de_Madariaga ns1:besuchte_Bildungseinrichtung ns1:École_polytechnique .
+
+ns1:Samuel_Johnson ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Saul_Bellow ns1:beeinflusst_von ns1:Joseph_Conrad,
+        ns1:Stendhal .
+
+ns1:Schores_Iwanowitsch_Alfjorow ns1:Parteizugehoerigkeit ns1:Kommunistische_Partei_der_Sowjetunion .
+
+ns1:Schweden ns1:diplomatische_Beziehung ns1:Australien .
+
+ns1:Schweiz ns1:Mitglied_von ns1:European_Organisation_for_the_Safety_of_Air_Navigation,
+        ns1:Organisation_fuer_das_Verbot_chemischer_Waffen .
+
+ns1:Semfira ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Senegal ns1:diplomatische_Beziehung ns1:Deutschland .
+
+ns1:Serge_Gainsbourg ns1:Taetigkeit ns1:Filmkomponist .
+
+ns1:Shel_Silverstein ns1:gesprochene_oder_publizierte_Sprachen ns1:Englisch .
+
+ns1:Sheryl_Crow ns1:Taetigkeit ns1:Pianist .
+
+ns1:Sidney_Poitier ns1:Mitglied_von ns1:American_Academy_of_Arts_and_Sciences .
+
+ns1:Sierra_Leone ns1:Mitglied_von ns1:Afrikanische_Union .
+
+ns1:Simon_Sechter ns1:Sterbeort ns1:Wien .
+
+ns1:Slowenien ns1:diplomatische_Beziehung ns1:Nordmazedonien .
+
+ns1:Sofja_Wassiljewna_Kowalewskaja ns1:Todesursache ns1:Lungenentzuendung .
+
+ns1:Soulja_Boy ns1:Geburtsort ns1:Chicago .
+
+ns1:Spanien ns1:diplomatische_Beziehung ns1:Ungarn .
+
+ns1:St._Lucia ns1:Mitglied_von ns1:Interpol .
+
+ns1:Staat_Palaestina ns1:diplomatische_Beziehung ns1:Republik_China .
+
+ns1:Stanisław_Lem ns1:Genre ns1:Philosophie .
+
+ns1:Suedsudan ns1:Mitglied_von ns1:UNESCO .
+
+ns1:Syd_Barrett ns1:Instrument ns1:Stimme .
+
+ns1:Tadschikistan ns1:Mitglied_von ns1:Weltpostverein .
+
+ns1:Tamer_Hosny ns1:Taetigkeit ns1:Pianist .
+
+ns1:Taylor_Swift ns1:Instrument ns1:Gitarre .
+
+ns1:Teena_Marie ns1:Land_der_Staatsangehoerigkeit ns1:Vereinigte_Staaten .
+
+ns1:Theodosius_Dobzhansky ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Thomas_Henry_Huxley ns1:Land_der_Staatsangehoerigkeit ns1:Vereinigtes_Koenigreich_Grossbritannien_und_Irland .
+
+ns1:Thomas_Young ns1:Mitglied_von ns1:Académie_des_sciences ;
+    ns1:Taetigkeit ns1:Anthropologe .
+
+ns1:Tila_Tequila ns1:Taetigkeit ns1:Moderator .
+
+ns1:Timbaland ns1:Genre ns1:Alternative_Rock .
+
+ns1:Tinashe_Kachingwe ns1:Taetigkeit ns1:Taenzer .
+
+ns1:Todd_Rundgren ns1:Taetigkeit ns1:Saenger .
+
+ns1:Tom_Hanks ns1:Taetigkeit ns1:Schauspieler .
+
+ns1:Tom_Wolfe ns1:beeinflusst_von ns1:Charles_Dickens .
+
+ns1:Trey_Parker ns1:Taetigkeit ns1:Saenger .
+
+ns1:Trinidad_und_Tobago ns1:Mitglied_von ns1:Internationales_Zentrum_zur_Beilegung_von_Investitionsstreitigkeiten ;
+    ns1:diplomatische_Beziehung ns1:Vereinigtes_Koenigreich .
+
+ns1:Tristan_Tzara ns1:Taetigkeit ns1:Diplomat .
+
+ns1:Truman_Capote ns1:Taetigkeit ns1:Romancier .
+
+ns1:Ukraine ns1:diplomatische_Beziehung ns1:Aserbaidschan .
+
+ns1:Ulrich_von_Wilamowitz-Moellendorff ns1:Taetigkeit ns1:Politiker .
+
+ns1:Vanessa_Carlton ns1:Plattenlabel <http://example.org/A&M_Records> .
+
+ns1:Vanessa_Hudgens ns1:Genre ns1:Tanzmusik .
+
+ns1:Vanuatu ns1:Mitglied_von ns1:Internationale_Fernmeldeunion .
+
+ns1:Vereinigte_Arabische_Emirate ns1:Mitglied_von ns1:Internationale_Finanz-Corporation ;
+    ns1:diplomatische_Beziehung ns1:Saudi-Arabien,
+        ns1:Volksrepublik_China .
+
+ns1:Verka_Serduchka ns1:Genre ns1:Folk-Rock ;
+    ns1:Instrument ns1:Stimme .
+
+ns1:Vietnam ns1:diplomatische_Beziehung ns1:Daenemark .
+
+ns1:Virginia_Woolf ns1:Taetigkeit ns1:Essayist .
+
+ns1:W._H._Auden ns1:Taetigkeit ns1:Hochschullehrer ;
+    ns1:beeinflusst_von ns1:T._S._Eliot .
+
+ns1:Waleri_Schotajewitsch_Meladse ns1:Land_der_Staatsangehoerigkeit ns1:Russland .
+
+ns1:Wang_Leehom ns1:Land_der_Staatsangehoerigkeit ns1:Vereinigte_Staaten ;
+    ns1:Taetigkeit ns1:Musikproduzent .
+
+ns1:Weissrussland ns1:diplomatische_Beziehung ns1:Algerien,
+        ns1:Daenemark,
+        ns1:Tschechien .
+
+ns1:Weniamin_Borissowitsch_Smechow ns1:Taetigkeit ns1:Schauspieler .
+
+ns1:Wilhelm_Grimm ns1:Taetigkeit ns1:Bibliothekar .
+
+ns1:Wilhelm_Wundt ns1:beeinflusst_von ns1:Gottfried_Wilhelm_Leibniz .
+
+ns1:Wilhelm_von_Humboldt ns1:Mitglied_von ns1:Bayerische_Akademie_der_Wissenschaften ;
+    ns1:Taetigkeit ns1:Lehrer .
+
+ns1:William_Dean_Howells ns1:Land_der_Staatsangehoerigkeit ns1:Vereinigte_Staaten .
+
+ns1:William_Styron ns1:beeinflusst_von ns1:James_Joyce .
+
+ns1:Wladimir_Iljitsch_Lenin ns1:Taetigkeit ns1:Schriftsteller .
+
+ns1:Wolfgang_Amadeus_Mozart ns1:Taetigkeit ns1:Musikpaedagoge .
+
+ns1:Woody_Allen ns1:Taetigkeit ns1:Jazzmusiker .
+
+ns1:Woody_Guthrie ns1:Instrument ns1:Mundharmonika .
+
+ns1:Yoko_Ono ns1:Plattenlabel ns1:Polydor .
+
+ns1:Zentralafrikanische_Republik ns1:Mitglied_von ns1:Welthandelsorganisation ;
+    ns1:diplomatische_Beziehung ns1:Sudan .
+
+ns1:will.i.am ns1:Taetigkeit ns1:Filmproduzent,
+        ns1:Geschaeftsmann .
+
+ns1:Österreich ns1:diplomatische_Beziehung ns1:Deutschland,
+        ns1:Russland .
+
+ns1:Üzeyir_Hacıbəyov ns1:Religionszugehoerigkeit ns1:Islam .
+
+ns1:Ľudovít_Štúr ns1:gesprochene_oder_publizierte_Sprachen ns1:Polnisch .
+
+<Q1029> <P530> <Q865> .
+
+<Q131333> <P140> <Q7066> .
+
+<Q1744> <P101> <Q207628> .
+
+<Q20> <P463> <Q42262> .
+
+<Q219> <P463> <Q656801> ;
+    <P530> <Q711> .
+
+<Q227> <P463> <Q188822> .
+
+<Q28> <P463> <Q376150> ;
+    <P530> <Q837> .
+
+<Q32> <P463> <Q41550> .
+
+<Q37> <P530> <Q218> .
+
+<Q37767> <P463> <Q338432> .
+
+<Q398> <P463> <Q656801> ;
+    <P530> <Q843> .
+
+<Q408> <P530> <Q712> .
+
+<Q4235> <P737> <Q1744> .
+
+<Q424> <P530> <Q843> .
+
+<Q55> <P463> <Q1969730> .
+
+<Q5686> <P140> <Q6423963> .
+
+<Q6882> <P140> <Q1841> .
+
+<Q712> <P463> <Q656801> .
+
+<Q77> <P530> <Q213> .
+
+<Q77112> <P106> <Q177220> ;
+    <P136> <Q9730> .
+
+<Q79> <P530> <Q43>,
+        <Q858> .
+
+<Q801> <P463> <Q7809> .
+
+<Q854> <P530> <Q159583> .
+
+<Q884> <P463> <Q384535>,
+        <Q782942> ;
+    <P530> <Q252>,
+        <Q79> .
+
+<Q9047> <P69> <Q154561> .
+
+<Q983> <P463> <Q2029901> ;
+    <P530> <Q159> .
+
+ns1:Aserbaidschan ns1:Mitglied_von ns1:Asiatische_Entwicklungsbank .
+
+ns1:Australien ns1:diplomatische_Beziehung ns1:Fidschi .
+
+ns1:Bahrain ns1:Mitglied_von ns1:Internationale_Finanz-Corporation ;
+    ns1:diplomatische_Beziehung ns1:Pakistan .
+
+ns1:Bulgarien ns1:Mitglied_von ns1:Internationale_Finanz-Corporation ;
+    ns1:diplomatische_Beziehung ns1:Mongolei .
+
+ns1:Charles_Dickens ns1:Religionszugehoerigkeit ns1:Anglikanismus .
+
+ns1:David_Foster ns1:Genre ns1:klassische_Musik ;
+    ns1:Taetigkeit ns1:Saenger .
+
+ns1:Fidschi ns1:Mitglied_von ns1:Internationale_Finanz-Corporation .
+
+ns1:George_Eliot ns1:Religionszugehoerigkeit ns1:Atheismus .
+
+ns1:Gottfried_Wilhelm_Leibniz ns1:besuchte_Bildungseinrichtung ns1:Friedrich-Schiller-Universitaet_Jena .
+
+ns1:Israel ns1:Mitglied_von ns1:UNESCO .
+
+ns1:James_Joyce ns1:Religionszugehoerigkeit ns1:Katholizismus .
+
+ns1:Kambodscha ns1:diplomatische_Beziehung ns1:Pakistan .
+
+ns1:Litauen ns1:diplomatische_Beziehung ns1:Rumaenien .
+
+ns1:Luxemburg ns1:Mitglied_von ns1:OECD .
+
+ns1:Madonna ns1:Arbeitsgebiet ns1:Musikkomposition .
+
+ns1:Miley_Cyrus ns1:beeinflusst_von ns1:Madonna .
+
+ns1:Mosambik ns1:diplomatische_Beziehung ns1:Republik_China .
+
+ns1:Niederlande ns1:Mitglied_von ns1:Schengen-Raum .
+
+ns1:Norwegen ns1:Mitglied_von ns1:Europaeische_Weltraumorganisation .
+
+ns1:Sri_Lanka ns1:diplomatische_Beziehung ns1:Heiliger_Stuhl .
+
+ns1:Suedkorea ns1:Mitglied_von <http://example.org/African_Union/United_Nations_Hybrid_Operation_in_Darfur>,
+        ns1:Australische_Gruppe ;
+    ns1:diplomatische_Beziehung ns1:Indonesien,
+        ns1:Ägypten .
+
+ns1:T._S._Eliot ns1:Mitglied_von ns1:Accademia_Nazionale_dei_Lincei .
+
+ns1:Ungarn ns1:Mitglied_von ns1:Internationale_Fernmeldeunion ;
+    ns1:diplomatische_Beziehung ns1:Nepal .
+
+ns1:Uruguay ns1:diplomatische_Beziehung ns1:Tschechien .
+
+ns1:Ägypten ns1:diplomatische_Beziehung ns1:Syrien,
+        ns1:Tuerkei .
+
+ns1:Äquatorialguinea ns1:Mitglied_von <http://example.org/Organisation_pour_l’harmonisation_en_Afrique_du_droit_des_affaires> ;
+    ns1:diplomatische_Beziehung ns1:Russland .
+
+<Q1030> <P530> <Q668> .
+
+<Q145> <P530> <Q398>,
+        <Q96> .
+
+<Q213> <P530> <Q801> .
+
+<Q258> <P530> <Q1029>,
+        <Q155>,
+        <Q843>,
+        <Q963> .
+
+<Q38> <P463> <Q1377612> .
+
+<Q41304> <P30> <Q46> .
+
+<Q668> <P530> <Q1037>,
+        <Q424> .
+
+<Q96> <P530> <Q55> .
+
+ns1:Indien ns1:diplomatische_Beziehung ns1:Kambodscha,
+        ns1:Ruanda .
+
+ns1:Italien ns1:Mitglied_von ns1:Europaeische_Zahlungsunion .
+
+ns1:Mexiko ns1:diplomatische_Beziehung ns1:Niederlande .
+
+ns1:Namibia ns1:diplomatische_Beziehung ns1:Indien .
+
+ns1:Suedafrika ns1:diplomatische_Beziehung ns1:Botswana,
+        ns1:Brasilien,
+        ns1:Mosambik,
+        ns1:Pakistan .
+
+ns1:Tschechien ns1:diplomatische_Beziehung ns1:Israel .
+
+ns1:Vereinigtes_Koenigreich ns1:diplomatische_Beziehung ns1:Bahrain,
+        ns1:Mexiko .
+
+ns1:Weimarer_Republik ns1:Kontinent ns1:Europa .
+
+<Q148> <P463> <Q376150> ;
+    <P530> <Q252>,
+        <Q32>,
+        <Q37>,
+        <Q983> .
+
+<Q794> <P463> <Q5611262> .
+
+<Q843> <P530> <Q1049>,
+        <Q403>,
+        <Q458> .
+
+<Q865> <P530> <Q691>,
+        <Q971> .
+
+ns1:Iran ns1:Mitglied_von ns1:Group_on_Earth_Observations .
+
+ns1:Pakistan ns1:diplomatische_Beziehung ns1:Europaeische_Union,
+        ns1:Serbien,
+        ns1:Sudan .
+
+ns1:Republik_China ns1:diplomatische_Beziehung ns1:Papua-Neuguinea,
+        ns1:Republik_Kongo .
+
+ns1:Volksrepublik_China ns1:Mitglied_von ns1:Internationale_Fernmeldeunion ;
+    ns1:diplomatische_Beziehung ns1:Indonesien,
+        ns1:Litauen,
+        ns1:Luxemburg,
+        ns1:Äquatorialguinea .
+
+<Q159> <P530> <Q159583>,
+        <Q736>,
+        <Q854> .
+
+<Q183> <P530> <Q794> .
+
+ns1:Deutschland ns1:diplomatische_Beziehung ns1:Iran .
+
+ns1:Russland ns1:diplomatische_Beziehung ns1:Ecuador,
+        ns1:Heiliger_Stuhl,
+        ns1:Sri_Lanka .
+
+<Q30> <P530> <Q211>,
+        <Q262> .
+
+ns1:Vereinigte_Staaten ns1:diplomatische_Beziehung ns1:Algerien,
+        ns1:Lettland .
+

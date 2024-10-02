@@ -1,0 +1,2241 @@
+ID,label,description
+Q28640,Beruf,"systematisch erlernte, dauerhaft gegen Entgelt ausgeübte spezialisierte Betätigung eines Menschen"
+Q483501,Künstler,"kreativ tätige Menschen, die Kunstwerke schaffen"
+Q4220920,Filmberuf,"Person, die in der Filmbranche arbeitet"
+Q33999,Schauspieler,"darstellender Künstler der mit Sprache, Mimik und Gestik eine Rolle verkörpert"
+Q702269,Profi,übt im Gegensatz zum Amateur eine Tätigkeit beruflich aus
+Q7390,menschliche Stimme,durch die Stimmlippen eines Menschen erzeugter und durch andere Organe modulierter Schall
+Q34379,Musikinstrument,"Gegenstand, der mit dem Ziel konstruiert oder verändert wurde, Musik zu erzeugen"
+Q3918,Universität,Hochschule mit Promotionsrecht
+Q45400320,Open-Access-Herausgeber,freier Zugang zu wissenschaftlicher Literatur und anderen Materialien im Internet
+Q713200,Artist,darstellender Künstler
+Q5716684,Tänzer,Beruf
+Q12737077,Beschäftigung,"Etikett, das einer Person aufgrund einer Aktivität zugewiesen wird, an der sie teilnehmen"
+Q205375,Erfinder,"Person, die durch eigene schöpferische Leistung eine zuvor nicht bekannte Lösung im Bereich der Technik hervorbringt"
+Q189533,akademischer Grad,"zertifizierter Hochschulabschluss, vergleichende Übersicht"
+Q327055,Erwerbstätiger,"Mensch, der einer Erwerbstätigkeit nachgeht"
+Q81096,Ingenieur,Berufsbezeichnung für wissenschaftlich ausgebildete Fachleute auf technischem Gebiet
+Q2500638,Urheber,"Verursacher, bzw. menschlicher Schöpfer eines Werks"
+Q864503,Biologe,"Naturwissenschaftler, die sich mit biologischen Themen befassen"
+Q350979,Zoologe,jemand der Zoologie als Wissenschaft betreibt
+Q431,Zoologie,"Disziplin der Biologie, deren Forschungsgegenstand Lebewesen sind"
+Q33742,natürliche Sprache,"Sprache, die natürlicherweise von Menschen gesprochen wird und nicht konstruiert ist"
+Q34770,Einzelsprache,"vom Menschen verwendete Sprache, die ihren Sprechern ein vollständiges und abgeschlossenes Zeichen­system in Form von Sprachlauten oder Sprachgebärden zur Kommunikation bietet"
+Q1346342,englische Sprachen,Sprachfamilie
+Q951873,Ethnolekt,Sammelbegriff für sprachliche Varianten bzw. Sprechstile
+Q1860,Englisch,westgermanische Sprache
+Q1798603,Saiteninstrument,"Musikinstrument, das zur Tonerzeugung eine oder mehrere gespannte Saiten verwendet"
+Q52954,Tasteninstrument,"Musikinstrument, bei welchem der Ton durch Anschlagen einer oder mehrerer Tasten auf einer Klaviatur indirekt erzeugt wird"
+Q864380,Biograph,"Person, die Biographien schreibt"
+Q1278335,Instrumentalmusiker,"Person, die ein Musikinstrument spielt"
+Q177220,Sänger,"Person, die vor Publikum singt"
+Q753110,Songschreiber,"Person, die Songs verfasst"
+Q36834,Komponist,"Person, die Musikstücke komponiert"
+Q128124,Toningenieur,für Tonaufnahmen und ihre Wiedergabe verantwortlicher Techniker
+Q639669,Musiker,"Person, die Musik komponiert oder interpretiert"
+Q13235160,Produzent,"Person, die Waren oder Dinge herstellt"
+Q188451,Musikgenre,"Kategorie, die Musik nach bestimmten Merkmalen gruppiert"
+Q9778,elektronische Musik,"Musik, die elektronisch hergestellt und mit Lautsprechern wiedergegeben wird"
+Q37073,Popmusik,Musikform
+Q187760,New Wave,Musikstil
+Q373342,populäre Musik,Musikgenres mit hoher Reichweite
+Q638,Musik,organisierte Form von Schallereignissen
+Q11399,Rockmusik,Musikstil
+Q41710,Ethnie,"Gruppe von Menschen, denen eine kollektive Identität oder Abstammung zugesprochen wird"
+Q7278,politische Partei,organisierter Zusammenschluss von Menschen zu einem politischen Verband
+Q43229,Organisation,soziale Struktur mit einem gemeinsamen Ziel
+Q1254773,Instrumentenfamilie,Gruppe von Musikinstrumenten
+Q8434,Ausbildung,Vermittlung von Fertigkeiten und Wissen
+Q36180,Schriftsteller,"Person, die literarische Texte verfasst"
+Q28771895,Liedkomponist,"Komponist, der die Musik zu Liedern schreibt"
+Q4164871,Position,"Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
+Q43845,Geschäftsmann,"Person, die Geschäfte tätigt, um Gewinn zu erwirtschaften"
+Q131524,Unternehmer,Leiter eines Wirtschaftsunternehmens
+Q3455803,Regisseur,"Person, die Werke der darstellenden Kunst inszeniert"
+Q482980,Autor,Verfasser oder geistige Urheber eines sprachlichen Werkes
+Q47541952,Produzent,Medien- und Unterhaltungsberuf
+Q879146,Denomination,"Glaubensgemeinschaft mit eigenem Namen, eigener Tradition und spezieller Prägung"
+Q3586152,Episkopalkirche,Konfessionsbezeichnung innerhalb der christlichen Ökumene
+Q902104,Privatuniversität,private Hochschule mit dem Rang einer Universität
+Q49447,Weltanschauung,philosophische oder theologische Denkmodelle
+Q9174,Religion,Glaube mit metaphysischem oder transzendentem Inhalt
+Q6607,Gitarre,Musikinstrument
+Q810447,Bass,Instrument
+Q31629,Sportart,Teilgebiet des Sports
+Q42486,Ringen,Kampf- und Kraftsport mit Ganzkörpereinsatz ohne weitere Hilfsmittel
+Q184485,darstellende Kunst,Kunstgattung
+Q7128792,Kampfsport,Kämpfen als Sport
+Q3301053,City and County,Verwaltungseinheit der Vereinigten Staaten (Stadt und Landkreis zugleich)
+Q13590141,Moderator,"Person, die ein Gespräch lenkt oder in einer Kommunikation vermittelt"
+Q44508716,Fernsehpersönlichkeit,"Person, die der Öffentlichkeit in erster Linie durch ihre Auftritte in Fernsehsendungen bekannt ist"
+Q138858,Unterhaltungskünstler,"Person, die ein Publikum unterhält"
+Q2066131,Sportler,"Person, die regelmäßig eine oder mehrere Sportarten betreibt"
+Q15987302,juristischer Beruf,"Berufe, die Gesetze entwickeln, studieren, anwenden oder interpretieren"
+Q185351,Jurist,"Akademiker, der ein Studium der Rechtswissenschaft abgeschlossen hat (kein geschützter Begriff)"
+Q34651,Kirche,soziale Organisationsform christlicher Religion
+Q13414953,Konfession,"Untergruppe innerhalb einer Religion, die sich in Lehre, Organisation oder Praxis von anderen Untergruppen unterscheidet"
+Q52040,hochdeutsche Dialekte,Sprachfamilie
+Q11822042,Verkehrsunfall,Unfall im Transportwesen
+Q18536342,Spieler,Teilnehmer eines sportlichen Wettbewerbs
+Q1081491,Football,Ballsportart
+Q901,Wissenschaftler,"Person mit wissenschaftlicher Ausbildung, die sich mit Wissenschaft beschäftigt"
+Q35657,Bundesstaat der Vereinigten Staaten,Gliedstaat der USA
+Q37351,Langues d’oïl,romanische Sprache in Nordfrankreich und Belgien
+Q6266,Nation,"Kollektive von Menschen, denen gemeinsame kulturelle Merkmale zugeschrieben werden"
+Q2472587,Volk,"Gruppen von Menschen, die aufgrund bestimmter kultureller Gemeinsamkeiten und enger Beziehungen verbunden sind"
+Q11197007,ethnisch-religiöse Gruppe,"Gruppe von Menschen, die eine Ethnie und eine Religion bilden."
+Q57735705,Person im Rechtswesen,"Person, definiert im Rechtswesen einer Gemeinschaft"
+Q5322166,Designer,Beruf
+Q242468,Schneider,Handwerker für die Herstellung von Kleidung und Textilien
+Q12136,Krankheit,"Störung der Funktion eines Organs, der Psyche oder des gesamten Organismus"
+Q1931388,Todesursache,Ursache für den Eintritt des Sterbevorgangs und des Todes
+Q188151,Ischämie,"Krankheit, Minderdurchblutung"
+Q844935,koronare Herzkrankheit,Krankheit
+Q183888,Softwareentwickler,"Person, die an der Erstellung von Software mitwirkt"
+Q38723,Hochschule,"Ort der postsekundären Bildung (z. B. Universitäten, berufsbildende Universitäten, Volkshochschulen, Kunsthochschulen der Freien Künste, Institute für Technologie und andere)"
+Q4671277,akademische Einrichtung,akademische Einrichtung für Lehre und Forschung
+Q11974939,Gesundheitsfachmann,"Person, die sich mit der Behandlung von Krankheiten und Behinderungen auseinandersetzt"
+Q3332438,Facharzt,Arzt mit einer anerkannten Weiterbildung auf einem medizinischen Fachgebiet
+Q212238,Beamter,Person im öffentlichen Dienst
+Q373021,Luftfahrtpersonal,"Personen, die an der bemannten Luftfahrt aktiv, gewerblich oder privat, mitwirken"
+Q23640580,Fahrzeugführer,Führer eines Fahrzeugs
+Q1188663,Colonial Colleges,Kolonialschulen in den Gründungsstaaten der USA
+Q15127012,Town in den Vereinigten Staaten,Verwaltungseinheit in den USA
+Q1058914,Softwareunternehmen,Unternehmen das Software entwickelt
+Q4830453,Geschäftsbetrieb,gewerbliche oder kaufmännische Geschäftseinheit
+Q6881511,Unternehmen,wirtschaftlich selbständige Organisationseinheit
+Q955824,Gelehrtengesellschaft,Zusammenschluss wissenschaftlich gebildeter Personen zur Förderung einer akademischen Disziplin
+Q2057971,Erkrankung,Abweichung vom physiologischen Zustand
+Q23540,Protestantismus,christliche Konfession
+Q5043,Christentum,Weltreligion
+Q15319501,Sozialwissenschaftler,"Akademiker, der im Bereich der Sozialwissenschaften tätig ist"
+Q875538,staatliche Universität,staatlich finanzierte Hochschule
+Q1549591,Großstadt,Stadt mit mindestens 100.000 Einwohnern
+Q5123999,Stadt mit Oblast-Bedeutung,Verwaltungseinheit der Ukraine
+Q144713,ostslawische Sprachen,Sprachfamilie
+Q101849,Calvinismus,theologische Bewegung des französischen Reformators aus Genf Johannes Calvin
+Q15980158,Sachbuchautor,"Autor, der Sachbücher verfasst"
+Q37226,Lehrer,"Person, deren Aufgabe es ist, Menschen beim Erwerb von Wissen, Kompetenzen und Werten zu assestieren"
+Q3400985,Akademiker,"Person, die als Lehrer oder Forscher an einer Universität arbeitet"
+Q41835716,akademischer Angestellter,an einer Fakultät Unterrichtender
+Q877517,Ball- und Kugelsportart,"Sammelbegriff für Sportarten, die mit einem Ball oder einer Kugel gespielt werden"
+Q2426135,Rückschlagspiel,Ballsportvariante
+Q15243209,historisches Gebiet,denkmalgeschütztes Gebiet
+Q156631,ugrische Sprachen,Sprachfamilie
+Q11422631,UN-Depotbibliothek,von den Vereinten Nationen anerkannte Bibliothek
+Q891723,börsennotiertes Unternehmen,"privatrechtliches Unternehmen, dessen Unternehmensanteile börsennotiert sind"
+Q31855,Forschungseinrichtung,"soziale Einheit, die Forschungsprojekte oder Forschungsprogramme durchführt"
+Q45199,Seemann,"Person, die ihren Arbeitsplatz auf Schiffen hat"
+Q61065,Wassersport,in oder auf dem Wasser ausgetragene Sportarten
+Q192520,Segeln,Fortbewegung unter der Nutzung von Wind
+Q17537576,kreatives Werk,ausgeprägte künstlerische Kreation
+Q1047113,Fachgebiet,bestimmtes Wissensgebiet begrenzte Wissen
+Q2188189,musikalisches Werk,in sich abgeschlossenes Werk der Musik
+Q11862829,Einzelwissenschaft,eigenes Fachgebiet in der akademischen Bildungslandschaft
+Q47407603,künstlerisches Schaffen,"Tätigkeit, bei der ein Kunstwerk geschaffen wird"
+Q268592,Wirtschaftszweig,"Gruppe von Unternehmen, die ähnliche Produkte herstellen oder Leistungen gleicher Art erbringen"
+Q8148,Industrie,Teil der Wirtschaft
+Q19595701,Unterhaltungsindustrie,Teilbereich der Medienindustrie
+Q56055944,Kunstgattung,"die auf das künstlerische Ausdrucksmedium bezogenen Formen der Kunst (z.B. Literatur, Musik, bildende Kunst)"
+Q2018526,Künste,"Gesamtheit von bildender und darstellender Kunst, sowie Literatur und Musik"
+Q25295,Sprachfamilie,Gruppe genetisch verwandter Sprachen
+Q152559,Makrosprache,Sprachenklasse nach ISO 639
+Q45961,sinotibetische Sprachen,Sprachfamilie
+Q47064,Militär,"Begriff, um die Mitglieder der Streitkräfte zu beschreiben"
+Q192581,Tätigkeit,Arbeit im ökonomischen Sinn
+Q130949,Skifahren,Gleiten eines Skifahrers auf zwei Skiern über den Schnee
+Q703534,Arbeitnehmer,"Person, die bei einem Arbeitgeber arbeitet"
+Q1250916,Krieger,"Person, welche für Kämpfe und Kriegseinsätze spezialisiert ist"
+Q3149875,Luftfahrtvorfall,"Ereignis in der Luftfahrt, in der die Sicherheit gefährdet war"
+Q39614,Friedhof,Bestattungsort verstorbener Menschen oder Tiere
+Q1497364,Gebäudekomplex,Menge von zusammengehörenden Gebäuden
+Q3354859,Förderale Universität,Universitätstypus
+Q2961975,Unternehmensleiter,Leiter eines Unternehmens
+Q58635633,Medienberuf,Berufsgruppe
+Q1663017,Ingenieurschule,Hoch- oder Fachschule für Ingenieurswissenschaften
+Q13212489,County von Kalifornien,Verwaltungseinheit in Kalifornien
+Q34749,Sozialwissenschaft,"Wissenschaftliche Disziplin, die sich mit der Gesellschaft und den Beziehungen in ihr beschäftigt"
+Q1143635,Business School,"Bildungseinrichtungen, die auf betriebswirtschaftliche Studiengänge spezialisiert sind"
+Q20820271,Graduiertenschule,Doktorandenkolleg
+Q1371037,technische Universität,promotionsberechtigte Hochschulen mit einem breiten Angebot an Ingenieurfächern und naturwissenschaftlichen Fächern
+Q11051,Hindustani,nordindische Sprache
+Q12859263,Redner,öffentlicher Redner
+Q12328016,Mystiker,"Person, die sich mit Mystik beschäftigt"
+Q336,Wissenschaft,"Erweiterung, Weitergabe und Gesamtheit des Wissens"
+Q627436,Arbeitsgebiet,bestimmtes Fachgebiet begrenzten Tätigkeitsbereich in Wirtschaft und Wissenschaft
+Q2267705,Studienfach,"Ausbildungsgang an einer Universität, einer Künstlerischen Akademie oder einer technischen Hochschule"
+Q117850,Doktrin,System von Ansichten und Aussagen
+Q1930187,Journalist,"Person, die Nachrichten und andere Informationen sammelt, schreibt und verteilt"
+Q123705,Stadtviertel oder Ortsteil,"geografisch lokalisierte Gemeinschaft innerhalb einer größeren Stadt, Stadt, Vorstadt oder ländlichen Region"
+Q62049,County Seat,Verwaltungssitz eines Countys in den Vereinigten Staaten
+Q742782,lechische Sprachen,Sprachfamilie
+Q33478,Latino-Faliskische Sprachen,Sprachfamilie
+Q146665,südslawische Sprachen,Sprachfamilie
+Q2042538,hellenische Sprachen,Sprachfamilie
+Q390424,Südwestiranische Sprachen,Sprachfamilie
+Q494600,Oghusisch,Zweig der Turksprachen
+Q192170,Prakrit,indoarische Sprache
+Q153050,Niederfränkisch,Sprachfamilie
+Q615948,jüdische Sprachen,Sprachen verschiedener Gruppen ethnischer oder religiöser Juden
+Q747547,kanaanäische Sprachen,Untergruppe der semitischen Sprachen
+Q34049,semitische Sprachen,Sprachfamilie
+Q5062122,Krankheit des zentralen Nervensystems,"Typ einer Krankheit, welche das  zentrale Nervensystem schädigt"
+Q163740,Non-Profit-Organisation,"Einrichtung, die gemeinnützigen sozialen, kulturellen oder wissenschaftlichen Zielen ihrer Mitglieder dient"
+Q1438040,Forschungsbibliothek,"Bibliothek, die der Forschung dient"
+Q5774403,Geschichtsverein,sich mit Geschichtsforschung befassender Verein
+Q201788,Historiker,"Wissenschaftler, der sich mit der Erforschung und Darstellung der Geschichte beschäftigt"
+Q215627,Person,"Individuum mit bestimmten Fähigkeiten und Eigenschaften (nicht zur Verwendung mit P31, in diesem Fall stattdessen Q5 Mensch verwenden)"
+Q187588,soziale Klasse,Klasse von Menschen mit gemeinsamen sozialen Merkmalen
+Q3704253,Händler,"Person oder Gesellschaft, die Handel betreibt"
+Q3551775,französische Universität,Universitäten in Frankreich
+Q50637,Kunstgeschichte,Wissenschaft von der historischen Entwicklung der bildenden Künste
+Q1066186,Geschichtswissenschaft,methodisch gesicherte Erforschung vergangenen menschlichen Handelns auf Basis kritisch geprüfter Überlieferung unter einer spezifischen Fragestellung
+Q17573152,Gläubiger,"Person, die einem Glaubenssystem anhängt"
+Q233591,Kommunistische Partei,"politische Partei, die den Kommunismus (die klassenlose Gesellschaft) als Gesellschaftsordnung anstrebt"
+Q707813,Hansestadt,Mitglied der Hanse
+Q1187811,Universitätsstadt,Stadt mit Sitz einer Universität
+Q11881845,Siedlungstyp Stadt in Estland,Siedlungstyp in Estland
+Q171263,agglutinierende Sprache,Typus eines Sprachbaus
+Q33328,ostseefinnische Sprachen,Sprachfamilie vom Nord-Osten Europa
+Q34113,uralische Sprachen,Sprachfamilie
+Q432,Islam,zweitgrößte Weltreligion mit einem Gott
+Q33146,Bantusprachen,Sprachfamilie
+Q2209395,Sabaki-Sprachen,Sprachfamilie
+Q1649443,Nationalkirche,"christliche Kirchen, deren Organisation sich auf einen einzelnen Staat bezieht"
+Q34030,südkaukasische Sprachen,Sprachfamilie
+Q147576,balkanromanische Sprachen,Sprachgruppe
+Q483394,Genre,"Klassifikation in Kunst und Journalismus nach räumlichen, zeitlichen und inhaltlichen Bezug"
+Q8253,Fiktion,"künstlerische Werke, welche nicht die reale Welt behandeln"
+Q1107679,Animationsstudio,"Filmstudio, das animierte Filme herstellt"
+Q1762059,Filmproduktionsgesellschaft,"Firma, die Fernsehsendungen, Filme oder Ähnliches produziert"
+Q2095549,Pilot,Führer eines Luftfahrzeugs
+Q2135465,Rechtsbegriff,für rechtliche Zwecke definierter Begriff
+Q1072363,Chief Officer,berufliche Position
+Q106085,nordgermanische Sprachen,Sprachfamilie
+Q1441305,klinisches Zeichen,zeigt Krankheitssymptome an
+Q212948,Partisan,Mitglied einer Guerrilla
+Q1125062,Rebell,Person die einem individuellen oder kollektiven Aufstand (Rebellion) beteiligt ist
+Q4991371,Soldat,bewaffneter Angehöriger einer Armee
+Q15811108,Führerpartei,"Politische Partei die auf eine Person zugeschnitten ist, welche die politischen Ziele und Wege vorgibt und alle wesentlichen Entscheidungen trifft"
+Q7930989,Stadtsiedlung,Stadt als Siedlungsart
+Q209465,Campus,zusammenhängende Komplex von Universitäten und anderen Hochschulen oder Forschungsinstituten
+Q2465832,Wissenschaftsdisziplin,Teilbereich einer Einzelwissenschaft
+Q1075651,Keyboarder,"Musiker, der Keyboard spielt"
+Q16869121,Eigentümer,"Person, der etwas gehört"
+Q23442,Insel,"vollständig von Wasser umgebenes Stück Land, das nicht als Kontinent gilt"
+Q212434,olympische Sportart,Sportart mit Wettbewerben bei den Olympischen Spielen
+Q11047409,Athletik,Gruppe von Individualsportarten
+Q408804,Borough in New York City,Verwaltungseinheiten von New York City
+Q1346149,Komplikation,"unerwünschte Folge einer Krankheit, eines Unfalls, eines Eingriffs oder eines Medikaments"
+Q389735,Herz-Kreislauferkrankung,Erkrankungen des Herzens und der Blutgefäße
+Q13416354,Mineraloge,"jemand, der sich mit Mineralien befasst"
+Q2588761,Handelsmann,Beruf
+Q17176618,Schmuggler,"Person, die illegal Schmuggel betreibt"
+Q846570,Amerikaner,Staatsbürger der USA
+Q3243461,Sammler,"Person, deren Beruf oder Hobby es ist, Dinge zu sammeln"
+Q1650915,Forscher,"Person, die wissenschaftlich forscht"
+Q41511,Weltsprache,internationale Verkehrssprache mit großer Bedeutung
+Q816264,Formalwissenschaft,"beschäftigt sich mit formalen systemen wie z.B. Logik, Mathematik oder Spieltheorie"
+Q2740635,Stadtbezirk in Deutschland,Verwaltungseinheit von deutschen Städten
+Q17167049,Literaturwissenschaftler,"Tätigkeit, Beruf"
+Q2085381,Verlag,"Medienunternehmen, das Werke der Literatur, Kunst, Musik, Unterhaltung oder Wissenschaft vervielfältigt und verbreitet"
+Q847027,Grande école,Hochschule in Frankreich
+Q3391743,bildender Künstler,"Künstler, der sichtbare Kunstwerke erschafft"
+Q12813115,Stadtgebiet in Schweden,"Gebiet mit einer Bevölkerung >= 200, <200 m Abstand zwischen der Bebauung"
+Q786820,Automobilhersteller,"Unternehmen der Automobilindustrie, die Automobile produzieren"
+Q3914,Schule,Institution für den Unterricht von Schülern unter Leitung von Lehrern
+Q806798,Bankier,"Person, die im privaten Bankensektor arbeitet"
+Q28389,Drehbuchautor,Verfasser eines Drehbuchs
+Q33829,Bevölkerung,Bezeichnung für die menschliche Population
+Q231002,Nationalität,Zugehörigkeit einer Person zu einem Staat
+Q16335296,historischer Beruf,"Beruf oder Profession, die aufgehört hat zu existieren"
+Q11569986,Druckgrafiker,"Person, die auf handwerklichem oder maschinellem Wege Grafiken herstellt"
+Q181916,Herbarium,wissenschaftliche Sammlung getrockneter Pflanzen
+Q1221156,Bundesland,teilsouveräner Gliedstaat der Bundesrepublik Deutschland
+Q33612,Japanisch-Ryūkyū,Sprachfamilie
+Q33648,isolierte Sprache,"Sprache, bei der sich keine genetische Verwandtschaft zu irgendeiner anderen Sprache nachweisen lässt"
+Q207320,Paramilitär,meist dem Innenministerium unterstellte militärische Gruppe
+Q781132,Teilstreitkraft,Teil der Streitkräfte
+Q1066984,Finanzplatz,"Ort, an dem es eine hohe Konzentration von Banken und anderen Finanzinstitutionen gibt"
+Q1375749,Europastadt,"Selbstbezeichnung einer Stadt, die sich der europäischen Verständigung besonders verpflichtet fühlt"
+Q42744322,Stadt in Deutschland,Gemeinde mit Stadtrecht in Deutschland
+Q1183543,Gerät,"Gegenstand mit dem etwas bearbeitet, hergestellt oder bewirkt werden kann"
+Q3537288,Enthauptungsgerät,Maschine zum abtrennen des Kopfes vom Rumpf
+Q35034452,Ortsteil von Berlin,Abgegrenzter Teil eines Berliner Bezirks ohne eigene Verwaltung
+Q2023214,politische Parteien in Deutschland,Überblick über die politische Parteien in Deutschland
+Q2257409,Schwesterpartei,CDU/CSU in Deutschland
+Q6738353,Volkspartei,"eine Partei, die prinzipiell für Menschen aller Schichten und Weltanschauungen offen ist"
+Q20826540,Gelehrter,Person mit großem Wissensschatz
+Q4959796,Brusterkrankung,Erkrankung der Brustdrüse
+Q3957,Kleinstadt,Stadt unter 20.000 Einwohnern und regionaler Funktion
+Q2755753,Stadtteil von London,"Stadtteil in Londen, England, Grossbritannien"
+Q947873,Fernsehmoderator,Person die Fernsehsendungen leitet
+Q1642960,politischer Kommentator,Kommentator im Bereich der Politik
+Q13219447,Sportjournalist,"Person, die Reportagen und Berichte von Sportereignissen medial veröffentlicht"
+Q1075106,state university system,Verbund staatlicher Universitäten in den USA
+Q2385804,Bildungseinrichtung,Einrichtung mit Bildungsauftrag
+Q852857,Sexarbeiter,"Person, die beruflich Sex praktiziert"
+Q10800557,Filmschauspieler,"Schauspieler, der in Filmen auftritt"
+Q1630100,Modell,"Person, die einem Künstler Modell steht"
+Q223393,Literaturgenre,Einordnung literarischer Werke
+Q36279,Biografie,Lebensbeschreibung einer Person
+Q21518270,US-Staatshauptstadt,Hauptstadt eines Bundesstaates der Vereinigten Staaten
+Q7748,Recht,Norm oder Befugnis
+Q2154459,Town in New England,Verwaltungseinheit in den US-Amerikanischen New-England-Staaten mit speziellen Ausprägungen
+Q1064904,Verletzung,Schaden bzw. Funktionsstörung eines Lebewesens
+Q132821,Mord,Vorsätzliche Tötung eines Menschen
+Q79913,Nichtregierungsorganisation,Interessenverband
+Q2462658,Manager,"Person im Anstellungsverhältnis, die Managementaufgaben in einer Organisation wahrnimmt"
+Q133163,Schlaginstrument,"Musikinstrument, das durch unmittelbares Schlagen zur Schwingung angeregt wird, so entsteht ein Geräusch, Ton oder Klang"
+Q230262,Zupfinstrument,saiteninstrument
+Q5119,Hauptstadt,politisches Zentrum eines Staates oder einer Verwaltungseinheit und oft Sitz der obersten Staatsgewalten
+Q13217644,Município,Verwaltungseinheit in Portugal
+Q17505024,Weltraumorganisation,Organisation zur Erforschung des Weltraums
+Q188,Deutsch,westgermanische Sprache
+Q735,Kunst,schöpferische Tätigkeit
+Q1914636,Tätigkeit,Handeln des Menschen
+Q337979,Kraftsport,Oberbegriff für verschiedene Sportarten
+Q189004,College,Bildungseinrichtung in englischsprachigen Ländern
+Q5741069,Rockband,"Gruppe von Musikern, die Rockmusik spielt"
+Q5,Mensch,"höheres Säugetier aus der Ordnung der Primaten, Trivialname von Homo sapiens und Homo sapiens sapiens"
+Q862597,musikalische Form,"Menge von Organisationsprinzipien, nach denen ein musikalisches Werk aufgebaut ist"
+Q484170,Gemeinde in Frankreich,unterste Stufe des französischen Verwaltungsaufbaus
+Q7325,Juden,Angehörige des jüdischen Volkes und der jüdischen Religion
+Q902814,Grenzstadt,Stadt an einer Landesgrenze
+Q1321960,Juristenausbildung in den Vereinigten Staaten,rechtswissenschaftliche Bildungseinrichtung
+Q4504549,Geistlicher,Mitglied in einer religiösen Gemeinschaft
+Q255274,Angestellter,"Person, die geistig arbeitet"
+Q747802,Mormonentum,"christliche Glaubensgemeinschaften, die sich neben der Bibel auf das Buch Mormon berufen"
+Q911069,Brettsport,Oberbegriff von Sportarten
+Q15850590,Theatergenre,Einteilung und Untergliederungen von verschiedenen Formen des Theaters
+Q15961987,Fernsehgenre,"Gruppe von Fernsendungen, die unter einem spezifischen Aspekt Gemeinsamkeiten"
+Q838948,Kunstwerk,Erzeugnis künstlerischen Schaffens
+Q1318295,Erzählung,"kreatives Werk, das Ereignisse auf eine bestimmte Art und Weise darstellt"
+Q7725634,literarisches Werk,"schöpferisches Werk eines Authors welches ästhetische, akademische oder unterhaltende Zwecke erfüllt"
+Q8359428,Sozialaktivist,"Person, die aktiv für die Bürgergemeinschaft arbeitet"
+Q15895020,Raumfahrtingenieur,Beruf in der Raumfahrtindustrie
+Q11023,Ingenieurwissenschaft,"Sammelbegriff für Wissenschaften, die sich mit Technik befassen"
+Q11401,Hip-Hop,Musikstil
+Q2039348,Gemeinde in den Niederlanden,unterste Stufe des Verwaltungsaufbaus in den Niederlanden
+Q15265344,Rundfunkveranstalter,Betreiber von Hörfunk- und Fernsehprogrammen
+Q156839,Koch,"Person, die Speisen zubereitet"
+Q1936384,Teilgebiete der Mathematik,Gruppierung der Unterdisziplinen der Mathematik
+Q395,Mathematik,"Wissenschaft, die durch logische Definitionen geschaffene abstrakte Strukturen mittels der Logik auf ihre Eigenschaften und Muster untersucht"
+Q28797,angewandte Wissenschaft,wissenschaftliche Disziplinen mit Schwerpunkt im Praxisbezug
+Q3958441,Wirtschaftssektor,Teilbereich einer (Volks-)Wirtschaft
+Q1414443,Filmemacher,Schöpfer einer filmischen Arbeit
+Q178790,Gewerkschaft,Vereinigung von abhängigen Erwerbspersonen zur Vertretung ihrer wirtschaftlichen und sozialen Interessen
+Q486983,akademischer Rang,hierarchischer Rang unter Akademikern
+Q3320743,Ehrentitel,"Würdigung einer Person, eines Ortes, einer Gruppe usw."
+Q1622272,Hochschullehrer,"Person, die an einer Hochschule lehrt und forscht"
+Q269770,Internat,"Schule, in der die Schüler während des Schuljahres wohnen"
+Q1713379,Jungenschule,Schule nur für männliche Personen
+Q1972829,Public School,Privatschulform in England
+Q2418495,Independant School,Indenpendant School in England
+Q19844914,Universitätsgebäude,einzelnes Gebäude einer Universität
+Q1244442,Schulgebäude,"Gebäude, das von einer Schule genutzt wird"
+Q1097498,Herrscher,"Oberhaupt eines Stammes, Volkes, Reiches oder Landes"
+Q20074337,Automobilsportteam,Team im Autorennsport
+Q15648574,Konstrukteur (Motorsport),Unternehmen im Motorsport
+Q10349745,Autorennfahrer,"Person, die mit einem Auto Rennen fährt"
+Q378622,Rennfahrer,"Person, die mit einem Fahrzeug oder Sportgerät Rennen bestreitet"
+Q5367,Motorsport,Sportarten mit motorgetriebenen Fahrzeugen
+Q878123,Rennen,"Wettkampf wo der Gewinner ist, wer die Rennstrecke in der kürzesten Zeit zurückgelegt hat"
+Q570116,Sehenswürdigkeit,Touristische Attraktion
+Q56242250,"anglikanische Kirche, die Bischofssitz ist","Kirchen, die Sitz der Bischöfe der anglikanischen Gemeinschaft sind"
+Q155271,Denkfabrik,projektorientierte Sozial- und Politikforschung
+Q82955,Politiker,"Person, die ein politisches Amt oder ein politisches Mandat innehat oder ernsthaft begehrt"
+Q50995749,Person des Sports,Person mit einer aktiven Rolle im Sport
+Q978044,Führungskraft,Person mit Weisungsbefugnis in einer Organisation oder in der öffentlichen Verwaltung
+Q1162163,Leiter,Leitung einer Organisation
+Q1530022,Glaubensgemeinschaft,"Organisation, die die gemeinschaftliche Ausübung einer Religion bezweckt"
+Q11263525,Koreanische Sprachen,Sprachfamilie
+Q188638,affektive Störung,psychische Erkrankung
+Q7850,Chinesisch,Primärzweig der sinotibetischen Sprachfamilie
+Q15253558,Aktivist,"Person, die in besonders intensiver Weise für die Durchsetzung bestimmter Ziele eintritt"
+Q272231,Arboretum,"Sammlung verschiedenartiger Gehölze, z.B. in Form eines botanischen Gartens"
+Q22813352,Reisender,"Person, die sich auf einer Reise befindet"
+Q576349,Enzephalopathie,Nervenkrankheit
+Q1266890,Durchblutungsstörung,Krankheit
+Q2125610,Radfahrer,"Person, die ein Fahrrad zur Fortbewegung verwendet"
+Q2312410,Sportdisziplin,einzelne Wettkampfart innerhalb einer Sportart
+Q2215841,Radsport,"Sportart, die mit dem Fahrrad ausgeführt wird"
+Q6388,Schwimmen,Fortbewegung von Lebewesen im Wasser
+Q2755547,Individualsport,"Antonym zu Mannschaftssport für Sportarten, die überwiegend auf den Leistungen des Individuums basieren"
+Q15494038,Esperanto-Organisation,Organisation
+Q33215,konstruierte Sprache,"Sprache, die für einen bestimmten Zweck konstruiert wurde"
+Q1790577,Plansprache,"menschliche Sprache, die sich aus einem bewussten und planmäßigen Projekt entwickelt hat"
+Q216048,Mannschaftssport,"sportlicher Wettbewerb, bei dem Gruppen oder Mannschaften gegeneinander antreten"
+Q1423891,Kirchenamtsträger,Person mit dauerhafter Übertragung von religiösen Aufgaben
+Q2259532,Kleriker,Angehöriger des geistlichen Standes
+Q9826,Highschool,weiterführende Schule des sekundären Bildungsbereichs in verschiedenen Ländern
+Q346575,evangelische Kirche,christliche Kirche in der Tradition der Reformation
+Q476028,Fußballverein,"Sportverein, der Vereinsmannschaften für den Fußballsport aufstellt"
+Q178706,Institution,"Regelsystem, das soziales Verhalten und Handeln von Individuen, Gruppen und Gemeinschaften formt, stabilisiert und lenkt oder gesellschaftliche Einrichtungen"
+Q16970,Kirchengebäude,Gebäude errichtet für Andacht und Gottesdienste einer christlichen Religionsgemeinschaft
+Q120560,Basilica minor,"Ehrentitel, den der Papst bedeutenden Kirchengebäuden verleiht"
+Q201658,Filmgenre,"Gruppe von Filmen, die unter einem spezifischen Aspekt Gemeinsamkeiten aufweisen"
+Q11424,Film,Kunstform bewegter Bilder
+Q5967378,Phantastik,Literatur- und Filmgenre
+Q974144,Erzieher,pädagogische Fachkraft
+Q498162,Census-Designated Place,"politisch unselbständige Gebiete in den USA, definiert durch den United States Census"
+Q13415368,County von Virginia,Verwaltungseinheit in Virginia
+Q11774156,Memoirenschreiber,Autor von Memoiren
+Q18814623,Autobiograf,Verfasser einer Autobiografie
+Q1030814,Catch-all-Partei,"politische Partei, die versucht, Menschen mit unterschiedlichen Standpunkten zu gewinnen"
+Q1351282,Kronkolonie,im britischen Staatsrecht die von der Krone durch einen Gouverneur verwaltete Besitzung
+Q19953632,ehemalige gebietsmäßige Einheit,aufgelöste Verwaltungseinheit
+Q26398,öffentlich-rechtlicher Rundfunk,Programm und Organisationsstruktur der öffentlich-rechtlichen Hörfunk- und Fernsehanstalten
+Q4594605,Stadtrat,Mitglied der Gemeindevertretung
+Q114953,Vergiftung,toxischer Effekt eines biologischen oder chemischen Mittels
+Q11124885,Kampfsportler,"Person, die Kampfkunst ausübt"
+Q515,Stadt,"größere, zentralisierte und abgegrenzte Siedlung (nach Anzahl der Einwohner)"
+Q10774753,Performancekünstler,Performances darbietender Künstler
+Q12202,Schlaganfall,Akuter Verschluss von Arterien zum oder im Gehirn mit Absterben von Gehirnzellen
+Q426199,Hirnblutung,Blutungen im Inneren des Hirnschädels
+Q16287483,Publizist,"Journalist, Schriftsteller oder Wissenschaftler, der mit eigenen Beiträgen an der öffentlichen Meinungsbildung zu aktuellen Themen teilnimmt"
+Q667509,Gemeinde in Österreich,unterste Ebene der österreichischen Verwaltungsgliederung
+Q13539802,Ort mit Stadtrecht,Ort mit Stadtrecht
+Q253030,Oberzentrum,zentraler Ort der höchsten Stufe
+Q537250,Bundesstadt,Von unter anderem den Städten Bern und Bonn getragenen Titel
+Q627325,Grafikdesigner,Beruf
+Q17343829,gemeindefreies Gebiet in den Vereinigten Staaten,"Gebiet in den Vereinigten Staaten, das nicht der kommunalen Selbstverwaltung sondern staatlicher Verwaltung unterliegt, meist unbewohnt"
+Q747074,Gemeinde in Italien,unterste Ebene der Gebietskörperschaften Italiens
+Q2341443,Instrumentenbauer,Handwerksberuf
+Q13218357,City in Kalifornien,Verwaltungseinheit im US-Bundesstaat Kalifornien
+Q10333969,Museologe,Spezialist in Museumskunde
+Q18593264,Sammel- oder Ausstellungsstück,Definiert die Eingenschaften und Klassen für Objekte die eine Inventarnummer haben können
+Q3630699,Spieledesigner,"Person, die Spiele oder Computerspiele entwickelt"
+Q484652,internationale Organisation,Zusammenschluss von mindestens zwei Staaten oder anderen Völkerrechtssubjekten
+Q11063,Astronom,Wissenschaftler der Himmelskörper untersucht
+Q755707,Kommune in Norwegen,Verwaltungseinheit in Norwegen
+Q170790,Mathematiker,Person mit weitreichenden mathematischen Kenntnissen
+Q1093829,City in den Vereinigten Staaten,amerikanische Verwaltungseinheit
+Q11016,Technologie,"Herstellung, Modifikation, Benutzung von Werkzeugen, Maschinen, Techniken, Fahrzeugen, Systemen und Methoden der Organisation"
+Q5268834,Informations- und Kommunikationstechnik,Technik im Bereich der Information und Kommunikation
+Q7406919,Dienstleistung,immaterielles Gut zur Deckung eines Bedarfs
+Q82594,Informatiker,Berufsbezeichnung
+Q349,Sport,gezielte körperliche Aktivität
+Q179226,Reiten,Fortbewegungsart des Menschen auf dem Rücken eines Pferdes
+Q2983893,Stadtteil,Teilgebiet einer Stadt
+Q15911314,Verband,Gruppe von Einzelpersonen (natürliche Personen) oder Körperschaften (juristische Personen) aller Art
+Q2357239,Sporttourismus,Ausübung von Sport mit touristischen Aspekten
+Q261543,Bundesland in Österreich,Gliedstaat der bundesstaatlich organisierten Republik Österreich
+Q184872,Erholung,Rückgewinnung verbrauchter Kräfte und Wiederherstellen der Leistungsfähigkeit
+Q22857,Klettern,"Fortbewegung mit Armen und Beinen, Sportart"
+Q1517895,Allgemeininfektion,"Infektionskrankheit, bei der Krankheitserreger über eine Eintrittspforte in den Organismus gelangen"
+Q1790480,Sprachmittler,Oberbegriff für Übersetzer und Dolmetscher
+Q27801,Sachliteratur,"Genre von Büchern, steht im Gegensatz zu fiktionaler Literatur"
+Q1665984,interdisziplinäre Wissenschaft,dauerhaft etabliertes fachübergreifendes Wissenschaftsgebiet
+Q21201,Soziologie,Wissenschaft der empirischen und theoretischen Erforschung des sozialen Verhaltens
+Q1143546,Kulturwissenschaft,interdisziplinäre Fachrichtung
+Q49773,soziale Bewegung,"kollektiver Akteur, der formell organisiert ist oder lediglich informell zusammen kommt"
+Q1406161,Sujet,Gegenstand eines Kunstwerkes
+Q12909644,politische Ideologie,"Weltanschauung, die eine soziale, politische und wirtschaftliche Organisation des menschlichen Lebens befürwortet"
+Q223569,Frauenrechte,Menschenrechte
+Q578,Jahrhundert,Zeitspanne von einhundert Jahren
+Q840454,Westslawen,Slawische Völker in Osteuropa
+Q215536,Kaufmann,"Person, die erwerbsmäßig ein Geschäft tätigt (Vollkaufmann, Geschäftsmann)"
+Q15636229,Chirurgischer Eingriff,therapeutischer Eingriff mit Durchtrennung der  Körperwand
+Q431603,Interessenvertretung,"Gruppe, die die Interessen einer bestimmten gesellschaftlichen Gruppe definieren und vertreten soll"
+Q1935049,militärische Ausbildungsstätte,schulisch oder universitär organisierte Bildungseinrichtung für Militärpersonal
+Q1241568,Soldatenfriedhof,"Grabstätte, auf der während eines Krieges gefallene Soldaten beerdigt sind"
+Q2073075,Pestfriedhof,ab dem Mittelalter abseits der Siedlungszentren angelegter Begräbnisplatz zur schnellen Bestattung von Seuchenopfern
+Q337567,Stillgewässer,natürliche oder künstlich geschaffene Gewässer
+Q2221906,geographische Lage,geografischer Punkt oder Gebiet
+Q2507626,Wasserbereich,"Bereich mit Wasser, abgegrenzt durch natürliche oder künstliche Begrenzungen"
+Q279330,Bronchospasmus,Krankheit
+Q32880,Baustil,regional oder international bedeutsamer Stil in der Architektur
+Q968159,Kunstströmung,"Kunststil, getragen von einer Gruppe oder einem gemeinsamen Ziel verbunden, häufig zeitverbunden"
+Q848197,Fraktion,Freiwilliger Zusammenschluss von Abgeordneten in einem Parlament oder anderen politischen Gremium
+Q160117,Makler,Vermittler einer Gelegenheit zum Abschluss von Verträgen
+Q1767829,Volluniversität,"Hochschule, an der das Studium der grundlegendsten wissenschaftlichen Fachbereiche möglich ist"
+Q532,Dorf,zumeist kleine Gruppensiedlung
+Q53121,Fahrradfahren,Fortbewegung auf einem Fahrrad
+Q82794,Region,spezifizierbares Teilgebiet des geographischen Raums
+Q1620908,historische Landschaft,geschichtswissenschaftlicher Forschungsbegriff des 20. Jahrhunderts in der historischen Geographie
+Q727781,lateinamerikanische Musik,"Sammelbegriff für die Tänze, Rhythmen und Stile der Musik aus Lateinamerika"
+Q58339,Disco,Musikgenre
+Q20202269,musikalischer Terminus,Metaklasse
+Q685884,Vokalmusik,"Genre der Musik, in der gesungen oder gesprochen wird"
+Q15296811,Zeichner,"Person, die zeichnet"
+Q3501317,Modedesigner,Beruf
+Q11338576,Boxer,"Person, die den Boxsport ausübt"
+Q13393265,Basketballteam,"Sportler, die zusammen Basketball spielen"
+Q358,Kulturdenkmal,Zeugnis einer Kultur und von künstlerischem und historischem Wert
+Q2065736,Kulturgut,etwas was als kultureller Wert Bestand hat und bewahrt wird
+Q778000,Ausbildungsberuf,"beruflichen Tätigkeiten, die im Rahmen eines Ausbildungsverhältnisses im dualen System erlernt werden können"
+Q1294787,Handwerker,Gruppe von Berufen
+Q1104185,Coaching,Unterstützung beim Entwickeln eigener Lösungen
+Q56019,Dienstgrad beim Militär,Stellung einer Person innerhalb einer Militärischen Rangordnung
+Q189290,Offizier,Soldat mit Führungsaufgaben
+Q1054718,Nephropathie,Nierenerkrankung
+Q13641482,Nierentumor,Krankheit
+Q41583,Trainer,"Person, die andere Menschen in ihren Fertigkeiten trainiert"
+Q13415036,Rugbyspieler,"Sportler, der an Rugby-Turnieren teilnimmt"
+Q2891167,Bootsführer,"Fachmann, der ein Flussboot, einen Lastkahn, ein Schubboot oder einen Flusskonvoi führt"
+Q21368803,Rudern,Fortbewegungsmethode auf dem Wasser mit Rudern
+Q5378,Rugby,Sportart
+Q56433,goidelische Sprachen,keltische Sprachfamilie
+Q5386,Automobilsport,Form des Motorsports
+Q180673,zeremonielle Grafschaften Englands,"Gebietseinheiten in England, die einem Lord Lieutenant, dem persönlichen Repräsentanten des britischen Monarchen, zugewiesen sind"
+Q769603,Non-metropolitan county,Verwaltungseinheit in England
+Q2207288,Handwerk,"gewerbliche Tätigkeit, die Produkte meist auf Bestellung fertigt oder Dienstleistungen auf Nachfrage erbringt"
+Q83440,Country-Musik,US-amerikanische populäre Volksmusik
+Q6452410,Christliche Musik,Musik mit christlich unterlegten Texten
+Q1393724,Faktion,Untergruppe einer Partei oder einer anderen im weitesten Sinne politisch tätigen Organisation
+Q636497,Typus,"Charaktertypus, literarischer oder sozialer Stereotyp"
+Q25535646,Held,literarischer Typus
+Q184644,Konservatorium,Einrichtung für die Ausbildung von Musikern und Musikpädagogen
+Q1776724,Theaterleiter,eigenverantwortlicher Leiter eines Theaters
+Q2405480,Sprecher,"Sprecher im künstlerischen Bereich, wie Hörspiel-, Videospiel- oder Synchronsprecher"
+Q245065,zwischenstaatliche Organisation,staatliche internationale Organisation
+Q1896989,Völkerrechtssubjekt,juristischer Begriff
+Q9394993,Schlittschuhläufer,"Person, die mit Schlittschuhen über Eis läuft"
+Q779272,Schlittschuhlaufen,Fortbewegung mit Schlittschuhen
+Q1622659,Hockeysport,Gruppe von Sportarten
+Q35032,Orthodoxe Kirchen,christliche Kirchen des byzantinischen Ritus
+Q8346700,Objekt des kulturellen Erbes Russlands,"Denkmäler, Stätten oder Gegenstande, die aufgrund ihres kulturellen, historischen, künstlerischen oder architektonischen Interesses gesetzlich geschützt sind"
+Q190652,Zentralkomitee,oberstes Entscheidungsgremium in kommunistischen Parteien
+Q15063611,City in New York,Verwaltungseinheit im US-Bundesstaat New York
+Q943995,Impresario,"veraltet für Intendant, früher oft auch Finanzierer von Konzerten, Theater- und Opernaufführungen"
+Q188509,Vorort,Siedlung am Stadtrand einer größeren Stadt
+Q2511322,Lycée,weiterführende Schule in Frankreich
+Q1898104,Myeloproliferative Erkrankung,Gruppe von Bluterkrankungen
+Q2700922,Uhrmacher (größere Uhren),"Handwerker, der Uhren produziert und repariert"
+Q31207,Gesundheitsversorgung,"Sammelbegriff für alle Aktivitäten, die der Diagnose, Behandlung und Vorbeugung von Krankheiten dienen"
+Q483677,Pseudowissenschaft,"Begriff für Behauptungen, Lehren, Theorien, Praktiken und Institutionen, die beanspruchen, wissenschaftlich zu sein bzw. scheinbar wissenschaftlich sind, aber die Ansprüche nicht erfüllen"
+Q54935504,Stadt gemäss BFS,"Stadt gemäss Bundesamt für Statistik, Schweiz"
+Q1320276,Hypovolämie,Krankheit
+Q1391083,Facharbeiter,"Person, die eine technische oder gewerbliche Berufsausbildung erfolgreich absolviert hat"
+Q16314501,Enzyklopädist,Verfasser oder Herausgeber von Enzyklopädien
+Q165192,Schwede,germanische Titularnation des Königreichs Schweden
+Q388602,Wahlbündnis,Zusammenschluss mehrerer Parteien oder Wählergruppen
+Q3392853,Lungenerkrankung,Krankheit
+Q572700,Amtsträger,berufliche Funktion des Öffentlichen Dienstes
+Q2374149,Botaniker,"Person, die als Teilgebiet der Biologie die Pflanzen erforscht"
+Q131512,Landwirt,"Person, die Landwirtschaft betreibt"
+Q357279,Kultivierung,"Schaffung und Aufrechterhaltung von Bedingungen, die ein Wachstum von bestimmten Organismen gewährleisten"
+Q204686,Wintersport,"Sportarten, die auf Schnee und Eis ausgeübt werden"
+Q3266340,Rodeln,einen Berg mittels eines Rodels (Schlitten) hinunterfahren
+Q317548,Erholungsort,Ortschaft mit guter Luft und gutem Klima und einer auf Tourismus ausgelegten Infrastruktur
+Q1021290,Musikschule,"Bildungseinrichtung, in der Musik und die mit ihr in Verbindung stehenden Künste wie Tanz und Musiktheater unterrichtet werden"
+Q41176,Gebäude,"Bauwerk, das Räume einschließt, betreten werden kann und zum Schutz von Menschen, Tieren oder Sachen dient"
+Q1397808,Widerstandskämpfer,"Mensch, der sich gegen eine bestimmte, meist politische Macht engagiert"
+Q162875,Mausoleum,monumentales Grabmal in Gebäudeform
+Q8261,Roman,Langform der schriftlich fixierten Erzählung
+Q1546270,Gridiron Football,Sammelbegriff für eine Reihe von Ballsportarten ähnlich dem American Football
+Q4167410,Wikimedia-Begriffsklärungsseite,Seite mit Verweisen auf ähnlich lautende Lemmata mit verschiedenen Bedeutungen
+Q199804,chronisch obstruktive Lungenerkrankung,Gruppe von Krankheiten der Lunge
+Q2329,Chemie,"Naturwissenschaft von Aufbau, Eigenschaften und Umwandlung von Stoffen"
+Q211690,London Borough,33 Stadtbezirke in Greater London mit Borough-Status
+Q506680,Endemie,Begriff aus der Medizin
+Q353172,Protozoeninfektion,Infektion durch Einzeller
+Q3281402,Vektor-übertragende Krankheit,"Krankheit, die durch Vektoren übertragen wird"
+Q16334295,Gruppe von Menschen,beliebige Menge von Menschen
+Q4610556,Model,"Person, die sich aus künstlerischen oder kommerziellen Gründen abbilden oder filmen lässt, oder etwas präsentiert"
+Q1298934,Synthie Pop,Stilrichtung innerhalb der elektronischen Tanzmusik
+Q159334,weiterführende Schule,weiterführende Schulen nennt man verschiedene Gruppen von Schulen
+Q846659,jüdischer Friedhof,Friedhof nach den Gesetzen des Judentums
+Q55116,Stadtteil von Monaco,Verwaltungseinheit von Monaco
+Q56061,administrativ-territoriale Entität,"Entität mit begrenztem Territorium, die zu administrativen Zwecken bestimmt wurde"
+Q2264924,Hafenstadt,Stadt mit Seehafen
+Q15042037,statistische Region,definierter geografischer Bereich der zu statistischen Zwecken gebildet wurde
+Q5621421,Gesellschaft,Personenvereinigung auf Basis eines Gesellschaftsvertrags zur gemeinsamen Verfolgung eines gemeinsamen Zwecks
+Q56876011,Privatunternehmen,Gegenteil von öffentliches Unternehmen
+Q1799072,Methode,Verfahren in der Erkenntnistheorie
+Q36649,Bildende Kunst,Sammelbegriff für die visuell gestaltenden Künste
+Q3922583,Heilberuf,"Beruf, der sich mit der Behandlung von Krankheiten und Behinderungen auseinandersetzt ist"
+Q22633,Germanen,ehemalige Stämme in Europa
+Q1907114,Metropolregion,stark verdichteter Ballungsraum einer Metropole
+Q5852411,Bundesstaat von Australien,Verwaltungseinheit in Australien
+Q193840,Asphyxie,Medizinische Unterversorgung mit Sauerstoff
+Q17156793,American Football-Verein,"Sportverein, wo Menschen American Football spielen"
+Q14128148,Gridiron-Football-Spieler,American-Football- oder Canadian-Football-Spieler
+Q180958,Fakultät,Abteilung als Lehr- und Verwaltungseinheit einer Hochschule
+Q14904124,Schlüsselereignis (Schiffe),Schlüsselereignis für ein Schiff - Nutzung mit P793
+Q4459228,Waren- und Dienstleistungsproduktion,beschreibt die Produktion von Waren und Dienstleistungen in der Wirtschaft
+Q39631,Arzt,Heilberuf
+Q640364,Munizipium,Verwaltungseinheit von Rumänien
+Q5482740,Programmierer,"Person, welche Computerprogramme schreibt"
+Q314676,meldepflichtige Krankheit,"übertragbare Infektionen, die einer Meldepflicht unterliegen"
+Q18553247,primäre bakterielle Infektionskrankheit,durch Bakterien ausgelöste Krankheit
+Q856076,Gemeinde in Finnland,Verwaltungseinheit in Finnland
+Q11417,Kampfkunst,Techniken und Traditionen des Kampfes
+Q676,Prosa,ungebundene Rede im Gegensatz zur Formulierung in Versen oder in bewusst rhythmischer Sprache
+Q38072107,fiktionale Literatur,"Literatur, deren Inhalt zumindest teilweise frei erfunden ist und nicht Anspruch auf Sachlichkeit erhebt"
+Q3769299,menschliches Verhalten,Aktivitäten und körperliche Reaktionen zwischen Menschen
+Q228736,Materialwissenschaft,"interdisziplinäres Fachgebiet, das sich mit der Erforschung und Entwicklung von Materialien und Werkstoffen befasst"
+Q622662,Schwerindustrie,"Sammelbegriff für Bergbau, Eisen- und Stahlindustrie"
+Q4351403,Perkussionist,Musiker der Schlaginstrumente spielt
+Q13580678,Mehrspartenverein,über mehr als eine Abteilung verfügender Sportverein
+Q262166,Gemeinde in Deutschland,unterste Stufe des Verwaltungsaufbaus in Deutschland mit kommunaler Selbstverwaltung
+Q19650003,Harmonikainstrument,Durchschlagzungeninstrument
+Q520549,Geologe,"Naturwissenschaftler, der sich mit Geologie befasst"
+Q15127838,Republik-Stadt,Verwaltungseinheit von Lettland
+Q811122,Bauarbeiter,Arbeiter auf einem Bau
+Q2052698,Parkfriedhof,"Friedhof, der sich am Konzept des englischen Landschaftsgartens orientiert"
+Q59537665,Campusuniversität,Universität die auf einem oder mehreren zusammenhängenden Campus angesiedelt ist
+Q28692502,Frauenrechtler,"Person, die die Rechte der Frauen verfechtet"
+Q3721,Fraternities und Sororities,Studentenverbindungen in der angloamerikanischen Tradition
+Q2438541,Todesart,Einteilung von Todesfällen als natürlich / nicht natürlich / ungeklärt
+Q9687,Straßenverkehrsunfall,Schadensereignis mit ursächlicher Beteiligung von Verkehrsteilnehmern im Straßenverkehr
+Q8454,Todesstrafe,Tötung eines Menschen als gesetzlich vorgesehene Strafe für ein Verbrechen
+Q2140674,Schusswunde,"Verletzung, die durch ein Projektil verursacht wird"
+Q1620945,Historisch afroamerikanische Colleges und Hochschulen,Bildungseinrichtungen in den Vereinigten Staaten
+Q216613,Ski Nordisch,Sammelbegriff für skandinavische Skisportarten
+Q7991,Naturwissenschaft,"Wissenschaft, die die Natur zum Gegenstand hat"
+Q1664720,Institut,"Lehr- oder Forschungseinrichtung; kulturelle, künstlerische oder wirtschaftliche Organisation"
+Q346549,Technische Hochschule,"Hochschule, deren Schwerpunkt auf den Natur- und Ingenieurwissenschaften liegt"
+Q813912,Bedingung,"Teilaussage eines Satzes, die eine Folgerung oder Wirkung hervorruft"
+Q1969448,Benennung,Versprachlichung eines Begriffs
+Q1607826,Herausgeber,"Person oder Personengruppe, die Texte oder Werke von Autoren zur Publikation vorbereitet"
+Q2516866,Verleger,"Leiter eines Verlages für Medien, häufig der Eigentümer oder Geschäftsführer"
+Q25379,Bühnenwerk,"Dichtung, die auf der Bühne zur Aufführung gebracht wird"
+Q7275,Staat,mehrdeutiger Begriff verschiedener Sozial- und Staatswissenschaften
+Q185086,Kronbesitzungen der britischen Krone,"Gebiet, das direkt der britischen Krone unterstellt ist"
+Q6540832,Liberal-Arts-College,Liberal-Arts-Colleges in den USA
+Q1151067,Regel,in Übereinkunft für einen bestimmten Bereich festgelegte als verbindlich geltende Richtlinie
+Q5994,Klavier,Tasteninstrument mit Saiten
+Q11921029,Musikstil,"Einsatz der Instrumentation, Durchführung der Produktion sowie die Ausführung der musikalischen Ideen sind charakteristisch innerhalb des Genres"
+Q27939,Gesang,musikalischer Gebrauch der menschlichen Stimme
+Q42973,Architekt,"Person, die mit der Planung und Gestaltung von Gebäuden betreut ist und ihren Bau überwacht"
+Q475027,Indogermanen,Sprecher der indogermanischen Ursprache
+Q38058796,ausgestorbene Sprache,"historische Sprache, deren Sprecher ausgestorben sind"
+Q19860,indogermanische Sprachen,indo-europäische Sprachfamilie
+Q1925963,Grafiker,"Künstler, die Linien auf dem Papier durch verschiedene Zeichen- und Drucktechniken erzeugt"
+Q1493752,Ganztagsschule,Schule mit ganztägigem Angebot
+Q202648,Schiedsrichter,"Person, die in einem Sportwettkampf die Einhaltung der Regeln überwacht"
+Q27032435,Hochschularchiv,Archiv einer Hochschule
+Q6882870,Heilbad,spezialisierter Kurort
+Q2912193,Speiseröhrenerkrankung,Erkrankung der Speiseröhre
+Q43767805,Mehrkampf-Sportart,"Sportart, in der die Teilnehmer nacheinander verschiedene Sportdisziplinen absolvieren"
+Q12406482,Humorist,"Künstler, der in seinen Werken Inhalte humoristisch abhandelt"
+Q644687,Illustrator,"Person, die Druckerzeugnisse bebildert"
+Q15977509,Industriedesigner,Formgestalter für Gebrauchsgegenstände
+Q360341,hirnorganisches Syndrom,Krankheit
+Q221096,Öffentlich-Private Partnerschaft,vertragliche Zusammenarbeit zwischen öffentlicher Hand und privatrechtlich organisierten Unternehmen
+Q18805,Naturwissenschaftler,"Person, die die Natur und deren Geschichte im speziellen das Leben in Form von Tieren und Pflanzen erforscht (speziell in der Natur)"
+Q593644,Chemiker,"Naturwissenschaftler, der sich mit Themen aus der Chemie befasst"
+Q8341,Jazz,Musikrichtung
+Q149621,Distrikt,administrative Einheit in manchen Ländern
+Q38848,Metal,Stilrichtung der Musik
+Q55640,primärer Wirtschaftssektor,Gesamtheit der mit Gewinnung von rohen Naturerzeugnissen bzw. Rohstoffen befassten Wirtschaftszweige
+Q1328805,Knochentumor,Krebserkrankung
+Q4941552,Knochenerkrankung,Krankheit
+Q960543,Theaterwissenschaft,wissenschaftliche Beschäftigung mit theatralen Phänomenen von der Antike bis zur Gegenwart
+Q2695280,Technik,Geplante Vorgehensweise und sachmittelgerechte Ausstattung zur Aufgabenerledigung.
+Q615980,Pfarrei in Schweden,kirchliche Einheit in Schweden
+Q156877,britannische Sprachen,keltische Sprachfamilie
+Q327333,Behörde,staatliche Einrichtung
+Q142714,Kartenspiel,"Spiel, bei dem Spielkarten der wesentliche Bestandteil des Spielmaterials sind"
+Q1188693,Denksport,"Sport, bei dem die Denkleistung im Vordergrund steht"
+Q40348,Rechtsanwalt,Berufsbezeichnung für einen juristischen Beistand
+Q6337803,Neurowissenschaftler,"Person, die sich mit den Neurowissenschaften befasst"
+Q6430706,Kritiker,"Person, die Dinge bewertet und dies kommuniziert"
+Q20669622,Musikjournalist,Journalist mit dem Schwerpunkt Musik
+Q14915627,Musikwissenschaftler,Beruf
+Q929737,Lebererkrankung,Krankheit
+Q18511725,Minderstadt,"Orte mit eingeschränktem Stadtrecht ohne Gerichtssitz, aber mit Marktrecht"
+Q135436,école normale supérieure,wissenschaftliche Grandes écoles in frankophonen Ländern
+Q3591586,EPSCP,Französisch Status einer Universität
+Q131436,Brettspiel,Gesellschaftsspiel mit einem Spielbrett
+Q573573,abstraktes Strategiespiel,Strategiespiel ohne aufgesetztes Thema und mit minimalem Glückseinfluss
+Q43450,Gymnastik,Sport / allseitiges System zur Stärkung der Körperkräfte und Beweglichkeit
+Q399495,Standardsprache,"Sprache, die über mindestens eine Standardvarietät neben ihren weiteren Varietäten verfügt"
+Q462778,Außengebiet der Vereinigten Staaten,überseeische Hoheitsgebiete der USA
+Q783733,„Unincorporated“ Außengebiete der Vereinigten Staaten,Unincorporated territories of the United States
+Q1048835,politische Unterteilung,geographische Region mit eigener Verwaltung
+Q1352230,Territorium der Vereinigten Staaten,"Gebiet, das der Regierungsgewalt der US-amerikanischen Bundesregierung untersteht, aber kein Bundesstaat oder Teil eines Bundesstaates ist"
+Q179630,Syndrom,typische Kombination mehrerer gleichzeitig vorliegender Krankheitszeichen
+Q2006636,wasserbürtige Krankheiten,mit dem Wasser übertragene Krankheiten
+Q2453464,Kolitis,Krankheit
+Q17412622,Automobilmarke,Marke eines Automobils
+Q3779582,Mikrobiologe,"Person, welche die Eigenschaften von mikroskopisch kleinen Organismen untersucht"
+Q50337,Präfektur von Japan,Verwaltungseinheit von 47 Präfekturen in Japan
+Q223681,Apostasie,Abwendung von einer Religion durch einen förmlichen Akt
+Q15995642,religiöser Anführer,Anführer einer religiösen Organisation
+Q15956976,Zirrhose,Krankheitsgeschehen
+Q192611,Wahlkreis,Teilraum eines Wahlgebietes
+Q3889692,Musikhochschule,hochschulisches Lehrinstitut für die musikalische Berufsausbildung
+Q428602,Vorbereitende Schule,"Schule, die auf ein Universitätsstudium vorbereitet"
+Q9301,Serbokroatisch,südslawische Sprache
+Q4897819,Rolle,Art der Teilnahme in einer Beziehung
+Q333495,Absturz,"Unfall, der durch einen Fall aus einer erhöhten Position zustande kommt"
+Q13414757,County von New York,Verwaltungseinheit in New York
+Q3640160,Meeresbiologe,"Person, die sich mit Meeresbiologie befasst"
+Q637846,Oberhaus,ständische oder parlamentarische Kammer in einem Zweikammersystem
+Q158852,Dirigent,künstlerisch-musikalischer Leiter eines musizierenden Ensembles
+Q1198887,Musikdirektor,Titel eines Orchesterleiters
+Q47913,Nachrichtendienst,"Behörde, die Informationen mit nachrichtendienstlichen Mitteln sammelt und auswertet"
+Q20857129,Universitätsbund,Zusammenschluss mehrerer tertiärer Bildungseinrichtungen unter einer Führung. Die Standorte können räumlich verteilt sein.
+Q3286546,Atemwegserkrankung,Krankheit
+Q11366,Alternative Rock,Musikstil
+Q744913,Flugunfall,Unfall mit Beteiligung eines Luftfahrzeugs
+Q193078,Trauma,"Schädigung, Verletzung oder Verwundung, die durch Gewalt von außen entsteht"
+Q18553734,Myelom,Krebserkrankung des Knochenmarks
+Q18558143,Leukozytenerkrankung,Erkrankung der weißen Blutkörperchen
+Q703173,karlukischen Sprachen,Sprachgruppe
+Q58968,Intellektueller,"Mensch, der wissenschaftlich, künstlerisch, philosophisch, religiös, literarisch oder journalistisch tätig ist, dort ausgewiesene Kompetenzen erworben hat und in öffentlichen Auseinandersetzungen kritisch oder affirmativ Position bezieht"
+Q101333,Maschinenbau,Zweig der Industrie und klassische Ingenieurdisziplin
+Q849424,Kapitän,Kommandant eines Schiffes
+Q2045208,Internetpersönlichkeit,"Person, die durch das Internet bekannt geworden ist"
+Q4110598,Video-Blogger,Blogger
+Q319845,Investmentbank,Spezialbank
+Q730038,Kreditinstitut,"Unternehmen, das Kreditgeschäfte betreibt"
+Q21980538,kommerzielles Unternehmen,"Unternehmen, das mit Gewinnabsicht arbeitet im Gegensatz zu einem gemeinnützigen Unternehmen"
+Q486972,Siedlung,"geographischer Ort, an dem Menschen zusammen leben"
+Q7829892,Town in New Jersey,Verwaltungseinheit im US-Bundesstaat New Jersey
+Q107231,Lähmung,"Funktionsminderung von Nerven, mit daraus folgenden motorischen oder sensiblen Ausfällen"
+Q685433,Verkäufer,Beruf
+Q2468727,Altertumswissenschaftler,"Person, die sich im Bereich der Klassischen Altertumswissenschaft betätigt"
+Q1731155,Orientalist,Wissenschaftler auf dem Gebiet der Orientalistik
+Q3621491,Archäologe,Beruf
+Q13418253,Philologe,"Tätigkeit, Beruf"
+Q15936497,Afrikanist,Experte auf dem Gebiet der Afrikanistik
+Q4502142,bildliche Darstellung,"Kunstwerk, welches überwiegend visuell rezipiert wird"
+Q47461344,schriftliches Werk,Werk in schriftlicher Form
+Q106039,Christ,Angehöriger des Christentums
+Q500050,Crosslauf,Leichtathletikdisziplin
+Q423208,Privatschule,"Schule, die sich in der Verantwortung eines freien, nichtstaatlichen Schulträgers befindet"
+Q7569,Kind,junger Mensch
+Q902378,Pferdesport,"Teilbereich des Sports, der alle Sportarten umfasst, die mit dem Pferd als Partner ausgeübt werden"
+Q493522,Gemeinde in Belgien,Verwaltungseinheit von Belgien
+Q1616075,Fernsehsender,Organisation für die Produktion und Übertragung von Fernsehprogrammen
+Q54935786,Mittlere kreisangehörige Stadt,Stadt mit Sonderstatus nach dem Kommunalrecht in einigen Ländern Deutschlands
+Q10296912,bildgebendes Verfahren,Verfahren der Medizintechnik
+Q876864,Redakteur,"Mitarbeiter, der innerhalb der Medien redaktionelle Aufgaben übernimmt"
+Q9352089,Spion,"Person, engagiert in der Beschaffung von Informationen, die geheim oder vertraulich sind"
+Q178069,Nekrose,biologischer Prozess
+Q420,Biologie,Wissenschaft des Lebendigen
+Q1183,Puerto Rico,Außengebiet der Vereinigten Staaten
+Q988108,Verein,Zusammenschluss von Menschen für ein gemeinsames Interesse oder Ziel
+Q15284,Gemeinde,räumlich-administrative Verwaltungseinheit in einem Staat
+Q203300,Gemeinde in Liechtenstein,Verwaltungseinheit in Liechtenstein
+Q130857,DJ,"Person, die auf Tonträgern enthaltene Musik in einer individuellen Auswahl vor einem Publikum abspielt"
+Q1115575,Civil Parish in England,Verwaltungseinheit in England
+Q15273785,Belgische Gemeinde mit Stadtrecht,Gemeinde mit Stadtrecht in Belgien
+Q214917,Dramatiker,"Schriftsteller, der Theaterstücke (Dramen) verfasst"
+Q1792379,Kunstgenre,Genre in den Künsten
+Q134307,Porträt,künstlerische Abbildung von einer oder mehreren Personen
+Q484876,Chief Executive Officer,geschäftsführendes Vorstandsmitglied nach US-amerikanischer Bezeichnung
+Q1255921,Präsident,Amtsbezeichnung des Leiters einer Administration
+Q494721,Shi,kommunale Verwaltungseinheit in Japan
+Q18663566,ehemalige Gemeinde in Japan,einst bestehende Gemeinde in Japan
+Q182015,Thriller,Literatur- und Filmgenre
+Q1762165,Action,"stimulierende, ereignisreiche, dramatische Situation oder Handlung mit viel Spannung"
+Q19842222,Krimi,Genre
+Q20664530,Kriminalliteratur,Literaturgenre
+Q169872,Symptom,"Zeichen, das auf eine Erkrankung oder Verletzung hinweist"
+Q1110794,Tageszeitung,in der Regel täglich erscheinendes Printmedium
+Q1153191,Internet-Zeitung,"Zeitung, die im Internet veröffentlicht wird"
+Q150,Französisch,romanische Sprache
+Q7113244,Eierstockerkrankung,Erkrankung der Eierstöcke
+Q33231,Fotograf,Urheber von fotografischen Aufnahmen
+Q1589009,Privatgesellschaft,"Unternehmen, dessen Anteile auf einen kleinen Kreis von Gesellschaftern beschränkt ist"
+Q2074737,Gemeinde in Spanien,Verwaltungsebene in Spanien
+Q23058,Kanton,Gliedstaaten der Schweizerischen Eidgenossenschaft
+Q13582652,Bauingenieur,"Ingenieur mit Spezialisierung auf Planung, den Bau und die Wartung der gebauten Umwelt"
+Q675824,Kolumbarium,Oberirdisches Bauwerk zur Aufbewahrung von Urnen und Särgen
+Q42889517,Oboeninstrument,Instrument aus der Instrumentenfamilie der Oboen
+Q1136601,Unitary Authority,Verwaltungseinheit in England
+Q48091,Region in England,Verwaltungseinheit in England
+Q294414,öffentliches Amt,"Dienst, der innerhalb der Exekutive und Judikative von Personen ausgeübt wird"
+Q599151,leitender Beamter,"Person, die in leitender Position ein Amt innehat"
+Q250858,plurizentrische Sprache,Sprache mit mehreren Standardvarietäten
+Q317623,Standard,"einheitliche oder vereinheitlichte Art und Weise, etwas herzustellen oder durchzuführen"
+Q392651,Agent,hauptberuflicher Mitarbeiter eines Nachrichtendienstes
+Q15105893,Stadt in Kroatien,Verwaltungseinheit von Kroatien
+Q1328899,Standardisierungsorganisation,"Organisation, die Standards entwickelt"
+Q7339484,Straßenradfahren,Form des Radfahrens
+Q1615742,Provinz von China,Verwaltungseinheit in China
+Q11828004,Provinz in Kanada,Verwaltungseinheit in Kanada
+Q4,Tod,endgültiger Verlust der Lebensfunktionen
+Q1056901,Verlust,Einbüßen eines Einsatzmittels beim Militär
+Q715301,Comicautor,"Person, die zur Erstellung eines Comics beiträgt"
+Q17737,Theorie,"hervorgebrachtes System mit dem Ziel, Ausschnitte der Realität zu erklären"
+Q1963588,Blutkrankheit,Erkrankung des Blutes
+Q2001305,Fernsehkanal,"Kanal, über den eine Fernsehstation aussendet"
+Q18556697,HIV-Krankeit,Krankheit
+Q2159907,Krimineller,"Person, die strafbare, verbrecherische Handlungen ausübt"
+Q3966286,Hinrichtung,vorsätzliche Tötung eines Menschen
+Q49757,Dichter,"Schriftsteller, der eigene Gedichtbände veröffentlicht"
+Q822146,Liedtexter,Verfasser von singbaren Texten für Lieder
+Q24262594,religiöser Verfasser,Autor religiöser Schriften
+Q1238570,Politikwissenschaftler,"Person, die sich mit Politikwissenschaft beschäftigt"
+Q5849,Rugby Union,Sportart aus der Rugby-Familie
+Q2252077,Schusswaffengebrauch,Schussabgabe aus einer Schusswaffe durch einen Schützen
+Q105688,Hypoxie,Krankheit
+Q20965770,Wintersportler,"Person, die eine oder mehrere Wintersportarten betreibt"
+Q6138528,Koalition,in der Politik temporäres Bündnis politischer Parteien
+Q34171,Tai-Kadai-Sprachen,Sprachfamilie
+Q413,Physik,"Naturwissenschaft, die grundlegende Phänomene der Natur untersucht"
+Q1355654,Parteihochschule,Bildungseinrichtung kommunistischer Parteien
+Q22698,Park,gestaltete größere Grünflächen
+Q13424425,Waldfriedhof,"Friedhof, der auf der Gesamtfläche einen dichten Baumbestand aufweist"
+Q11351,organische Chemie,"Teilgebiet der Chemie, Kohlenstoffchemie"
+Q169470,Physiker,Naturwissenschaftler der Physik
+Q9259,UNESCO-Welterbe,Titel der UNESCO
+Q2177636,Kommune in Dänemark,Verwaltungseinheit in Dänemark
+Q996839,Bruderschaft,organisierte Gemeinschaft oder Körperschaft von Männern
+Q3875186,Bau,Herstellung von Objekten und Konstruktionen jeglicher Art
+Q205049,Weltmusik,Musikgenre
+Q4384751,Traditionskultur,"traditionelle Tänze, Lieder und Geschichten, überliefert oder moderne Neuinterpretationen"
+Q43343,Folk,Musik-Genre
+Q20901295,Außenministerium,"Ministerium, regelt die auswärtigen Beziehungen eines Staates"
+Q7830213,Township in New Jersey,Verwaltungseinheit im US-Bundesstaat New Jersey
+Q219577,Holding,"Unternehmen, nur Kapitalbeteiligungen an anderen Unternehmen zu halten"
+Q2442401,Tonträgerunternehmen,"Unternehmen der Musikindustrie, das die Entwicklung, Produktion und Vermarktung von Musik auf Tonträgern betreibt"
+Q18931911,Theoretiker,Bearbeiter von Theorien
+Q1455927,Personalprälatur,Institut nach kanonischem Recht mit Statuten vom Heiligen Stuhl
+Q961559,Nguni-Sprachen,Familie der afrikanischen Sprachen
+Q855091,Gitarrist,"MusikerIn, der/die Gitarre spielt"
+Q3529618,akademischer Titel,"Titel eines Studierenden oder eines Lehrers, der von einer akademischen Institution verliehen wird"
+Q1231865,Pädagoge,"Person, die sich mit erzieherischen Handeln professionell auseinandersetzt"
+Q2675537,Musiklehrer,"Person, die musizieren lehrt"
+Q18621601,Vergiftung,"pathologischer Zustand eines Lebewesens, der durch die Aufnahme einer jeweiligen Mindestmenge von verschiedensten Substanzen ausgelöst wird"
+Q2600216,Yersiniose,Krankheit durch Bakterien der Gattung Yersinia
+Q12078,Krebs,bösartige Tumorerkrankung
+Q233309,Hirntumor,Tumor im Gehirn
+Q2610088,Moräne,"geomorphologischer Begriff, Geschiebe und Ablagerungen von Gletschern"
+Q46395,britische Überseegebiete,"Gebiete, die keinen Teil des britischen Staates bilden, aber unter seiner Hoheit stehen"
+Q1402592,Inselgruppe,Ansammlung mehrerer Inseln
+Q8242,Literatur,Bereich aller mündlich oder schriftlich fixierten sprachlichen Zeugnisse
+Q811979,Bauwerk,Konstruktion mit ruhendem Kontakt zum Untergrund
+Q16110,Region in Italien,oberste administrative Einheit in Italien
+Q451967,menschliche Handlung,"jede menschliche, von Motiven geleitete zielgerichtete Aktivität"
+Q1190554,Ereignis,Auftreten eines beobachtbaren Geschehens
+Q10843872,Prozess,"Ablauf, Gang eines Geschehens"
+Q737460,Sehbehinderung,Einschränkung der visuellen Wahrnehmungsfähigkeit
+Q3041498,Augenkrankheit,Erkrankung des Auges
+Q7188,Regierung,"Institution des Staates, welche die Politik nach innen und außen lenkt und beaufsichtigt"
+Q640506,Kabinett,in der Politik zumeist eine bestimmte Regierung eines (Bundes-)Staates
+Q153813,Vernichtungslager,Ort zur gezielten Vernichtung von Völkern und Menschengruppen
+Q41298,Zeitschrift,regelmäßig wöchentlich bis vierteljährlich erscheinendes Printmedium
+Q2616791,Stadtgemeinde von Polen,Verwaltungseinheit in Polen
+Q33525,Karzinom,"Krebserkrankungen, ausgehend von entarteten Zellen im Deckgewebe von Haut oder Schleimhaut"
+Q1783924,Kopf-Hals-Karzinom,Krankheit
+Q990488,Luftkurort,Prädikat für Kurorte
+Q1499928,Gemarkung,Flächeneinheit des Katasters (Grundbuch)
+Q1336920,Community College,Bildungsinstitution
+Q1852859,Wohnplatz in den Niederlanden,Stadt oder Dorf in NL
+Q33384,Dialekt,lokale oder regionale Sprachvarietät
+Q478798,Abbild,Bild und seine Beziehung zu einem darauf abgebildeten wiedererkennbaren Gegenstand
+Q1622217,Figürliche Kunst,"Darstellung von Personen, Lebewesen oder Gegenstände"
+Q1658894,Illusionist,"Künstler, der meist mit technischen Mitteln bei seinem Publikum Sinnestäuschungen erzeugt"
+Q622358,Indian Institute of Technology,mehrere Universitäten in Indien
+Q5195043,Borough,Verwaltungseinheit in verschiedenen Staaten
+Q3664326,Piratenpartei,Politische Partei
+Q1779527,Studentenverbindung,in Vereinen organisierte Minderheit von Studenten und Alumni im deutschsprachigen Raum
+Q562061,Marktgemeinde,Gemeinde mit Marktrecht
+Q15303838,Sitz der Gemeindeverwaltung,"Ort, an dem die Verwaltung einer Gemeinde ihren Sitz hat"
+Q901402,Geograph,"Gelehrter, dessen Studienbereich Geographie ist"
+Q1792623,Kunstschule,kunstpädagogische Einrichtung
+Q11784483,Neues Bauen,Architekturkonzept im frühen 20. Jahrhundert
+Q1476215,Menschenrechtler,"Person, die sich gewaltfrei für die Menschen- und Grundrechte einsetzt"
+Q3184121,Gemeinde in Brasilien,administrative Aufteilung der Bundesstaaten in Brasilien
+Q9794,Reggae,Musikrichtung jamaikanischen Ursprungs
+Q2120466,Päpstliche Universität,"römisch-katholische Universität, die durch den Heiligen Stuhl errichtet wurde und unter dessen direkter Aufsicht steht"
+Q1368944,Spieleindustrie,"Industriezweig, der sich mit der Erfindung, Produktion und Vermarktung von Spielen beschäftigt"
+Q180744,Blechblasinstrument,Musikinstrument
+Q29431432,Dyade,Gruppe oder Serie von zwei Dingen oder Objekten
+Q1017546,Stadtteil von Los Angeles,Wikimedia-Liste
+Q352102,Journalistenschule,"Bildungseinrichtung, die zukünftige Redakteure für Presse, Rundfunk und Online-Medien ausbildet"
+Q3518817,Äquivalentes Gebiet,Verwaltungseinheit von Québec
+Q20502,House Muzik,"Stilrichtung der elektronischen Tanzmusik, die in den 1980er Jahren in den USA entstand"
+Q170435,Trance,Musikgenre
+Q211756,Dance-Pop,Musik-Genre
+Q601235,Hip House,Musik-Genre
+Q606393,Hi-NRG,Musik-Genre
+Q1374731,Euro Disco,Musikgenre
+Q1890098,New Beat,"musikalisches Genre, Stilart des House"
+Q2519376,Schmuckdesigner,"Person, die Schmuck und Ähnliches entwirft und gegebenenfalls herstellt"
+Q9237,Malaiisch,"Amtssprache in Malaysia, Singapur und Brunei"
+Q3578589,Umweltschützer,"Person, die die Ziele der Umweltbewegung unterstützt"
+Q12622609,Offizierschule,Ausbildungseinrichtung für Offiziere des Militärs
+Q9842,Grundschule,Schulform der Primarstufe
+Q1459186,Collège,Schulstufe in Frankreich
+Q1155838,Korrespondent,"Journalist, der von bzw. über Schauplätze berichtet"
+Q191163,Landschaftsmalerei,Gattung der gegenständlichen Malerei
+Q11514315,historische Periode,Zeitabschnitt in der Geschichte
+Q2120173,Pädagogische Hochschule,Zentren der Bildungswissenschaften
+Q17291399,Mitglied des Filmstabs,"Person, die Teil einer Filmcrew ist"
+Q14350,Hörfunksender,Organisation für die Produktion und Übertragung von Radioprogrammen
+Q1251441,Anführer,"Person, die die Autorität besitzt, das Verhalten anderer zu beeinflussen"
+Q1970438,Operator,Beruf unter anderem im Bereich Rundfunk
+Q74649115,Filmtechniker,"Person, die für technische Aspekte der Filmproduktion verantwortlich ist"
+Q21869758,Commune deleguée,französische Gemeindefusion
+Q5146,Portugiesisch,"romanische Sprache, die von der iberischen Halbinsel stammt"
+Q11812346,County von Illinois,Verwaltungseinheit in Illinois
+Q1414937,Kombattant,als solche benannte und durch Kennzeichen erkennbare Mitkämpfer in Kriegshandlungen
+Q1444,Orgel,Tasteninstrument mit mehreren Klaviaturen
+Q3055126,Entomologe,Wissenschaftler der Entomologie
+Q13410485,County von Massachusetts,Verwaltungseinheit in Massachusetts
+Q3326717,literarische Strömung,Kunstströmung
+Q2736,Fußball,"Ballsportart, bei der zwei Mannschaften, mit je elf Spielern, gegeneinander antreten"
+Q1781198,Agronom,Wissenschaftler der Agrarwissenschaft
+Q33750,mongolische Sprachen,Sprachfamilie
+Q878223,Hochland,Landschaftsform
+Q131566,Institute of Electrical and Electronics Engineers,Berufsverband von Ingenieuren
+Q3750285,Verwaltungseinheit von Kanada,Typ von Verwaltungseinheiten
+Q15924224,Internist,Arzt auf dem Spezialgebiet Innere Medizin
+Q3199141,Stadt in Indonesien,Verwaltungseinheit von Indonesien
+Q46831,Gebirge,"Relief der Erdoberfläche, das sich aus der flacheren Umgebung erhebt"
+Q185626,Einfachrohrblattinstrument,Holzblasinstrument
+Q12262532,County von Minnesota,Verwaltungseinheit in Minnesota
+Q18663579,ehemalige Gemeinde in Norwegen,einst bestehende Gemeinde in Norwegen
+Q1149652,Distrikt in Indien,Verwaltungseinheit von Indien
+Q3242115,Revolutionär,"Person, die entweder aktiv an einer Revolution beteiligt ist, oder diese befürwortet"
+Q138796,Widerstand,Verweigerung des Gehorsams oder das aktive oppositionelle Handeln gegenüber der Obrigkeit oder der Regierung
+Q276548,Geheimbund,"Organisationen oder Vereinigungen, die ihre Mitglieder, ihre Ziele oder ihre Tätigkeit vor ihrer sozialen Umwelt geheimhalten"
+Q15063586,Bundesstaat in Malaysia,Verwaltungseinheit von Malaysia
+Q159810,Wirtschaft,Aufwendungen zum Unterhalt des Menschen
+Q835714,Oblast in Russland,Verwaltungseinheit in Russland
+Q2911266,Borough in New Jersey,Verwaltungseinheit im US-Bundesstaat New Jersey
+Q4315006,Nationale Forschungsuniversität Russlands,Status für russische Universitäten
+Q766570,Kategorie:Liste der politischen Parteien in Russland,Wikimedia-Liste
+Q79529,chemischer Stoff,"Material, das charakteristische Eigenschaften besitzt"
+Q50413986,Spezialanwendung von Chemikalien,"Einsatz von Chemikalien in Forschung, Industrie und Haushalt. Hiervon ausgenommen sind pharmakologische Aktionen"
+Q177826,Klerus,Gesamtheit der Angehörigen des geistlichen Standes
+Q171558,Unfall,"unvorhergesehenes, einer Person oder Sache Schaden zufügendes Ereignis"
+Q5107,Kontinent,geschlossene Festlandmasse
+Q328468,NS-Konzentrationslager,Arbeits- und Vernichtungslager des NS-Regimes für Menschen
+Q45971958,Gattung der darstellenden Künste,"Darstellende Künste wie Drama, Oper, Ballett, …"
+Q467,Frau,"weiblicher, erwachsener Mensch"
+Q17524420,Aspekt der Geschichte,Thema aus einer historischen Perspektive gesehen
+Q80083,Humanities,"verbreitete Wissenschaftskategorisierung, die alle Wissenschaften mit Bezug auf menschliche Kultur subsumiert"
+Q944537,Geisteswissenschaft,Sammelbezeichnung für unterschiedliche Einzelwissenschaften
+Q3286043,Erotikmodel,"Person, die mehr oder weniger nackt für Fotos Model steht; für Erotik im Allgemeinen (in Abgrenzung zum Aktmodell, das ausschließlich im Bereich der Kunst tätig ist)"
+Q6581072,weiblich,Mensch mit weiblichem Geschlecht (Verwendung mit P21)
+Q20738811,Kreis in Nordrhein-Westfalen,Mittlere Veraltungsebene in Nordrhein-Westfalen
+Q2577883,besetztes Territorium,militärisch besetztes Gebiet
+Q1780353,kommunaler Spitzenverband,Zusammenschluss von kommunalen Gebietskörperschaften
+Q55833,Superkontinent,"Ein Superkontinent ist eine zusammenhängende, alle oder zumindest beinahe alle Kontinentalkerne bzw. Kratone der Erde in sich vereinende Landmasse"
+Q1850612,Regierungsbezirk in Preußen,Verwaltungseinheit im historischen Staat Preußen
+Q22721,Regierungsbezirk,in Deutschland die mittlere staatliche Verwaltungsebene einiger Bundesländer
+Q464235,Bezirk in Bayern,"kommunale Gebietskörperschaft in Bayern, Deutschland"
+Q170156,Staatenbund,Zusammenschluss souveräner Staaten
+Q48204,Freiwilligen-Verein,freiwillige und auf Dauer angelegte Vereinigung von natürlichen und/oder juristischen Personen zur Verfolgung eines bestimmten Zwecks
+Q662914,Bezirke in der Schweiz,Ebene zwischen Kanton und Gemeinde in der Schweiz
+Q3329375,Sprachvarietät,bestimmte Ausprägung einer Einzelsprache
+Q853614,Identifikator,"Name, auch Nummer zur eindeutigen Identifizierung"
+Q12047392,Rechtsform,gesetzlicher Rahmen von Gesellschaften
+Q134161,Aktiengesellschaft,privatrechtliche Vereinigung
+Q783794,Personenvereinigung,Zusammenschluss von mindestens zwei natürlichen und/oder juristischen Personen
+Q1269299,Rechtsform für Unternehmen,durch Gesetze zwingend vorgeschriebener rechtlicher Rahmen von Gesellschaften
+Q33685,Kapitalgesellschaft,"Körperschaft des privaten Rechts, deren Mitglieder einen gemeinsamen Zweck verfolgen"
+Q1666019,Interessenverband,"auf Dauer angelegter Zusammenschluss von Personen, der den politischen Willensbildungsprozess und das staatliche Handeln beeinflussen will"
+Q1437459,Gebirgssystem,Gruppe von Gebirgen mit ähnlicher Form und vermutetem selben geologischen Ursprung
+Q19335303,Rechtsform in Deutschland,in Deutschland verwendete Rechtsform
+Q155076,juristische Person,"Vereinigung von Personen oder eine Vermögensmasse, die rechtsfähig ist"
+Q15829892,Gesellschaft mit beschränkter Haftung,"Gesellschaft mit beschränkter Haftung in deutschsprachigen Ländern (Deutschland, Österreich, Schweiz, Lichtenstein)"
+Q8366,Algorithmus,"endliche, eindeutige Handlungsvorschrift zur Lösung eines Problems"
+Q21198,Informatik,Wissenschaft von der systematischen Verarbeitung von Informationen
+Q16686448,künstliche Entität,von Menschen Erschaffenes
+Q18624259,private haftungsbeschränkte Gesellschaft,"Typ der Kapitalgesellschaft ähnlich der GmbH, der in vielen Ländern existiert"
+Q515593,Rätoromanische Sprachen,Sprachgruppe
+Q699386,Körperschaft des öffentlichen Rechts,Organisationsform in verschiedenen Ländern
+Q245188,Moderne,Architekturepoche
+Q5055981,Concejo,Verwaltungseinheit in der spanischen Region Asturias
+Q855697,Subkontinent,Teil eines Kontinentes
+Q33837,Archipel,Meeresregion mit vielen Inseln
+Q6465,Département,administrative Aufteilung Frankreichs
+Q15089,Italienische Provinz,administrative Verwaltungseinheit Italiens
+Q15110,Metropolitanstadt,"italienische Verwaltungseinheit, die zugleich Funktionen einer Provinz und einer Kommune erfüllt"
+Q161837,Daseinsvorsorge,staatliche Aufgabe zur Bereitstellung der für ein menschliches Dasein als notwendig erachteten Güter und Leistungen
+Q604177,Stadt- oder Gemeindearchiv,"Archiv, das die Dokumente einer Stadt oder Gemeinde bewahrt"
+Q67123843,durch eine Grenze geteilte Stadt,"Stadt, die durch eine Grenze geteilt ist"
+Q12413618,internationale Grenze,Grenzen zwischen zwei souveränen Staaten
+Q13410464,County von Maryland,Verwaltungseinheit in Maryland
+Q11042,Kultur,vom Menschen hervorgebrachte Sphäre des Wahrnehmbaren
+Q33577,indoarische Sprache,sekundärer Zweig der indogermanischen Sprachfamilie
+Q33311,dravidische Sprachen,Sprachfamilie
+Q14784328,Landeshauptstadt,Hauptstadt eines Bundeslandes in Deutschland
+Q193512,Maakunta,Verwaltungseinheit in Finnland
+Q133442,Stadtstaat,"ein unabhängiges oder autonomes Gebiet, das im Wesentlichen aus einer Stadt besteht"
+Q779415,Sonderverwaltungszone von China,Verwaltungseinheit der Volksrepublik China
+Q485258,föderative Einheit von Brasilien,administrative Aufteilung von Brasilien
+Q387917,Verwaltungseinheit in Deutschland,"Organisationsstruktur von Bund, Ländern und Gemeinden in Deutschland"
+Q20724849,Generalgouvernement des Deutschen Reichs,ein Generalgouvernement des Deutschen Reichs - gab nur eines
+Q1065,Vereinte Nationen,globale internationale und zwischenstaatliche Organisation
+Q15925165,UN-Sonderorganisation,"rechtlich und finanziell selbständige Organisationen, die mit der UN verbunden ist"
+Q22687,Bank,"Kreditinstitut, das entgeltliche Dienstleistungen für den Zahlungs-, Kredit- und Kapitalverkehr anbietet"
+Q18252680,NOG,Gen der Spezies Homo sapiens
+Q150093,Woiwodschaft,Verwaltungseinheit in Polen
+Q855451,Verwaltungseinheit von Polen,Territoriale Gliederung in Polen
+Q193560,Bezirke Israels,Verwaltungseinheit von Israel
+Q944816,Ökozone,geowissenschaftlicher Begriff für einen zonalen Großraum der Erde
+Q44753,Provinz Argentiniens,Verwaltungseinheit in Argentinien
+Q28657263,Wahlkreis in Finnland,Wahlkreis in Finnland
+Q15239622,umstrittenes Territorium,"Territorien, die zwischen zwei oder mehreren existierenden Staaten umstritten sind"
+Q13415369,County von Washington,Verwaltungseinheit in Washington
+Q13217186,County von Arizona,Verwaltungseinheit in Arizona
+Q13410422,County von Florida,Verwaltungseinheit in Florida
+Q1339898,kiptschakische Sprachen,Sprachgruppe
+Q33248,Kuschitische Sprachen,Sprachfamilie
+Q127448,Gemeinde in Schweden,Verwaltungseinheit auf kommunaler Ebene nach schwedischem Recht
+Q9168,Persisch,"iranische Amtssprache, Farsi, Neupersisch"
+Q56557504,Schahr,Verwaltungseinheit von Iran
+Q3348196,Oblast in der Ukraine,Verwaltungseinheit in der Ukraine
+Q1335818,Supranationalität,völkerrechtliche Übertragung nationaler Souveränitätsrechte auf gemeinsame Institutionen
+Q4120211,regionale Organisation,Regionale Organisation
+Q7210356,politische Organisation,"Gruppe, die sich mit politischen Aktivitäten beschäftigt"
+Q131569,völkerrechtlicher Vertrag,Vertrag zwischen mindestens zwei Subjekten des Völkerrechts
+Q1127126,Militärbündnis,"zwischen verschiedenen Staaten geschlossenes Bündnis mit dem Zweck, militärisch zu kooperieren"
+Q9043,Norwegisch,skandinavisch/nordgermanischer Zweig der indogermanischen Sprachen
+Q471855,Zuständigkeit,"legt im öffentlichen Recht fest, welche Behörde bzw. welches Gericht im Einzelfall rechtlich zu hoheitlichem Handeln ermächtigt und verpflichtet ist"
+Q851990,Bevölkerungsgruppe,"demografischer Begriff, der Personen nach einzelnen statistischen Merkmalen zusammenfasst."
+Q1140229,politische Union,politischer Verband von Staaten
+Q645883,Operation,koordinierte militärische Handlungen
+Q1496967,Gebiet,Teil der Erdoberfläche mit festgelegten Grenzen
+Q157031,Stiftung,"Einrichtung, die mit Hilfe eines Vermögens einen vom Stifter oder Stiftern festgelegten Stiftungszweck verfolgt"
+Q163629,äthiosemitische Sprachen,Sprachfamilie
+Q145852,westslawische Sprachen,Sprachfamilie
+Q394067,Europäer,Bewohner Europas
+Q480242,statistischer Dienst,Regierungsorganisation für nationale Statistiken
+Q6815100,Mitgliedsorganisation,Typ einer Organisation die Mitglieder hat
+Q390576,Nordwestiranische Sprachen,Sprachfamilie
+Q34057,Tagalog,Austronesische Sprache auf den Philippinen
+Q1641150,Tibetanische Sprachen,Sprachfamilie
+Q9129,Griechisch,indogermanische Sprache
+Q17522177,Zeitalter,längerer Abschnitt in der Geschichte
+Q162996,nordwestsemitische Sprachen,Sprachfamilie
+Q839954,archäologische Stätte,"Ort, an dem Überreste der Vergangenheit erhalten geblieben sind"
+Q1291195,Fundort,"Ort bzw. Stelle, an dem ein (historischer, paläontologischer etc.) Fund gemacht wurde"
+Q3055118,einzelne Bevölkerungseinheit,spanische statistische Einheit für Wohnorte
+Q23526,slawische Sprachen,Zweig der indogermanischen Sprachfamilie
+Q748,Buddhismus,philosophische Lehrtradition und Religion
+Q22674925,aufgegebene Siedlung,"ehemalige Siedlung, die nicht mehr existiert"
+Q5774265,Historische Person,berühmte Person der Geschichte
+Q9288,Hebräisch,nordwestsemitische Sprache
+Q986800,Niederländisch-Deutsche Sprachfamilie,indogermanische Sprache
+Q56557664,Stadt,Typ einer Verwaltungseinheit in Aserbaidschan
+Q1180262,Residenzstadt,Stadt des Sitzes eines Herrschers
+Q129372,Kulturhauptstadt Europas,Titel der Europäischen Union
+Q9585,Schia,"religiöse Strömung des Islam mit verschiedenen Gruppen, islamische Rechtsquelle"
+Q702492,Städtisches Gebiet,dichtbebautes Gebiet
+Q48352,Staatsoberhaupt,"Person, die die höchste politische Position in einem souveränen Staat innehat"
+Q2304859,Souverän,Inhaber der Staatsgewalt
+Q572197,Mittelfränkisch,indogermanische Sprache
+Q1061151,Massiv,geschlossener Block aus Fels
+Q2537,Satellit,astronomische Bezeichnung für einen Mond
+Q1710033,autonome Region mit Sonderstatut,italienische autonome Region mit Sonderstatut
+Q35874,Humor,"Tendenz, auf eine bestimmte Situation heiter zu reagieren"
+Q5780518,Kommunikator,"Person, die beruflich in sozialen Medien kommuniziert"
+Q1243869,Treponematose,Infektionskrankheit durch Bakterien der Gattung Treponema
+Q3533467,Gruppenaktion,Begriff aus der Soziologie
+Q7366,Lied,Vokalmusik
+Q1684600,Nachrichtenmagazin,ein regelmäßig (meist wöchentlich) erscheinendes Nachrichtenformat
+Q40831,Komödie,"Drama mit erheiterndem Handlungsablauf, das in der Regel glücklich endet"
+Q80930,Tragödie,Form des Dramas
+Q170292,Klassizismus,kunstgeschichtliche Epoche
+Q621993,Literaturgattung,"literarische Großgattung wie Epik, Lyrik oder Dramatik"
+Q482,Poesie,"Literatur, deren Schöpfung traditionell nach den poetischen Gattungen geteilt wird"
+Q22811707,Dekorateur,Beruf
+Q245068,Komiker,"Person, die es sich zum Ziel oder Beruf gemacht hat, Mitmenschen mimisch, gestisch oder sprachlich zum Lachen zu bringen"
+Q11163999,Kinder- und Jugendliteratur,Literaturgenre
+Q40634,Philologie,Sprach- und Literaturwissenschaft einer Sprache oder eines Sprachzweiges
+Q19830059,Schiffsbesatzung,Gesamtheit aller Seeleute auf einem Boot oder Schiff
+Q2713379,Päpstliche Basilika,römisch-katholische Basiliken unter direkter Jurisdiktion des Heiligen Stuhls
+Q831474,Presbyter,Träger eines kirchlichen Amts
+Q207628,Musikkomposition,"die Schöpfung, Erarbeitung und Urheberschaft eines musikalischen Kunstwerks"
+Q9759,Blues,vokale und instrumentale Musikform
+Q1640319,Experimentalmusik,Musik-Genre
+Q1497375,Gebäude-Ensemble,Gruppe von Gebäuden und Außenräumen
+Q3249551,Prozess,Folge von Änderungen
+Q193606,Horrorliteratur,Literaturgattung
+Q22811234,philosophische Disziplin,Unterteilung des Feldes der Philosophie
+Q5891,Philosophie,Kunst des Nachdenkens
+Q4330518,Forschungsgegenstand,"Jemand oder Etwas, das wissenschaftlich beobachtet oder experimentell getestet wird."
+Q21010853,Drama,"mediales Genre, nicht zu verwechseln mit der literarischen Form Drama"
+Q590870,Cinematografie,Kunst des Films
+Q512314,Persönlichkeit der Gesellschaft,Person der höheren Gesellschaft
+Q15472169,Mäzen,"Person, die ein bestimmtes Anliegen, eine Person oder Institution fördert"
+Q11773926,kirchlicher Titel,"Titel, der die Stellung in einer Kirche angibt"
+Q733786,Mönch,Mitglied eines religiösen Ordens in den Klöstern
+Q4964182,Philosoph,"Mensch, der sich mit Philosophie beschäftigt"
+Q17310537,Bildhauerei,Herstellung von Skulpturen und Plastiken in Kunst und Kunsthandwerk
+Q250867,katholischer Priester,Amtsperson der katholischen Religionsausübung
+Q432386,Prediger,"Person, die Predigten und Lesungen veranstaltet"
+Q548320,Bruder,männliches Mitglied einer christlichen Ordensgemeinschaft
+Q2566598,Ordensangehöriger (katholisch),Angehöriger einer katholischen Ordensgemeinschaft
+Q20730955,Geschichte,frz. conte; mündlich überlieferte oder von einem Autor erschaffene Erzählung
+Q25372,Drama,grundlegende Gattung der Literatur
+Q874405,soziale Gruppe,"zwei oder mehr Personen, die alle in einer unmittelbaren sozialen Beziehung zueinander stehen"
+Q8008,Geowissenschaften,"Wissenschaften, die sich mit der Erde beschäftigen"
+Q11190,Medizin,"Lehre der Vorbeugung, Erkennung und Behandlung von Krankheiten"
+Q1826286,religiöse Bewegung,soziale und ideologische Bewegung im religiösen Bereich
+Q45996,Mystik,"auf individuelles, nicht objektivierbares Erfahren gestütztes Religionsverständnis"
+Q15994170,Schriftstellerverband,Verband von Schriftstellern
+Q497893,literarische Gesellschaft,Vereinigung zur Förderung von Literatur und Kultur
+Q3075052,Volkskundler,Beruf
+Q4894405,Genre des Journalismus,literarischer Schreibstil
+Q6585139,Mystery,Genre
+Q836950,Bearbeitung,Abwandlung eines Werkes
+Q13406463,Wikimedia-Liste,"Seite eines Wikimedia-Projektes, bei der es primär um eine Auflistung von etwas geht"
+Q25442,sorbische Sprachen,westslawische Sprachen
+Q1792450,Kunsthistoriker,"Geisteswissenschaftler, der sich mit der geschichtlichen Entwicklung der Kunst beschäftigt"
+Q1401304,Wirtschaftstheorie,"Teilbereich der Volkswirtschaftslehre, der sich mit grundlegenden Abläufen und Zusammenhängen volkswirtschaftlicher Art befasst"
+Q309,Geschichte,"vergangene Ereignisse und ihre Überlieferung, wie sie von der Geschichtswissenschaft und Geschichtsschreibung betrachtet werden"
+Q1371378,Ethnologe,"Person, die ethnische Gruppen und indigene Völker erforscht"
+Q12347522,Ethnograf,"Person, die Ethnografie betreibt"
+Q14467526,Linguist,Beruf
+Q476294,Orientalistik,Studium der Sprachen sowie der geistigen und materiellen Kultur des Orients
+Q1069,Geologie,Wissenschaft von der Entwicklung und vom Aufbau der Erde
+Q83267,Verbrechen,schwerwiegender Verstoß gegen die Rechtsordnung einer Gesellschaft
+Q149086,Tötung eines Menschen,Tötung eines Menschen durch einen anderen Menschen
+Q13226383,Einrichtung,für einen Zweck angelegte Örtlichkeit
+Q42603,Priester,"Amtsperson, die in ihrer Eigenschaft als Vorsteher kultischer Handlungen eine Mittlerrolle zwischen jeweiliger Gottheit und den Menschen einnimmt"
+Q213051,Non-Fiction,nicht-fiktionale Darstellung
+Q182413,Toxikomanie,Abhängigkeit von legalen psychoaktiven Substanzen
+Q7331102,Alkoholmissbrauch,Krankheit
+Q36870,Muttersprache,"Sprache, die eine Person von Geburt an gelernt hat"
+Q1208380,Dialektgruppe,Bezeichnung für miteinander verwandte Dialekte
+Q131339,Alemannisch,deutsche Dialektgruppe
+Q9332,Verhalten,koordinierte Reaktionen auf interne oder externe Reize
+Q1149305,Disposition,"Tendenz, auf eine bestimmte Art und Weise zu handeln"
+Q43099500,Produktion der darstellenden Künste,"Produktion der darstellende Künste, bestehend aus einer Serie von praktisch identischen Aufführungen eines Werks der darstellenden Künste"
+Q164444,Funk,Musikstil
+Q16575965,Horror,Genre
+Q179661,Therapie,Maßnahmen zur Behandlung von Krankheiten und Verletzungen
+Q7867,Psychiatrie,medizinische Fachdisziplin
+Q9418,Psychologie,empirische Wissenschaft vom Erleben und Verhalten
+Q1002697,Periodikum,regelmäßig erscheinendes Werk
+Q1368848,Literaturzeitschrift,"regelmäßige Zeitschrift, die sich kritisch mit Literatur auseinandersetzt oder selbst zur Literatur beiträgt"
+Q15981151,Jazzmusiker,"Musiker, die Jazz spielt"
+Q4946461,Kurort,"Prädikat für Orte, deren Boden, Wasser oder Klima für medizinische Therapie genutzt wird"
+Q1254874,Fernseh-Network,"Senderkette, die mit einem Leitsender zahlreiche lokale Fernsehsender mit einem Mantelprogramm beliefert"
+Q2393196,Persönlichkeitseigenschaft,bestimmte Aspekte des Verhaltens einer Person in einer bestimmten Klasse von Situationen
+Q6784672,Gemeinde in der Slowakei,Verwaltungseinheit in der Slowakei
+Q42884,Deutsche,"Bürger Deutschlands; Personen, die der ethnischen Gruppe der deutschen Sprache und Kultur angehören"
+Q173453,Blasinstrument,durch eigene Atemluft zu betätigendes Musikinstrument
+Q181247,Holzblasinstrument,Gruppe der Musikinstrumente
+Q9299236,eingetragener Verein,Rechtsform in Deutschland. Wird in das Vereinsregister des jeweils zuständigen Amtsgerichts eingetragen.
+Q10901350,Manga und Anime,Japanische Comics und japanischer Zeichentrick
+Q212980,Psychologe,"Berufsbezeichnung von Personen, die das Studium der Psychologie an einer Hochschule abgeschlossen haben"
+Q1900167,Psychotherapeut,"Person, die heilkundliche Psychotherapie ausübt"
+Q19860854,abgegangenes Bauwerk,nicht mehr existierendes Bauwerk
+Q7749,Rock ’n’ Roll,Begriff für eine US-amerikanische Musikrichtung
+Q116,Monarch,Herrscher/Staatsoberhaupt in einer Monarchie
+Q611644,katholischer Bischof,"geistlicher Würdenträger innerhalb der Katholischen Kirche, (Bischof → Q29182; orthodoxer Bischof → Q15283040)"
+Q828803,Berufsbezeichnung,Benennung und Beschreibung eines Berufs
+Q380075,Advokat,Bezeichnung für einen Rechtsanwalt
+Q758225,Attorney,Rechtsanwältin
+Q2994387,Berater,Person mit mehr und tieferen Kenntnissen in einem bestimmten Bereich
+Q333634,Übersetzer,"Sprachmittler, der fixierten Text von einer Ausgangssprache in eine Zielsprache übersetzt"
+Q19829990,Bibelwissenschaftler,Experte auf dem Gebiet der Bibelwissenschaften
+Q1083980,Studium generale,"Latin locution mit dem, was im Mittelalter die Institution der höheren Bildung genannt wurde"
+Q488205,Singer-Songwriter,Sänger und gleichzeitig Texter und Komponist
+Q55043,Gymnasium,weiterführende Schule des sekundären Bildungsbereichs
+Q3778417,Grüne Partei,"Partei, deren Programmatik durch Themen der Grünen Politik geprägt wird"
+Q15961983,Hörfunkgenre,"Gruppe von Hörfunksendungen, die unter einem spezifischen Aspekt Gemeinsamkeiten aufweisen"
+Q1555508,Hörfunksendung,Bezeichnung für im Radio gesendete (einzelne) Programme und deren Inhalte
+Q11024,Kommunikation,Austausch oder die Übertragung von Informationen
+Q11513034,gemeinnütziger Verein,gemeinnütziger Verein in Frankreich nach dem Gesetz vom 1. Juli 1901
+Q2659904,staatliche Organisation,Organisation
+Q309118,Politbüro,höchste politische Führungsgremium der meisten Kommunistischen Parteien
+Q2259451,Bühnenschauspieler,Schauspieler der live vor Publikum auftritt
+Q4184,Autobiografie,Beschreibung der eigenen Lebensgeschichte
+Q1153777,Gesetzgebende Versammlung,Wikimedia-Begriffsklärungsseite
+Q1791899,Kulturzeitschrift,"Periodikum, das weitgespannt kulturelle Themen behandelt"
+Q2661443,Hormonstörung,Krankheit
+Q214339,soziale Rolle,soziologisches Modell
+Q610877,Nordische Renaissance,Auftreten der Renaissance nördlich der Alpen
+Q1021386,Bürgerrechtler,Mensch der öffentlich für die Einhaltung der Menschenrechte und Bürgerrechte eintritt
+Q172980,Western,Filmgenre
+Q1067324,Exploitationfilm,Schlüsselloch Report
+Q589614,Völkische Bewegung,"deutschnationale, politische Bewegung"
+Q2864737,Religiöse Kunst,Kunst mit religiösen Themen
+Q354239,Kleinpartei,politische Partei mit geringer Anhängerschaft
+Q253019,Ortsteil,"Teil einer Siedlung in Deutschland, der unabhängig vom administrativen Status einen eigenen Namen trägt"
+Q12271,Architektur,Auseinandersetzung des Menschen mit gebautem Raum
+Q14378,Klassizismus,kunstgeschichtliche Epoche zwischen 1770 und 1840 (im Gegensatz zum Neoklassizismus im deutschen Sprachgebrauch)
+Q4198718,Klassische Architektur,Architekturstil
+Q1547289,Lutherstadt,"Stadt, in der Martin Luther gelebt oder maßgeblich gewirkt hat"
+Q17955,Kritik,Beurteilung eines Gegenstandes oder einer Handlung
+Q211346,Psychiater,"Arzt, der in der Psychiatrie spezialisiert ist"
+Q2419397,Therapeut,"Beruf, bei dem gegen Krankheiten Heilbehandlungen angewendet werden"
+Q5003624,Gedenkstätte,Ort mit starkem Bezug zu wichtigen historischen Ereignissen oder Personen
+Q851213,Elektronische Tanzmusik,Musikstil
+Q14515311,Corps,Studentenverbindungen in der landsmannschaftlichen Tradition des 18. Jahrhunderts
+Q49759,Blockpartei,zu einem Parteienblock zusammengeschlossene politische Parteien in realsozialistischen Staaten
+Q930752,medizinisches Fachgebiet,Teilgebiet der Medizin
+Q4502119,Künstlergruppe,Zusammenschluss von Künstlern
+Q1065742,geistliche Musik,Musik für religiöse Anlässe bzw. mit einem religiösen Einfluss
+Q278976,Bezirk in Hamburg,Oberste Verwaltungseinheiten in Hamburg
+Q164236,Kriegsberichterstatter,"Journalist, der aus Kriegsgebieten berichtet"
+Q957729,Fotojournalist,Fotograf für Pressemedien
+Q1021711,Seebad,Ort mit Badetourismus an Meeresküsten
+Q2368508,Surfspot,"Ort, an dem Windsurfen, Surfen oder Kitesurfen ausgeübt wird"
+Q19413015,Kitesurf-Spot,"Ort, an dem Kitsurfen ausgeführt werden kann"
+Q54128,Dienstbote,ständig im Haushalt wohnende angestellte Hilfskraft für Arbeiten in der Haus- und Landwirtschaft
+Q47728,Hobby,in der Freizeit aus Leidenschaft betriebene Beschäftigung
+Q2526255,Filmregisseur,kreativer Leiter einer Filmproduktion
+Q7257,Ideologie,Lehre von der Idee oder politisch-soziale Weltanschauungen
+Q1595570,Heimatforscher,"Person, die in der Erforschung der heimatlichen Umgebung tätig ist"
+Q1445275,Rundfunkrat,oberstes für die Programmkontrolle zuständiges Aufsichtsgremium
+Q845392,Polytechnikum,historische Form der sekundären oder tertiären Ausbildung
+Q595448,Postmoderne Architektur,Architekturstil
+Q24925,Science-Fiction,"Genre, das zeitlich, räumlich oder historisch alternative Konstellationen beschreibt"
+Q11633,Fotografie,Bildaufnahmetechnik
+Q235858,Volksmusik,"traditionelle, häufig schriftlos überlieferte Musik"
+Q286080,Akustikversion,Musik-Genre
+Q378604,Medienkunst,Gattung der bildenden Kunst
+Q2259731,Schülerverbindung,Verband von Schülern und Alumni eines Gymnasiums oder einer Mittelschule
+Q2306091,Soziologe,befassen sich mit dem Zusammenleben der Menschen in der Gesellschaft
+Q16335117,Geophysiker,"Person, die Geowissenschaft und Physik kombiniert"
+Q210588,Oberbegriff,"Begriff, der eine Kategorie für Unterbegriffe bildet"
+Q9730,klassische Musik,zusammenfassender Begriff für die europäische Musiktradition der Kunstmusik
+Q102932,Avantgarde,politische und künstlerische Bewegung
+Q546264,Beatmusik,Musik-Genre
+Q837837,Power Pop,Musik zwischen Pop und Rock
+Q42909,Reporter,Berichterstattung eines Journalisten vor Ort
+Q83270,Hard Rock,härter gespielte Stilrichtung der Rockmusik
+Q6066379,Blasenkrankheit,Erkrankung der Harnblase
+Q188473,Actionfilm,Filmgenre
+Q5193377,Kulturinstitut,"Organisation, die sich für die Erhaltung oder Förderung der Kultur einsetzt"
+Q4692,Renaissance,Kunstepoche der Neuzeit ab Ausklang des Mittelalters
+Q12206,Diabetes mellitus,Gruppe von Stoffwechselkrankheiten
+Q659563,Computerspiel-Genre,Computerspielbegriff
+Q355567,Adelstitel,Angabe des Rangs eines Adligen in der gesellschaftlichen Hierarchie
+Q11461,Schall,mechanische Schwingung innerhalb eines elastischen Mediums
+Q598929,Post-Punk,Musikgenre des Punk
+Q192619,Krypta,Teil einer Kirche
+Q193207,Ambient,Musikgenre
+Q1320047,Buchverlag,häufigste Form des Verlages
+Q42201,Independent,"Sammelbegriff für KüntlerInnen, welche unabhängig agieren wollen"
+Q755070,Erzähler,"Person, die einem Publikum eine Geschichte erzählt"
+Q8361,Barockmusik,Musikrichtung
+Q1497649,Gedächtnisinstitution,"Institution, die eine Sammlung kuratiert, und deren Aufgabe es ist, die Sammlung für weitere Generationen zu bewahren"
+Q2977,Kathedrale,"Kirche, die Sitz eines Bischofs und somit das Zentrum einer Diözese ist"
+Q15416,Fernsehsendung,Gruppe von thematisch oder redaktionell zusammenhängenden bewegten Bildern
+Q49848,Dokument,Art von Informationsträger
+Q12617225,religiöse Literatur,Literaturgattung
+Q132311,Fantasy,"Genre in Literatur, Film, Musik u.a."
+Q12912091,Spielfilm,Film mit einer fiktionalen Handlung
+Q352425,Adaption,Umarbeitung eines literarischen Werkes von einer Gattung in ein anderes Medium
+Q1756157,Rechtsgebiet,Teilgebiet des Rechts
+Q24238356,unbekannt,"Entität, deren Identität nicht bekannt ist"
+Q8274,Manga,aus Japan stammende Comics
+Q207694,Kunstmuseum,"Museum, in dem Kunstwerke verschiedener Künstler gesammelt, archiviert und ausgestellt werden"
+Q7184903,abstraktes Objekt,etwas nicht Sicht- und Greifbares
+Q584301,Bassist,"Musiker, der ein Bassinstrument spielt"
+Q131272,Soul,Musikgenre
+Q45981,Rhythm and Blues,Musikgenre
+Q3071,Punk,Stilrichtung der Rockmusik
+Q4797274,Kunstlied,Vokalmusik für eine Solostimme mit Klavierbegleitung
+Q187947,Partitur,Aufzeichnung mehrstimmiger Musik in Notenschrift
+Q1147752,Schauspielmusik,musikalisches Werk zur Begleitung eines Schauspiels
+Q502261,Stille,die Abwesenheit von Lärm
+Q487965,Industrial,Musik-Genre
+Q56296601,Untergrundbewegung,"oppositionelle, konspirative, politische Bewegung, die im Verdeckten arbeitet"
+Q3891158,Stabspiel,"Musikinstrumente, die zu der Familie der Schlaginstrumente gehören"
+Q1355387,Erlebnis,Ereignis im individuellen Leben eines Menschen
+Q211723,Speed Metal,Musik-Genre
+Q1259917,Geiger,"Musiker, der Geige spielt"
+Q193355,Bluesrock,Musik-Genre
+Q778575,Mischkonzern,Agglomerat
+Q1331793,Medienunternehmen,"Unternehmen, die publizistische Medien betreiben oder für diese produzieren"
+Q968730,Industrial Rock,Musik-Genre
+Q21590660,Western,Genre
+Q542,Leichtathletik,olympische Sportart
+Q210272,Kulturerbe,Gesamtheit der Kulturgüter
+Q1338153,Neue Musik,Sammelbegriff für eine Fülle unterschiedlicher Strömungen der komponierten westlichen Kunstmusik von etwa 1910 bis zur Gegenwart
+Q1761572,Barrio,Stadtteil oder Stadtviertel
+Q200092,Horrorfilm,Filmgenre
+Q658255,Tochtergesellschaft,"rechtlich eigenständiges, aber wirtschaftlich unselbstständiges Unternehmen"
+Q15709880,Rundfunkserie,Programmreihe im Hörfunk oder Fernsehen
+Q377910,Post-Hardcore,Musikgenre des Punk
+Q5398426,Fernsehserie,Folge von zusammen gehörenden Fernsehsendungen
+Q130232,Filmdrama,Filmgenre
+Q17013749,Historienfilm,"Filmgenre; Filme, deren Inhalt auf historischen Figuren, Ereignissen oder Bewegungen basiert"
+Q181001,Erotika,"Medien mit vorwiegend erotischem Sujet, deren Gegenstand die Darstellung oder Beschreibung sexueller Handlungen oder Situationen ist"
+Q185867,Film noir,Filmgenre
+Q959790,Kriminalfilm,Filmgenre
+Q1257444,Verfilmung,Umsetzung einer Vorlage im Medium Film
+Q319221,Abenteuerfilm,Filmgenre
+Q471839,Science-Fiction-Film,Filmgenre
+Q643873,Anwaltsdrama,Genre des Fernsehens
+Q52162262,Literaturverfilmung,Filmgenre
+Q157443,Filmkomödie,Filmgenre
+Q170539,Parodie,"verzerrende, übertreibende oder verspottende Nachahmung"
+Q1054574,Liebesfilm,Filmgenre
+Q2484376,Thriller,Filmgenre
+Q291,Pornografie,"direkte Darstellung der menschlichen Sexualität mit dem Ziel, den Betrachter sexuell zu erregen"
+Q663106,Buddy-Film,Filmgenre mit zwei Hauptcharakteren gleichen Geschlechts
+Q717040,Weihnachtstradition,Weihnachtsfeierlichkeiten und -bräuche in verschiedenen Ländern der Welt
+Q224700,Horrorkomödie,Filmgenre
+Q3072049,Zombiefilm,Subgenre des Horrorfilms
+Q202866,Animationsfilm,"Film, dessen Einzelbilder durch Zeichnungen oder Computeranimation entstanden sind"
+Q542475,Kostümfilm,Filmgenre
+Q7397,Software,Sammelbegriff für ausführbare Programme und die zugehörigen Daten
+Q23916,Adventure,Computerspiel-Genre
+Q1143118,Interactive Fiction,Computerspielgenre
+Q7281,Propaganda,Manipulation von Vorstellungen und Haltungen zu politischen Zwecken
+Q157394,Fantasyfilm,Filmgenre
+Q2143665,Kinderfilm,Filmgenre
+Q1107,Anime,Zeichentrickfilme aus Japan
+Q719927,Symphonic Rock,Musik-Genre
+Q49451,Progressive Rock,Genre des Rocks
+Q54365,Ska,Musikgenre
+Q10922,Hardcore Punk,Musikgenre des Punk
+Q186170,Doom Metal,Musikrichtung
+Q852767,Southern Rock,Musikgenre
+Q172067,Hentai,Oberbegriff für pornographische Manga und Anime
+Q747883,körperliche Aktivität,"physische Bewegung eines Menschen, die er selbst ausführt"
+Q11173,chemische Verbindung,aus zwei oder mehr verschiedenen chemischen Elementen bestehender Reinstoff
+Q12140,Arzneimittel,"Stoff, der für Diagnose, Prävention oder Therapie von Krankheiten benutzt wird"
+Q804539,Bakterizid,chemische Substanzen die Bakterien abtöten
+Q422687,Makrolide,Produkt des Stoffwechsels von Bakterien und Pilzen
+Q81938,Schmerz,Typ von Sinneswahrnehmung
+Q426549,Chinolon,chem. Verbindung(en)
+Q462174,Hydrat,chemische Verbindungen mit gebundenem Wasser
+Q1165777,UK Garage,Musik-Genre
+Q132438,Black Metal,Stilrichtung des Metal
+Q486415,Symphonic Metal,Musik-Genre
+Q1015103,Burgkapelle,"Kapellen, die auf Burgen errichtet wurden"
+Q465978,Extreme Metal,Stilrichtung des Metal
+Q825769,Crustcore,Musikstil
+Q209137,Postrock,Musik-Genre
+Q272167,Shoegazing,Musikstil
+Q483251,Death Metal,Musik-Genre
+Q484179,Folk Metal,Musik-Genre
+Q11634,Bildhauerkunst,"Gattung der bildenden Kunst, in der aus festen Stoffen bestehende, dreidimensionale Bildwerke geschaffen wurden und werden"
+Q372103,Electronic Body Music,Musik-Genre
+Q860861,Skulptur,dreidimensionales Kunstwerk
+Q5352191,Techniker,"Person, die in technischen Arbeitsgebieten tätig ist"
+Q1656696,Idealverein,"Vereinsform in Deutschland, die nicht auf die Erzielung von Gewinn ausgerichtet ist und stattdessen vorwiegend ideelle Zwecke verfolgt"
+Q226008,japanisches Idol,japanischen Form des „Sternchens“
+Q567521,Handelsgesellschaft,"Gesellschaft, die ein Handelsgewerbe betreibt"
+Q746359,Musikindustrie,"Unternehmen, die Musik auf Tonträgern produzieren, bewerben und vertreiben"
+Q1649288,Parlamentarische Gruppe,fraktionsübergreifende Zusammenschlüsse von Mitgliedern des Deutschen Bundestages
+Q3477363,Luft- und Raumfahrtindustrie,Industriezweig
+Q16887380,Gruppe,fasst Entitäten mit ähnlichen Eigenschaften zusammen
+Q740752,Verkehrsunternehmen,Dienstleistungsunternehmen im Verkehrswesen
+Q1007311,Bundestagsausschuss,Ausschuss des Deutschen Bundestages
+Q755017,Tell,Siedlungshügel
+Q381160,Experte,Sachkundiger auf einem bestimmten Gebiet
+Q674426,Kurator,gestaltet Ausstellungen und/oder betreut Sammlungen in Institutionen/Museen
+Q249556,Eisenbahnunternehmen,"Unternehmen, das Eisenbahnverkehrsleistungen erbringt oder eine Eisenbahn-Infrastruktur betreibt"
+Q22806,Nationalbibliothek,gesamte Literatur eines Landes sammelnde Bibliothek
+Q28564,Öffentliche Bibliothek,"Bibliothek, die der Öffentlichkeit zur Verfügung steht"
+Q1549283,Großgrundbesitzer,Besitzer von umfangreichen land- oder forstwirtschaftlichen Flächen
+Q16744001,Adliger,Mitglied des Adels
+Q3249005,Provinzstadt in Vietnam,Verwaltungseinheit in Vietnam
+Q417175,Königreich,Monarchische Staatsform
+Q311396,Justizvollzugsbeamter,Beruf
+Q40357,Gefängnis,"Ort, in dem Personen physisch festgehalten werden"
+Q35749,Parlament,"Gesamtheit aller gewählten Vertreter, welche die Regierung kontrollieren und Gesetze verabschieden"
+Q37853,Barock,Epoche der europäischen Architektur und Kunst
+Q1782301,Unterricht,Vorgang zur Aneignung von Fertigkeiten und Wissen
+Q1478443,Fußballverband,"Föderation, Bund oder Bündnis mehrerer Fußballvereine"
+Q4387609,Architekturbüro,Unternehmen für Architektur
+Q465909,Luftfahrtallianz,strategische Kooperation von mehreren Luftfahrtunternehmen
+Q4167836,Wikimedia-Kategorie,in Kombination mit 'ist ein(e)' (P31) verwenden
+Q1114515,Comicverlag,"Verlag, der sich auf die Veröffentlichung von Comics spezialisiert hat"
+Q859369,Dramedy,Genre des Film und Fernsehens
+Q1211934,Hispanics,Ethnie in Amerika
+Q82604,Design,Entwurf oder Formgebung
+Q1161185,Vulkaninsel,Insel vulkanischem Ursprungs
+Q83328,Turkvölker,Gruppe von etwa 40 Ethnien in Zentral- und Westasien
+Q705908,Handelsvertreter,Beruf im Vertriebswesen
+Q2985549,Mononym,"Personenname, der aus nur einem Namen besteht"
+Q767485,respiratorische Insuffizienz,Gasaustauschproblem in der Lunge
+Q205961,Fertigkeit,erworbener Wissensschatz oder eine erlernte Tätigkeit
+Q775318,Cybernaut,Internetnutzer
+Q327245,Team,Zusammenschluss von mehreren Personen zur Lösung einer bestimmten Aufgabe oder zur Erreichung eines bestimmten Zieles
+Q15734684,Körperschaft des öffentlichen Rechts,"Organisationsform in Deutschland, die ihre Rechtssubjektivität einem Hoheitsakt verdankt"
+Q174165,Innovation,erfolgreiche Verwendung von Erfindungen
+Q1656682,Veranstaltung,zeitlich begrenztes und geplantes Ereignis
+Q22713629,Mädchenschule,Schule nur für weibliche Personen
+Q16560,Palast,schlossähnlicher und repräsentativer Prachtbau
+Q2087181,Museumshaus,in ein Museum umgewandeltes Haus
+Q1300510,Rennstall,"organisatorische Einheit, die im Sport an Rennen teilnimmt"
+Q15063600,Home Rule City in Michigan,Verwaltungseinheit im US-Bundesstaat Michigan
+Q77115,Dorfgemeinschaftshaus,soziale Einrichtung
+Q1236680,Gentlemen’s Club,soziale Vereinigung meist männlicher Angehöriger der britischen Upper Class
+Q210167,Spieleentwickler,"Personen oder Unternehmen, die Computerspiele programmieren"
+Q1137109,Computerspiele-Publisher,"Verlag, der Computerspiele veröffentlicht und vertreibt"
+Q367293,Konvention,"Regel, die von einer Gruppe von Menschen aufgrund eines beschlossenen Konsenses eingehalten wird"
+Q780687,Rechte,"grundlegende rechtliche, soziale, oder ethische Grundsätze der Freiheit oder der Anspruch nach einem Rechtssystem, gesellschaftlicher Konvention oder ethischer Theorie"
+Q206361,Konzern,Zusammenschluss mehrerer Unternehmen mit gemeinsamer Bilanzierung
+Q270791,staatliches Unternehmen,öffentlich-rechtlich oder privat-rechtlich organisiertes Unternehmen im mehrheitlichen oder vollen Eigentum des Staates
+Q777120,Borough in Pennsylvania,Verwaltungseinheit von Pennsylvania
+Q14514600,Gruppe fiktiver Figuren,Sammlung fiktiver Charaktere
+Q14623646,fiktive Organisation,fiktive Entität
+Q895526,Organ,handelt im rechtlichen Sinne für juristische Personen
+Q16532929,Administrator,mit administrativen Aufgaben beschäftigte Person
+Q1955150,Musikinstrumentenbauer,Hersteller von Musikinstrumenten
+Q1209744,Uteruskarzinom,Krankheit
+Q165,Meer,"die miteinander verbundenen Gewässer der Erde, die die Kontinente umgeben"
+Q42998,Orchester,größer besetztes Instrumentalensemble
+Q1368409,Züchter,"Person, die Tiere züchtet"
+Q12059906,Hirte,"Person, die eine Herde von Nutztieren bewacht und versorgt"
+Q33203,Methodistische und Wesleyanische Kirchen,protestantische christliche Konfession
+Q15982595,Star,berühmte Person
+Q6501380,Chinesen,Ethnie
+Q2490358,Choreograf,Person die einen Tanz komponiert
+Q1020618,Bühnentanz,in Frankreich
+Q1366914,rabbinisches Judentum,Hauptströmung jüdischen Ritus begründet von Jochanan ben Sakkai
+Q2361887,Blutsturz,plötzliche starke Blutung aus einer Körperöffnung
+Q58840819,Rugby-Union-Nationalmannschaft,vertritt bei internationalen Wettkämpfen einen Mitgliedsverband im Rugby-Union
+Q261327,Thrombose,Gefäßerkrankung
+Q171441,Enklave,"Staatsgebiet, das vollständig vom Gebiet eines anderen Staates umschlossen ist"
+Q796194,medizinisches Verfahren,Maßnahmen zur Erkennung und Heilung von Krankheiten
+Q967098,Grammar School,Schultyp im  Vereinigten Königreich
+Q1387659,Schule,wissenschaftliche Schule
+Q682496,Systems Engineering,interdisziplinärer Ingenieursansatz
+Q14750991,Friedhof der Commonwealth War Graves Commission,"Friedhof, der durch die Commonwealth War Graves Commission gepflegt wird"
+Q1364302,Landwirtschaftsministerium,"Ministerium einer Regierung, das sich mit Fragen der Landwirtschaftspolitik beschäftigt"
+Q614084,Konsumgenossenschaft,"eine besondere Form der Genossenschaft im Einzelhandel, die in erster Linie Nahrungs- und Genussmittel sowie verwandte Waren des täglichen Bedarfs beschafft und verkauft"
+Q11513337,Leichtathlet,"Person, die regelmäßig Leichtathletik betreibt"
+Q1544133,Spieleautor,Entwickler von Gesellschaftsspielen
+Q1150710,Strategiespiel,Typ eines Spiels
+Q1191150,Stichkartenspiel,Kartenspielart
+Q2576499,Ernährungswissenschaftler,Wissenschaftler über die physiologisch richtige Ernährung
+Q350783,Bahn,Schienen-gebundener Verkehr
+Q1004,Comic,"Folge von Bildern, die eine Geschichte erzählt"
+Q290691,Bösewicht,Widersacher des Helden in fiktionalen Geschichten
+Q15978655,Berater,"Fachmann, Ratgeber in seinem spezifischen Fachgebiet"
+Q1344,Oper,musikalische Gattung des Theaters
+Q1370345,Musiktheater,eine der vier klassischen Sparten des Theaters
+Q4989906,Denkmal,"zum Gedächtnis an eine Person oder ein Ereignis errichtete, größere plastische Darstellung"
+Q3661265,Studentenwohnheim,Unterkunft für Studenten
+Q1542966,Gymnasium,weiterführende Schule im deutschen Schulsystem
+Q13027888,Baseballteam,"Gruppe von Spielern, die gemeinsam Baseball spielen"
+Q22670030,ehemalige Region in Frankreich,ehemalige gebietsmäßige Einheit Frankreichs
+Q23413,Burg,"geschlossener, bewohnbarer Wehrbau"
+Q1343246,englisches Landhaus,Anwesen im ländlichen Bereich Englands
+Q956214,Hauptort,administrative Zentrum einer Verwaltungseinheit
+Q7970362,Griechisch-Orthodoxe Kirche,"orthodoxe Kirche, Wikimedia-Begriffsklärungsseite"
+Q2251595,Schutz,"Aktion oder Vorkehrung gegen eine Bedrohung, gegen eine Unsicherheit oder mögliche unangenehme Ereignisse"
+Q11033,Massenmedien,"Sammelbezeichnung für Printmedien, Rundfunk und Internet"
+Q15078788,Rundfunk,Übertragung von Informationen jeglicher Art über elektromagnetische Wellen; Oberbegriff für Hörfunk und Fernsehen
+Q1209283,elektronische Medien,Träger und Inhalte von Information
+Q15238777,Legislaturperiode,Zeitraum zwischen zwei Wahlen eines Parlaments
+Q662729,Person des öffentlichen Lebens,"unbestimmter Zivilrechtsbegriff, der das Recht auf Privatsphäre, die Zulässigkeit von Äußerungen in der Berichterstattung und das Recht am eigenen Bild beeinflusst"
+Q19730508,ehemalige Gemeinde,nicht mehr existierende Gemeinde
+Q5184855,Besatzungsmitglied,"Beschäftigter, der dem Betrieb eines Flugzeuges, einem Seefahrtsschiffes oder einem Zuges dient"
+Q2424752,Produkt,erzeugte Ware oder Dienstleistung
+Q192283,Nachrichtenagentur,Nachrichten lieferndes Unternehmen
+Q49376,Unierte Kirchen,Teilkirchen eigenen Rechts der römisch-katholischen Kirche
+Q7063944,Eisenbahner,Überbegriff für Berufe im Bereich Eisenbahn
+Q3457065,Bildungsnetzwerk,Zusammenarbeit verschiedener Bildungseinrichtungen
+Q219477,Missionar,"Angehöriger einer Religion, der seinen Glauben verbreiten will"
+Q1234713,Theologe,"Person, die Theologie mit wissenschaftlichem Anspruch betreibt"
+Q2138822,Regularkleriker,"Kleriker, die unter einer Ordensregel und einem speziellen Gelübde leben"
+Q2914170,Straßenkünstler,"Sammelbegriff für Künstler, die sich im öffentlichen Raum produzieren"
+Q18555940,Erkrankung der Gebärmutter,Krankheit
+Q19824398,Nachrichtenredaktion,Informationsprogramme und Nachrichten zuständige Redaktion
+Q16917,Krankenhaus,medizinische Einrichtung
+Q86622,Gouvernement,Verwaltungseinheit im Russischen Kaiserreich
+Q82799,Name,verbaler Zugriffsindex auf eine Informationsmenge über ein Individuum
+Q365674,Sicherheitstechnik,Fachgebiet in den Ingenieurwissenschaften
+Q618779,Auszeichnung,Ehrung oder Würdigung
+Q4189293,Dienstgrad,Stellung einer Person innerhalb einer definierten Rangordnung
+Q751708,Village,Verwaltungseinheit in den USA
+Q5888666,Home Rule Municipality in Pennsylvania,Verwaltungseinheit im US-Bundesstaat Pennsylvania
+Q9035798,Township in Pennsylvania,Verwaltungseinheit von Pennsylvania
+Q2324835,Staatsbahn,"Eigenbetrieb eines Staates, der Eisenbahnen betriebt"
+Q949302,Hautkrankheit,Erkrankung der Haut
+Q18965518,Arterienerkrankung,Krankheit
+Q154547,Herzogtum,Amts- und Herrschaftsbereich eines Herzogs
+Q26830017,Territorium im Heiligen Römischen Reich,Untereinheit der ersten Stufe des heiligen römischen Reiches mit Stimmberechtigung im Reichstag
+Q1363715,Städtebund,mittelalterlicher Beistandspakt von Städten
+Q2267870,Selbständige Gemeinde,"Stadt mit mehr als 30.000 Einwohnern in Niedersachsen, Deutschland"
+Q1621034,historisches Territorium,"Herrschaftsgebilde des Heiligen Römischen Reiches, ein geschichtswissenschaftlicher Begriff"
+Q1132300,Metropolregion in Deutschland,durch die Ministerkonferenz für Raumordnung definierte Metropolregion
+Q165116,Großherzogtum,"Territorium, das von einem Großherzog regiert wird"
+Q153026,Europaregion,länderübergreifende Region in Europa
+Q933394,Exklave,außerhalb des Vaterlands liegendes Gebiet
+Q548611,Okres in Tschechien,Verwaltungseinheit in Tschechien
+Q15642541,nicht physiographische gebietsmäßige Einheit,Gebiet mit künstlich gezogenen Grenzen
+Q2305295,Wochenzeitung,"Zeitung, die regelmäßig im Abstand von sieben Tagen erscheint"
+Q70208,politische Gemeinde,unterste Stufe im dreistufigen staatlichen Verwaltungsaufbau der Schweiz
+Q11183787,Ortschaft,"abgrenzbarer Teil einer politischen Gemeinde in Deutschland, Österreich und der Schweiz"
+Q36784,Region in Frankreich,Verwaltungseinheit in Frankreich
+Q7631075,Verwaltungseinheit der Schweiz,Verwaltungseinheit
+Q20012627,weiterführende Schule Neuenburg,Schule in der Schweiz
+Q20857065,Behörde der Vereinigte Staaten,Einrichtung der US-Regierung
+Q13414754,County von New Jersey,Verwaltungseinheit in New Jersey
+Q17319258,Präsidentschaft in British-Indien,eine Verwaltungseinheit in British-Indien
+Q12759805,Sultanat,Herrschaftsgebiet eines Sultans
+Q788046,Autonome Sozialistische Sowjetrepublik,Gebietskörperschaft der Sowjetunion
+Q34090,Turksprachen,Sprachfamilie
+Q13414354,County von Connecticut,Verwaltungseinheit in Connecticut
+Q271669,Landform,Oberflächenformen des Landes
+Q7270,Republik,"Staatsform, durch das Staatsvolk legitimierte Regierungsform"
+Q325261,Satellitenstaat,kleinerer Staat in einem Abhängigkeitsverhältnis zu einem größeren Staat bzw. einer Hegemonialmacht
+Q842112,Sozialistischer Staat,Staat mit einem sozialistisch geprägten politischen System
+Q194203,Arrondissement von Frankreich,342 Untergliederungen der 100 Départements in Frankreich
+Q1276346,EU Battlegroup,militärische Formation der Krisenreaktionskräfte der Europäischen Union
+Q103817,indigenes Volk,"ethnische Minderheiten, die innerhalb ihres historischen Lebensraums verdrängt wurden"
+Q15571255,Indianer in Nordamerika,Indigene Völker
+Q336473,Hilfsorganisation,"Organisation mit der Aufgabe, Menschen oder Tieren zu helfen oder Sachwerte wie besonders schützenswerte Kulturgüter zu schützen"
+Q854218,System der Vereinten Nationen,"Gruppe von rechtlich und finanziell selbständigen Organisationen, die mit der UN verbunden sind"
+Q14638071,Liste der Sonderorganisationen der UN,"rechtlich, organisatorisch und finanziell selbständige Internationale Organisationen, die mit der UN verbunden sind"
+Q124964,Koalition,Bündnis oder Abkommen zwischen Einzelpersonen oder Gruppen
+Q1075929,Afrikaner,Klasse ethnischer Gruppen
+Q93288,Vertrag,gegenseitige Selbstverpflichtung von zwei oder mehr Parteien
+Q189445,Zweikammerparlament,Parlament mit zwei Kammern
+Q48349,Reich,"Territorium eines Regenten, eines Staates oder allgemeiner einer politisch organisierten Gemeinschaft"
+Q51739,indigene amerikanische Sprachen,Sprachfamilie
+Q66344,Zentralbank,für die Geld- und Währungspolitik eines Währungsraums oder Staates zuständige Institution
+Q33289,Kreolsprache,Sprache
+Q33260,Französisch-basierte Kreolsprachen,Sprachfamilie
+Q33430,Kwa-Sprachen,Sprachfamilie
+Q1789745,Yoruboide Sprachen,Sprachfamilie
+Q35497,Altgriechische Sprache,antike indogermanische Sprache
+Q107390,Gliedstaat,politische Einheit mit Staatsqualität innerhalb eines föderativen Staatsverbandes (Bundesstaates) oder eines Staatenbundes
+Q25268,afroasiatische Sprachen,"Sprachfamilie, die im Norden Afrikas und in Westasien verbreitet ist"
+Q11204,Legislative,gesetzgebende Gewalt
+Q164142,Protektorat,"teilsouveränes staatliches Territorium, das einem anderen Staat unterstellt ist"
+Q8192,Schrift,Form von Sprache mittels eines Zeichensystems
+Q9779,Alphabet,Klasse von Buchstabenschriften
+Q35499,Altkirchenslawisch,mittelalterliche slawische Schriftsprache
+Q2699398,westindonesische Sprachen,Sprachfamilie
+Q1250464,Königreich,Staat mit einer monarchischen Staatsform
+Q1900755,Verfassunggebende Versammlung,"Organ, das eine Verfassung erarbeitet oder vereinbart"
+Q37002670,Einkammerparlament,Parlament mit nur einer Kammer
+Q1802801,Landgemeinde in Österreich,Art einer Gemeinde in Österreich
+Q1269749,Landstadt,Stadt mit weniger als 5000 Einwohnern
+Q3089219,Seegrenze,Grenze zwischen Ländern oder internationalem Gewässer auf See
+Q952274,Departamento in Argentinien,Verwaltungseinheit von Argentinien
+Q876102,Verwaltungszonen in Nepal,Verwaltungseinheit in Nepal
+Q752129,Astrophysiker,Naturwissenschaftler der Astrophysik
+Q333,Astronomie,Wissenschaft zur Untersuchung von Himmelskörpern
+Q161944,Diakon,"geweihter Helfer des Priesters, Amt innerhalb der christlichen Kirchen"
+Q15958642,politischer Schriftsteller,politisch motivierter Schriftsteller
+Q37068,Romantik,"kulturgeschichtliche Epoche, die vom Ende des 18. Jahrhunderts bis weit in das 19. Jahrhundert hinein andauerte"
+Q35140,Aufführung,Darbietung eines Bühnenwerkes
+Q16387,Informationswissenschaft,Wissenschaft zur Untersuchung von Information und Wissen
+Q3254959,Rasse,Klassifikationssystem
+Q42240,Forschung,Suche nach neuen Erkenntnissen sowie deren systematische Dokumentation und Veröffentlichung
+Q182436,Bibliothekar,Betreuer und Verwalter von Bibliotheken
+Q2142783,Religionsstifter,Gründer einer Religion
+Q1097273,Epik,grundlegende Gattung der Literatur
+Q79838,Akkordeon,Bauform von Harmonikas
+Q294163,öffentliche Einrichtung,Einrichtung für einen bestimmten Kreis der Öffentlichkeit
+Q58778,System,Gesamtheit von wechselwirkenden Elementen einer Einheit
+Q375336,Filmstudio,"Organisation, welche Filmaufnahmen erstellt"
+Q963760,Esperantid,"konstruierte Sprache, basierend auf Esperanto"
+Q12131,Behinderung,körperliche oder psychische Funktionsstörung einer Person mit Behinderung
+Q3505845,Zustand,Informationen zur Beschreibung der veränderlichen Eigenschaften eines Systems
+Q1436063,Autismusspektrum,psychische Erkrankung
+Q481289,Amtssitz,"Gebäude oder ein Gebäudeensemble, in dem das Staatsoberhaupt eines Landes oder seiner Teilstaaten residiert"
+Q1802963,Herrenhaus,"ländlich stilisiertes, freistehendes Wohnhaus auf dem Land"
+Q52177058,Bürgerhaus,zentrales Wahrzeichen im geografischen oder geschäftlichen Zentrum einer Stadt
+Q2140214,Parish von Jersey,Verwaltungseinheit in Jersey
+Q1378781,Großloge,Freimaurerloge
+Q93204,Dokumentarfilm,"Filmgattung, die sich mit tatsächlichem Geschehen befasst"
+Q622548,Filmparodie,Filmgenre
+Q208500,Fürstentum,Herrschaftsgebiet eines Fürsten
+Q841090,Klassische Altertumswissenschaft,wissenschaftliche Beschäftigung mit der Geschichte und Kultur der griechisch- römischen Antike mitsamt des griechisch-römisch geprägten mediterranen Kulturraums bis etwa 600 n. Chr.
+Q986177,Mittelmeer,"großes Nebenmeer eines Ozeans, das zwischen Kontinenten liegt"
+Q1973404,Nebenmeer,"Gebiet des Ozeans, das durch Festlandteile oder Halbinseln vom Hauptmeer abgegrenzt ist"
+Q8162,Sprachwissenschaft,Wissenschaft zur Untersuchung menschlicher Sprache
+Q178433,Lexikologie,wissenschaftliche Disziplin
+Q157570,Krematorium,Anlage zur Verbrennung von Leichen
+Q38926,Nachrichten,regelmäßige Berichterstattung in Hörfunk und Fernsehen an festen Sendeplätzen
+Q628523,Nachricht,"Information, die sich quantitativ als Signal und qualitativ als bedeutungstragendes Zeichen oder Zeichenfolge beschreiben lässt"
+Q1636697,humanistisches Gymnasium,Variante des Gymnasiums
+Q475042,experimentelle Psychologie,Anwendung von experimentellen Methoden in der psychologischen Forschung
+Q13474373,Profi-Wrestler,"Person, deren Hauptberuf Wrestling ist"
+Q476921,Nierenversagen,Krankheit
+Q20667180,Horror-Roman,Literaturgattung
+Q233324,Theologisches Seminar,"Ausbildungsstätte, in der Theologie unterrichtet wird"
+Q11814411,Dokumentationsautor,Autor von Dokumentationen
+Q1546073,verdeckte Operation,"politische, nachrichtendienstliche oder militärische Aktivitäten, die sowohl heimlich als auch verdeckt ablaufen"
+Q182545,rhetorisches Stilmittel,sprachliches Gestaltungsmittel
+Q1921606,Tastatur,Eingabegerät für Geräte
+Q19659292,Teil eines Musikinstruments,Teil oder Zubehör eines Musikinstruments
+Q565744,Landeskirche,regionale Organisationseinheit von  protestantischen Kirchen
+Q8441,Mann,erwachsener Mensch männlichen Geschlechts
+Q24354,Theater,"Gebäude, in welchem Schauspiele aufgeführt werden"
+Q742421,Ensemble,Gesamtheit der engagierten Bühnenkünstler an einem Theater
+Q84593401,Hofkirche,Kirchengebäude; man unterscheidet dabei die Kirche des Hofes und die Kirche im Hof
+Q1746926,Kleinkunst,"Genre der darstellenden Künste, insbesondere des Theaters und der Musik"
+Q16511993,Königin,Monarchin
+Q627189,Arbeiterpartei,"politische Parteien, die den Anspruch erheben, Interessen der Arbeiter zu vertreten"
+Q101991,Entzündung,Anzeichen einer Aktivierung des Immunsystems
+Q576342,literarischer Salon,"privater gesellschaftlicher Treffpunkt für Diskussionen, Lesungen oder musikalische Veranstaltungen vom 18. bis zum 20. Jahrhundert"
+Q23834194,literarische Gruppe,Gruppierung von Autoren und Poeten
+Q20643324,Operngenre,Theatergenre
+Q938993,Spaßpartei,Art einer politischen Partei
+Q47740,Muslim,Angehöriger des Islam
+Q477544,Neue Religiöse Bewegung,"kollektiver Akteur, der einer Weltanschauung jenseits bekannter Religionen folgt"
+Q486839,Abgeordneter,Mitglied eines Parlaments
+Q751876,Schloss,"prunkvolles und repräsentatives Wohngebäude, meistens von Adelsfamilien"
+Q15830667,Stadtteil von Hamburg,104 Stadtteile in 7 Bezirken
+Q15487029,Patriarchalbasilika,Kirchengebäude mit Namensattribut
+Q8253972,Schöne Literatur,"Übersetzung des französischen ""belles lettres"", im 17. Jahrhundert aufgekommener Begriff für den vor allem von französischen Moden geprägten Bereich des Buchmarkts (s. auch Belletristik)"
+Q30277550,Geschichtsschreibung,Darstellung von geschichtlichen Ereignissen
+Q8087,Geometrie,Teilgebiet der Mathematik
+Q6386271,Medienwissenschaftler,"Forscher und Lehrender zu Medienanalyse, -geschichte und -theorie"
+Q9465,Ethik,"Disziplin der praktischen Philosophie, die sich mit der Entscheidungsfindung befasst"
+Q1664917,Institut für Marxismus-Leninismus,Einrichtungen von sozialistischen oder kommunistischen Parteien vor allem im 20. Jahrhundert
+Q152081,Konzentrationslager,"mehrere Arten von Sammel-, Internierungs- und Arbeitslagern in verschiedenen Ländern"
+Q11030,Journalismus,Arbeit von Journalisten bei Print- und Online-Medien oder im Rundfunk
+Q1104153,Kanoniker,in Gemeinschaft lebende Kleriker mit oder ohne Profess
+Q1307337,Einfluss,Influencer
+Q774306,Chirurg,"Arzt, der die Chirurgie ausübt"
+Q783906,Neurologe,auf das Fach Neurologie spezialisierter Arzt
+Q17307272,Zirkusdarsteller,Beruf
+Q1365560,Fachhochschule,"Hochschulform, die Lehre und Forschung auf wissenschaftlicher Grundlage mit anwendungsorientiertem Schwerpunkt betreibt"
+Q3745071,Wissenschaftsautor,Fachautor im wissenschaftlichen Bereich
+Q151885,Begriff,semantische Einheit
+Q8458,Menschenrechte,"Rechte, die jedem Menschen gleichermaßen zustehen"
+Q2386606,subjektives Recht,die einem Einzelnen zu seinem Schutz vom objektiven Recht verliehene Rechtsmacht zur Durchsetzung seiner berechtigten Interessen
+Q1131296,Freguesia,Verwaltungseinheit in Portugal
+Q3257686,Ortschaft,"geographischer Ort, an dem sich Menschen niedergelassen haben"
+Q365680,Misshandlung,Begriff aus dem deutschen Recht
+Q44613,Kloster,"bauliche Anlage, in der Menschen eine konzentriert religiöse Lebensweise ausüben"
+Q375928,Unterhaus,parlamentarische Kammer in einem Zweikammersystem
+Q1028181,Maler,bildender Künstler der Malerei
+Q212805,Digitale Bibliothek,Sammlung elektronischer Medien
+Q929833,seltene Krankheit,weniger als fünf von zehntausend Personen betroffen
+Q2572794,forme fixe,französischer Fachbegriff für Gedichte
+Q207804,Strophe,Abschnitt eines lyrischen Textes
+Q317557,Pfarrkirche,Hauptkirche einer Kirchengemeinde
+Q1281618,Bildhauer,künstlerischer Beruf
+Q220322,Agnosie,Nervenkrankheit
+Q2384959,Amerikaner,"Personen, die in Amerika leben"
+Q1078765,Eisenbahnunfall,Katastrophe beim Betrieb einer Eisenbahn
+Q4202290,Eisenbahnvorfall,"ein abnormaler, potentiell gefährlicher Vorfall im Eisenbahnwesen"
+Q128758,Satire,Literaturgenre
+Q52106,Biogeographie,Forschungsrichtung der Biologie und zugleich der Geographie
+Q31561,akustische Gitarre,"Instrument, bei der die Tonerzeugung und Tonverstärkung ohne Elektronik, rein mechanisch erfolgt"
+Q783930,Gemeinde in Serbien,Verwaltungseinheit in Serbien
+Q270389,Nachrichtensprecher,Präsentator von Meldungstexten
+Q11376059,Menschenrechtsverletzungen,Vergehen gegen die Prinzipien der Menschenrechte
+Q12152,Herzinfarkt,akutes und lebensbedrohliches Ereignis infolge einer Erkrankung des Herzens
+Q1061197,Radio-Network,"Senderkette, die mit einem Leitsender zahlreiche lokale Hörfunksender mit einem Mantelprogramm beliefert"
+Q49084,Kurzgeschichte,"moderne literarische Form der Prosa, deren Hauptmerkmal in ihrer Kürze liegt"
+Q1320115,Low-Budget-Film,Filmproduktion mit nur einem geringen Budget
+Q212892,Membranophon,Typ von Musikinstrumenten
+Q241317,Plattform,einheitliche Basis für Anwendungsprogramme
+Q11699606,Geodät,Fachmann der Geodäsie (Vermessungswesen)
+Q9415,Emotion,psychophysiologischer bzw. psychischer Prozess
+Q2608849,Imprint,"zu einem Verlag gehörige Marke, die im Buchhandel selbst wie ein Verlag behandelt wird"
+Q76239,Alpenländische Zither,Familie von Zupfinstrumenten
+Q488111,Pornodarsteller,"Person, die sexuelle Akte in Pornofilmen ausführt"
+Q817138,Electronica,Musik-Genre
+Q850412,Contemporary R&B,Musikgenre
+Q12460259,Harmonium,"Tasteninstrument, bei dem der Ton durch verschieden lange Durchschlagzungen erzeugt wird"
+Q1327327,elektronische Orgel,Musikinstrument mit elektronischen Schwingern
+Q149566,Mittelschule,Schulart
+Q121359,Infrastruktur,langlebige materielle oder institutionelle Einrichtungen einer Volkswirtschaft
+Q708176,Arthropathie,Oberbegriff für alle Gelenkerkrankungen
+Q6980787,Naturlaut,Klänge aus natürlichen Quellen in ihrer normalen Klanglandschaft
+Q163829,Synthesizer,elektronisches Musikinstrument
+Q1343007,Keyboard,elektrophones Tasteninstrument
+Q15214752,Kabarettist,"Künstler, der im Kabarett aktiv ist"
+Q220528,Rembetiko,Griechischer Musikstil
+Q39816,Tal,"langgestreckte, mit mindestens einem Abfluss offene Hohlform in der Landschaft"
+Q1840507,Bildschnitzer,Handwerklicher Beruf
+Q50851,Schwarzmarkt,"Markt, der vom Staat nicht gebilligt wird"
+Q40364446,historische Stadt,historische Gebietseinheit
+Q50825543,Gitarren-Technik,"Fertigkeit, eine Gitarre zu spielen"
+Q1001378,Filmtechnik,alle mechanisch-technischen Erfindungen um den Gegenstand Film
+Q932586,Filmproduktion,"Herstellungsprozess eines Kino-, Werbe- oder Fernsehfilms"
+Q16145150,Musikpädagoge,Beruf
+Q7930612,Village in New Jersey,Verwaltungseinheit im US-Bundesstaat New Jersey
+Q3243765,Gemeinde in Argentinien,argentinische Verwaltungseinheit der dritten Ebene
+Q5770918,Stadt in Argentinien,Verwaltungseinheit von Argentinien
+Q166019,Blutung,Der Verlust von Blut aus dem Herz Kreislaufsystem
+Q2751242,medizinischer Notfall,"akute, unmittelbare Gefahr für ein Lebewesen"
+Q706364,Artdirector,künstlerischer Leiter für Layouts
+Q53094,schwarzer Humor,Abwandlung ernster Themen in Satire oder Unterhaltung
+Q1033891,Martial-Arts-Film,Filmgenre; Variante des Actionfilms
+Q191489,Melodram,Theatergattung
+Q1519335,Gespenstergeschichte,unheimliche Erzählung
+Q10428845,Erzähltechnik,"Methode, mit der ein fiktionales Geschehen dargestellt wird"
+Q182154,Zeitreise,"ungewöhnliche, teilweise theoretisch mögliche Bewegung durch die Zeit"
+Q19963413,Medienkonglomerat,Sehr große Medienunternehmen
+Q159979,Zwilling,eines von zwei Kinder derselben Schwangerschaft
+Q24856,Filmreihe,Sammlung von Filmen zu ähnlichen Themen
+Q196600,Franchise,sich über mehrere Medien oder Produkte überspannendes Werk
+Q3504248,innerer Planet,"Planeten eines Sonnensystems, die die Sonne innerhalb der Umlaufbahn des Haupt-Asteroidengürtels umkreisen"
+Q8514,Wüste,vegetationsloses oder -armes Gebiet
+Q1047698,Superkraft,übernatürliche Fähigkeit eines fiktionalen Charakters
+Q79782,Bewegung,Änderung des Ortes eines Beobachtungsobjektes mit der Zeit
+Q14136353,fiktives Ereignis,"Ereignis, welches nur in einem fiktiven Universum stattfindet"
+Q16017119,Sammelpseudonym,"Pseudonym, das von verschiedenen Urhebern gemeinsam genutzt wird"
+Q193430,Heterocyclen,Ringmoleküle mit mindestens zwei verschiedenen Elementen
+Q937228,Eigenschaft,"vorherrschendes Merkmal, das ein Wesen, ein Ding, ein Phänomen usw. charakterisiert. und welches ein Wesen von einem anderen, eine Sache von der anderen unterscheidet"
+Q33127260,Oxazolidinone,Stoffgruppe
+Q9798,Saxophon,Musikinstrument
+Q56395672,Jesuitenkirche,"Kirche gegründet von der Gesellschaft Jesu, in der Regel an eine Schule angeschlossen"
+Q215380,Band,Gruppe von Musikern
+Q16707841,Superior Konservatorium für Musik,Zentren für höhere musikalische Ausbildung in Spanien
+Q474027,Dancehall,Subgenre jamaikanischer Musik
+Q483352,Thrash Metal,Subgenre des Heavy Metal
+Q676050,historischer Stadtkern,siedlungsgeschichtlich oder denkmalpflegerisch wertvoller Bestand eines Stadtkernes
+Q897395,Vorstand,Leitungsorgan
+Q2309784,Radrennfahrer,"Person, die Rennradsport betreibt"
+Q751892,Caucus,Treffen von Unterstützern oder Mitgliedern einer politischen Partei oder Bewegung
+Q245962,Implementierung,Umsetzung von festgelegten Strukturen und Prozess­abläufen in einem System
+Q847017,Sportverein,Zusammenschluss von Menschen zur Förderung der körperlichen Betätigung
+Q917146,Moschaw,ländliche Siedlungsform mit Kollektivbesitz in Israel
+Q16463,Lyzeum,Gymnasium
+Q1402561,Feldherr,Oberbefehlshaber und höchster Militärangehöriger im Krieg
+Q21070568,möglicherweise fiktiver Mensch,"Mensch, der möglicherweise real ist oder auf einer realen Person basiert, von einigen aber als fiktiv angesehen wird"
+Q16979650,Geschwister,"mehrere Menschen, die Brüder und/oder Schwestern sind"
+Q895914,Verfassungsorgan,Staatsorgan im deutschen Verfassungsrecht
+Q3412198,Forschungsuniversität,Forschungsuniversität in Frankreich
+Q4686866,Beirat,Gremium mit beratender Funktion
+Q708676,Wohlfahrtsverband,Typ einer Non-Profit-Organisation
+Q4932206,Rechtswissenschaft,Lehre von Recht und seiner Anwendung
+Q938236,Gremium,mit zentralen Anliegen befasste Gruppe einer größeren Gruppe von Personen
+Q627272,Arbeitgeberverband,Zusammenschluss von Arbeitgebern (Unternehmen)
+Q170658,Kreativität,"Fähigkeit, etwas Originelles und Nutzbringendes zu erschaffen"
+Q917206,Langstreckenlauf,Leichtathletik-Disziplin
+Q2630741,Community in Wales,Verwaltungseinheit von Wales
+Q4976993,Parish,Name von Verwaltungseinheiten in einigen Ländern
+Q41217,Mechanik,Lehre der Bewegung von Körpern und den dabei wirkenden Kräften
+Q43035,Elektrotechnik,"Technikwissenschaft, die sich mit der Forschung zu Geräten oder Verfahren befasst, die zumindest anteilig auf elektrischer Energie beruhen"
+Q6606110,Industrieller,"Typ von Unternehmer, der zur Zeit der Industrialisierung eine Fabrik oder eine andere Art von Industrieunternehmen führte"
+Q4197743,Spieler,"Person, die ein Spiel spielt"
+Q2865798,Glaskünstler,"bildender Künstler, der mit Glas arbeitet"
+Q1379672,Evaluation,Bewertungsmethode
+Q7315155,Forschungszentrum,Einrichtung zur Forschung
+Q207892,öffentliches Recht,"regelt das Verhältnis zwischen Staat und Bürgern, regelt die Organisation und Funktion des Staats"
+Q814517,Behindertensport,Oberbegriff für diverse Sportarten
+Q80113,Expressionismus,Stilrichtung in der Kunst
+Q18609861,Gruppe von Teppichen,"Teppiche aus derselben Werkstatt mit demselben künstlerischen Thema, üblicherweise  nach demselben Entwurf gearbeitet"
+Q10833314,Tennisspieler,"Person, die Tennis spielt"
+Q15632617,fiktiver Mensch,"Mensch, der nur in erdichteten Werken existiert"
+Q1114461,Comicfigur,"in Comics auftretende, üblicherweise fiktive Figur"
+Q188784,Superheld,literarischer Typus
+Q51626,Messias,"bedeutet „Gesalbter“; König, Retter und Befreier, am häufigsten in den abrahamitischen Religionen"
+Q1034774,Capo di tutti i capi,mächtiger sizilianischer oder US-amerikanischer Mafiaboss
+Q1094617,Mutant,"Gruppe von Charakteren im Marvel Comic-Universum mit einem angeborenen Gen, welches ihnen übermenschlichen Fähigkeiten verschafft"
+Q6498903,Superschurke,"Kriminelle Figur in Comics, Bücher, Film und Fernsehserien"
+Q3658341,literarische Figur,fiktive Gestalt in einem literarischen Text
+Q15773317,Fernsehfigur,fiktiver Charakter in einer Fernsehserie
+Q1569167,Spielfigur,Figur aus einem Computerspiel
+Q200250,Metropole,"Großstadt, die den politischen Mittelpunkt eines Landes oder einer Region bildet"
+Q22865,kreisfreie Stadt in Deutschland,"Stadt in Deutschland, die keinem Landkreis zugehörig ist"
+Q1637706,Millionenstadt,Stadt mit mehr als einer Million Einwohner
+Q2327515,Stadtkreis in Baden-Württemberg,"Stadt in Baden-Württemberg, die keinem Landkreis zugehörig ist (kreisfreie Stadt)"
+Q134626,Kreisstadt,deutsche Stadt mit Sitz des Landratsamts oder der Kreisverwaltung
+Q15253706,Stadt,Verwaltungseinheit in verschiedenen Ländern
+Q57318,Freie und Reichsstadt,Rechtsstatus einiger Städte im Deutschen Reich seit dem Mittelalter
+Q2138558,Regiopole,"Stadt außerhalb einer Metropolregion, die als regionaler Entwicklungsmotor dient"
+Q225467,Stadt der kurzen Wege,"Leitbild der Stadtplanung, räumliche Distanzen zwischen Wohnen, Arbeit und Dienstleistungen gering zu halten"
+Q1401585,Mittelzentrum,zentraler Ort der mittleren Stufe
+Q1256805,Drei-Flüsse-Stadt,Wikimedia-Begriffsklärungsseite
+Q15974307,Einheitsgemeinde in Deutschland,"Verwaltungseinheit in Deutschland (verbandsfreie, kreisangehörige Gemeinde)"
+Q448801,Große Kreisstadt,Stadt mit Sonderstatus nach dem Kommunalrecht in einigen Ländern Deutschlands
+Q2519150,Vertriebenenstadt,nach dem Zweiten Weltkrieg meistens aus einem Flüchtlingslager entstandene Stadt
+Q820254,Bergbaustadt,Siedlung in der Nähe von Rohstofflagerstätten
+Q581830,autofreie Stadt,"Stadt, in der kein Autoverkehr möglich ist"
+Q685309,Aufgehobene politische Gemeinden der Schweiz,ehemalige Grundeinheit der staatlichen Organisation in der Schweiz
+Q15978299,Gemeinde mit Stadtrecht in Tschechische Republik,Gemeinde mit Stadtrecht
+Q12031379,Verwaltungssitz einer Region,Bezeichnung einer Regionalhauptstadt einer tschechischen Region
+Q5153359,Gemeinde in Tschechien,Verwaltungseinheit in der Tschechischen Republik
+Q257978,Statutarstadt,Stadt in Tschechien
+Q8452914,Bezirksstadt,Hauptort eines Bezirkes in Tschechien
+Q7819319,Gemeinden mit erweitertem Wirkungsbereich,Verwaltungseinheit von Tschechien
+Q896881,Mittelstadt,Stadt mit 20.000 bis 99.999 Einwohnern
+Q681277,Stadt mit Komitatsrecht,Verwaltungseinheit 1. Ebene in Ungarn
+Q12350930,Kneippkurort,"deutsches Prädikat für Kurorte, die eine Physiotherapie nach Kneipp anbieten"
+Q1595408,Heilklimatischer Kurort,Prädikat für Kurorte mit therapeutisch wirksamem Klima
+Q2556234,Weinort,"Ort, in dem Weinbau als Erwerbszweig gilt und die Landschaft prägt"
+Q2373919,Lebensgemeinschaft,Kommune oder andere geplante Form des Zusammenlebens
+Q1548518,Große kreisangehörige Stadt,Stadt mit Sonderstatus nach dem Kommunalrecht in einigen Ländern Deutschlands
+Q19816359,Doppelzentrum,Verbund zweier zentraler Orte unter Beibehaltung der administrative Selbständigkeit der Orte
+Q1548525,Große selbständige Stadt,besondere Gemeindeart nach  Niedersächsisches Kommunalverfassungsgesetz
+Q3678424,Sonderstatusstadt,"Stadt mit besonderen Aufgaben in Hessen, Deutschland"
+Q1200957,Tourismusziel,Reisegebiet im Tourismus
+Q26879763,Napoleonischer Satellitenstaat,Satellitenstaat des ersten französischen Kaiserreiches
+Q1815926,Leistungsfähige kreisangehörige Gemeinde,Gemeindetyp in Bayern
+Q149789,Limited Liability Company,Rechtsform in den USA
+Q1643757,Höherer Kommunalverband,auf kommunaler Selbstverwaltung beruhende Körperschaft des öffentlichen Rechts in Deutschland
+Q231838,Zweckverband in Deutschland,Zusammenschluss mehrerer kommunaler Gebietskörperschaften nach deutschem Recht
+Q278697,Inns of Court,vier englische Anwaltskammern für Rechtsanwälte
+Q166280,Anonyme Gesellschaft,Aktiengesellschaft
+Q202216,Übersee-Département,"Départements der Französischen Republik, die außerhalb Metropolitan-Frankreichs liegen und somit zu den französischen Überseegebieten gehören"
+Q262882,Statutarstadt,Verwaltungseinheit in Österreich
+Q871419,Bezirk in Österreich,Verwaltungseinheit in Österreich
+Q257391,Bundeshauptstadt,Hauptstadt eines Bundesstaates
+Q1074523,Planstadt,"Stadt oder Stadtteil, deren Grundriss ein deutlich erkennbarer Plan zugrunde liegt"
+Q422007,Aktiebolag,schwedische Form der Aktiengesellschaft
+Q702875,Arrondissement von Marseille,Stadtbezirke von Marseille
+Q1134686,Fraktion,territoriale Untereinheit einer italienischen Gemeinde
+Q14762300,Einstufige Gemeinde in Ontario,Verwaltungseinheit in Ontario
+Q6609748,City in New Brunswick,Verwaltungseinheit von New Brunswick
+Q5084,Weiler,kompakte ländliche Wohnsiedlung aus wenigen Gebäuden
+Q17457753,Zensus-Untereinheit,Statistisches Gebiet in Kanada
+Q14762890,Regionalgemeinde in Ontario,Verwaltungseinheit von Ontario
+Q14763041,County von Ontario,Verwaltungseinheit in Ontario
+Q1070990,Kreisfreie Stadt in China,Verwaltungseinheit in China
+Q1065118,Bezirk in China,verschiedene Verwaltungseinheiten der Volksrepublik China
+Q148837,Polis,Staatsverband um einen städtischen Siedlungskern mit Umland im antiken Griechenland
+Q27554677,ehemalige Hauptstadt,eines Landes
+Q174844,Megastadt,Stadt mit mehr als 10 Milionen Einwohnern
+Q2716259,Großstadtgemeinde,Verwaltungseinheit der Türkei
+Q467745,Unionsterritorium,Verwaltungseinheit von Indien
+Q1901835,Regierungssitz,"Ort eines Staates, in dem die Regierung ansässig ist"
+Q1307779,Einheitsgemeinde,"kommunaler Gemeindetyp in Deutschland, Österreich und der Schweiz"
+Q208511,Weltstadt,Stadt von überragender weltweiter Bedeutung
+Q748149,Bezirksfreie Stadt,Verwaltungseinheit in China
+Q22927616,Gemeinde in Frankreich mit Sonderstatus,Art der territorialen Organisation in Frankreich
+Q925381,Kreisfreie Stadt von Polen,Verwaltungseinheit in Polen
+Q112099,Inselstaat,im Gegensatz zu einem Staat im Kontinent
+Q6256,Land,"Region, die rechtlich als eigenständige Einheit in der politischen Geographie identifiziert ist"
+Q3624078,souveräner Staat,von einer Organisation wie zum Beispiel UN (Vereinte Nationen) anerkanntes Land
+Q1306755,Verwaltungssitz,"Ort, von dem aus das zu verwaltende Gebiet (der sog. Verwaltungsbezirk) verwaltet wird"
+Q1210300,Region in Georgien,Verwaltungseinheit Georgiens
+Q11271835,Landeshauptstadt,"Hauptstadt eines Bundeslandes, nicht nur in Deutschland"
+Q3505887,Stadt in Israel,Verwaltungseinheit von Israel
+Q745456,Cluster,geographische Konzentration von Unternehmen des gleichen Wirtschaftszweigs
+Q6936225,Municipal Corporation,Verwaltungseinheit von Indien
+Q475050,Bundesdistrikt,"Gebiet in einem Bundesstaat, das zu keinem der Gliedstaaten gehört"
+Q1422929,Primatstadt,Stadt mit hoher wirtschaftlicher Bedeutung
+Q6501447,Kommunalverwaltung,Behörden der kommunalen Selbstverwaltung
+Q245260,Konurbation,"städtischer Raum wie eine Agglomeration (Q159313), verfügt aber über zwei oder mehrere Stadtkerne"
+Q2679157,Gemeinde der Elfenbeinküste,Verwaltungseinheit der Elfenbeinküste
+Q1872284,Municipio in Guatemala,Verwaltungseinheit von Guatemala
+Q955655,Gemeinde in Island,Verwaltungseinheit von Island
+Q2919801,Gemeinde in Luxemburg,Verwaltungseinheit in Luxemburg
+Q14292916,Castello,Verwaltungseinheit von San Marino
+Q14846916,Städte mit Provinzstatus in Kambodscha,Verwaltungseinheit in Städte mit Provinzstatus:
+Q3024240,historischer Staat,"Staat oder Herrschaftsgebilde, welches nicht mehr existiert"
+Q55440238,City in Alberta,Verwaltungseinheit von Alberta
+Q1388464,Regionalgemeinde,Verwaltungseinheit in Kanada
+Q3556889,Gemeinde in El Salvador,Verwaltungseinheit von El Salvador
+Q1763214,Municipio,"Verwaltungseinheit in vielen spanisch- und portugiesischsprachigen Ländern, sowie in Italien und Rumänien"
+Q5098,Provinz von Indonesien,Verwaltungseinheit von Indonesien
+Q648681,Verwaltungsbezirk in Serbien,Wikimedia-Liste
+Q868893,Departement in der Republik Kongo,Verwaltungseinheit der Republik Kongo
+Q695469,Provinz in Mosambik,Verwaltungseinheit von Mosambik
+Q378508,Município in Angola,Verwaltungseinheit in Angola
+Q1749269,Seirei shitei toshi,kreisfreie Städte (shi) in Japan
+Q15092344,Städtisches Gebiet in Norwegen,statistische Einteilung
+Q6024226,Metropolgemeinde,Verwaltungsform in einigen Ländern
+Q1147395,Bezirk in der Türkei,Landkreis in der Türkei
+Q2555896,Gemeinde in Kolumbien,Verwaltungseinheit in Kolumbien
+Q163359,Local administrative unit,"in der NUTS-Hierarchie Verwaltungsebene unterhalb von Provinz, Region oder Staat"
+Q10571400,Köping,Minderstadt
+Q691960,Satellitenstadt,"Stadt, die im Umfeld einer größeren Stadt angesiedelt und in höheren Funktionen von dieser abhängig ist"
+Q15623950,Präfektur in Marokko,Verwaltungseinheit von Marokko
+Q1952852,Municipio in Mexiko,Verwaltungsbezirk in Mexiko
+Q738570,Innenstadt,der innere Teil einer Stadt
+Q17601336,Distrikt,Verewaltungseinheit im Vereinigten Königreich
+Q558330,Municipio in Kuba,Verwaltungseinheit in Kuba
+Q2989398,Gemeinde in Algerien,Verwaltungseinheit von Algerien
+Q2881272,Distrikt von Neuseeland,Verwaltungseinheit von Neuseeland
+Q1266818,Kreisfreie Stadt in den Vereinigten Staaten,"Stadt in den USA, die keinem County zugehörig ist"
+Q3032103,Distrikt in Kolumbien,Verwaltungseinheit in Kolumbien
+Q15334,Gmina,Verwaltungseinheit in Polen
+Q742313,Sardisches Judikat,unabhängiges sardisches Gebiet im Mittelalter
+Q1059478,Machi,kommunale Verwaltungseinheit in Japan
+Q1145012,Tokureishi,Großstadt mit Sonderstatus in Japan
+Q1530824,Metropolgemeinde,Verwaltungseinheit in Südafrika
+Q618123,geographisches Objekt,"Objekt, welches mittels Geodaten eindeutig referenzierbar ist oder war"
+Q1008803,Bundesterritorium in Malaysia,Verwaltungseinheit von Malaysia
+Q1057504,Region von Äthiopien,Verwaltungseinheit in Äthiopien
+Q1062710,Municipio in Bolivien,Verwaltungseinheit von Bolivien
+Q2989649,Gemeinde in Senegal,unterste Stufe des Verwaltungsaufbaus in Senegal mit kommunaler Selbstverwaltung
+Q1798622,Gouvernement,"Gebiet, das von einem Gouverneur als oberstem Beamten verwaltet wird"
+Q1963041,Gemeinde in Moldau,Verwaltungseinheit in Moldau
+Q57831,Festung,"durch Wehranlagen stark befestigter Ort, 15.-19. Jahrhundert, Schutz gegen Erstürmung"
+Q63209072,Stadt in Kolumbien,Siedlung mit Stadt-Status in Kolumbien
+Q2989457,Siedlung städtischen Typs,Verwaltungs- und Gebietseinheit der Sowjetunion
+Q2974552,Stadt im US-Bundesstaat New Jersey,Verwaltungseinheit im US-Bundesstaat New Jersey
+Q6958514,Nagar Palika,Verwaltungseinheit von Indien
+Q817477,Tehsil,Verwaltungseinheit in Pakistan und Indien
+Q12131640,Stadt mit Rajon-Bedeutung,Verwaltungseinheit der Ukraine
+Q202686,Commonwealth Realm,souveräner Staat innerhalb des Commonwealth of Nations
+Q223832,Dominion,Autonomer Staat unter Britischer Souveränität
+Q41614,konstitutionelle Monarchie,Staatsform
+Q43702,Bundesstaat,"Staat, der aus mehreren Teil- oder Gliedstaaten zusammengesetzt ist"
+Q1489259,Supermacht,"Staat, der globale Entwicklungen aufgrund seiner überragenden Fähigkeiten und Potentiale beeinflussen und bestimmen kann und tut"
+Q20181813,Kolonialmacht,über Kolonien herrschender Staat
+Q179164,Einheitsstaat,Gegenteil von Bundesstaat
+Q619610,Sozialstaat,"Staat, der in seinem Handeln nach sozialer Sicherheit und sozialer Gerechtigkeit strebt"
+Q206696,Helvetische Republik,"Schweizer Geschichtsperiode, napoleonischer Staat"
+Q687554,Bundesvertrag,Völkerrechtlicher Vertrag
+Q123480,Binnenstaat,"Land, das keine direkte Verbindung zum Meer hat"
+Q4209223,Rechtsstaat,"Staat, der die Staatsgewalt an das „Recht“ bindet"
+Q13107770,Archipelstaat,"Staat, der aus einem oder mehreren Archipelen und gegebenenfalls weiteren Inseln besteht"
+Q49892,Präsidentielles Regierungssystem,"Regierungssystem, bei dem ein Präsident als Staatsoberhaupt auch die Funktion des Regierungschefs innehat"
+Q918240,Britische Kolonien und Protektorate,Wikimedia-Liste
+Q672729,Islamische Republik,Staatsform mit Bezug zur Scharia und zur Ulama
+Q189898,Emirat,Herrschaftsbereich eines Emirs
+Q133156,Kolonie,"Territorium, das unter der Kontrolle eines fremden Staates steht"
+Q160016,Mitgliedstaat der Vereinten Nationen,Internationale Organisation zwischen vielen Staaten der Erde
+Q474717,Militärorden,Orden für militärische Erfolge und Verdienste
+Q244381,Zwergstaat,Staat mit sehr kleiner Landfläche
+Q1179466,De-facto-Regime,politikwissenschaftlicher und völkerrechtlicher Begriff eines nicht anerkannten Staates
+Q164950,Dynastie,Geschlechterabfolge von Herrschern und ihren Familien
+Q5589178,Regime,Begriff für Regelungs- und Ordnungssysteme
+Q15893266,ehemalige Entität,nicht länger existierender Gegenstand
+Q816829,Periodisierung,Einteilung der Geschichte in Zeitalter oder Zeitabschnitte mit gemeinsamen Merkmalen
+Q83311,Perserreich,antikes Großreich der Perser
+Q179671,Nationalstaat,auf der Idee und Souveränität der Nation beruhendes Staatsmodell
+Q188800,Personalunion,Staatsform
+Q190967,Kreuzfahrerstaaten,"mehrere Staatsgruendungen nach dem ersten Kreuzzug, lokaler Bestand von 1098 bis 1302"
+Q188063,Lehnswesen,politisch-ökonomisches System der Beziehungen zwischen Lehnsherren und belehnten Vasallen
+Q236036,Unionsrepublik,Unionsrepublik der Sowjetunion
+Q208164,Marionettenregierung,durch eine fremde Großmacht unterstützte und  eingesetzte Regierung
+Q1790360,Kolonialreich,Gesamtheit der Kolonien eines Staates
+Q131401,Kalifat,theokratische islamische Regierungsform
+Q512187,Bundesstaat,Regierungsform
+Q4204060,Islamischer Staat,politisches Konzept
+Q1679711,Modellstaat,napoleonischer Staat
+Q1093720,Realunion,Staatsform
+Q7830262,Township in Myanmar,Verwaltungseinheit von Myanmar
+Q681026,Kronland,Länder der Habsburgermonarchie des Kaisertums Österreich
+Q187587,Kaiserreich,Herrschaftsform
+Q182547,römische Provinz,Verwaltungseinheit des Römischen Reiches
+Q234081,Ancien Régime,politisches System
+Q329618,deutsche Kolonien und Schutzgebiete,Überseegebiete des Deutschen Kaiserreichs von 1871 bis 1918
+Q27925057,Kurfürstentum,Herrschaftsgebiet eines Kurfürsten
+Q353344,Grafschaft,Verwaltungseinheit
+Q463742,Hochstift,im Heiligen Römischen Reich bis 1803 ein geistliches Territorium
+Q79751,Oligarchie,"Herrschaftsform, Herrschaft von Wenigen"
+Q50686,Einparteiensystem,"politisches System, in dem eine Partei allein die Regierungsgewalt innehat"
+Q34876,Provinz,Verwaltungseinheit eines Staates
+Q5473816,Staatsdomäne,Staatseigentum zur Verfügung zum Nutzen des Monarchen
+Q4818345,Liste nicht anerkannter historischer Staat,Wikimedia-Liste
+Q27096213,geografische Entität,Ort oder Objekt
+Q24457356,Historiographes Konzept,"Klasse von Konzepten, die zum Studium der der Geschichte verwendet werden"
+Q642379,Politische und soziale Geschichte des Islam,Wikimedia-Geschichts-Artikel
+Q946136,byzantinisches Exarchat,byzantinischer Verwaltungsdistrikt
+Q1336152,Fürstenstaat,Gruppe von Staaten in Britisch-Indien
+Q133311,Stamm,soziale Gruppe
+Q13218276,Freie Stadt,"Stadt, die sich selbst verwaltet"
+Q734818,Kondominium,gemeinschaftlich ausgeübte Herrschaft mehrerer Herrschaftsträger über ein Gebiet
+Q188443,Mikronation,Schein- und Fantasiestaat ohne Anerkennung
+Q7695,Mark,Grenzgebiet eines Reiches im mittelalterlichen Europa
+Q37739,Feudalismus,"oligarchische Gesellschaftsform des europäischen Mittelalters, Königtum der Neuzeit"
+Q518261,Kulturraum,Verbreitungsgebiet einer eingrenzbaren Kultur
+Q185441,Mitgliedstaat der Europäischen Union,Unionsmitgliedstaaten
+Q179023,Französische Kolonien,von Frankreich regierte Territorien außerhalb des Mutterlands
+Q40477,Slawen,Gruppe von Völkern
+Q23397,See,von Land umgebenes Stillgewässer mit oder ohne Zu- und Abfluss
+Q14811181,Gebiet nicht Teil einer Schweizer Gemeinde,Element der schweizerischen Verwaltungsstruktur
+Q102192,Süßwasser,"frei verfügbares Wasser, in dem unabhängig von seinem Aggregatzustand keine oder nur sehr geringe Mengen von Salzen gelöst sind"
+Q131681,Stausee,künstlich angelegter See mit Hilfe eines Absperrbauwerks
+Q8502,Berg,"Geländeform, die sich über die Umgebung erhebt"
+Q8072,Vulkan,"geologische Struktur, die entsteht, wenn Magma an die Oberfläche eines Planeten aufsteigt"
+Q15324,Gewässer,in der Natur fließendes oder stehendes Wasser
+Q316655,Dreiländereck,"Geografischer Punkt, an dem sich drei Territorien berühren"
+Q27345018,Internationales Dreiländereck,Dreiländereck zwischen drei suveränen Staaten
+Q169358,Schichtvulkan,"Vulkantyp, grauer Vulkan"
+Q35666,Gletscher,aus Schnee hervorgegangene Eismasse
+Q207326,Berggipfel,Höchster Punkt eines Berges
+Q130003,Wintersportgebiet,"ein zum Skilaufen, Rodeln oder ähnliche Wintersportarten genutztes touristisches Gebiet"
+Q77854728,Gruppe von Berggipfeln,"mehrere Berge / Berggipfel, die üblicherweise zusammen beschrieben werden."
+Q54050,Hügel,eine Erhebung in einer Landschaft
+Q9430,Ozean,größte Meere der Erde
+Q6498826,Märtyrer,"Menschen, die für ihre Überzeugungen leiden und ggf. ihren gewaltsamen Tod erdulden."
+Q20643955,menschliche Bibelfigur,menschliche Figur im Alten Testament / Hebräische Bibel oder Neuen Testament
+Q2189802,Air Transport Auxiliary,britische Organisation
+Q127843,Nom de plume,"Name, der anstelle des echten Namen eines oder mehrerer Autoren verwendet wird"
+Q2944360,Hundertjähriger,"Person, die das 100. Lebensjahr erreicht hat"
+Q61002,Pseudonym,fingierter Name zur Verschleierung der Identität
+Q12409870,Holocaustüberlebender,"Person, die den Holocaust überlebte"
+Q1862087,Gefangener,Person in Gefangenschaft
+Q193934,Taschenbuch,"kleinformatiges Buch mit gewöhnlich weichem Einband, Brochiert siehe Q990683"
+Q193955,Hardcover,Buch mit einem festem Einband
+Q21191019,japanische Fernsehserie,"Fernsehserie, die in Japan oder von Japanern produziert wurde"
+Q1366112,Fernsehdrama,Filmgenre
+Q571,Buch,"in sich abgeschlossene Sammlung von Text oder Bildern auf Papier (klassisches Buch), in digitaler Form (E-Book) oder als Tonaufzeichnung (Hörbuch)"
+Q3331189,Ausgabe oder Version,"(mit P31 zu verwenden) spezifische Version eines Werks, welche sich aus einer bestimmten Auflage, Adaptierung oder Übersetzung des Werks ergibt; Set von quasi-identischen Exemplaren eines Werks; umfasst frbr:Expression und frbr:Manifestation"
+Q384515,Traktat,lehrhafte Abhandlung
+Q48498,Bilderhandschrift,"mit Malerei, Ornamenten, Blattgold und farbigen Tinten dekorierte Handschrift"
+Q23622,Wörterbuch,"Nachschlagewerk, das Wörter oder andere sprachliche Einheiten in einer meist alphabetisch sortierten Liste verzeichnet"
+Q12308638,Gedichtsammlung,Sammlung zusammen veröffentlichter Gedichte
+Q14406742,Comicserie,Serie von thematisch zusammenhängenden Comics
+Q725377,Graphic Novel,Comic im Buchformat
+Q11032,Zeitung,periodisch täglich oder wöchentlich erscheinende Publikation mit aktuellem Inhalt
+Q277759,Buchreihe,Serie von Büchern zu einem umrissenen Themenfeld
+Q1459574,Handbuch,systematisch geordnete Zusammenstellung eines Ausschnitts des menschlichen Wissens
+Q933348,Festschrift,Publikation aus festlichem Anlass
+Q20540385,Sachbuch,"Buch, das ein bestimmtes Sachthema für das breite Leserpublikum verständlich darstellt"
+Q1391417,Fachlexikon,"Nachschlagewerk, in dem das Wissen eines begrenzten Fachgebiets beschrieben wird"
+Q35127,Website,Präsenz eines Anbieters von Telemedien im weltweiten Netz (World Wide Web)
+Q5797488,Vampir,fiktive Rasse in den Marvel Comics
+Q40434727,Rivalität,Rivalität zwischen zwei Sportmannschaften
+Q61220733,Star-Trek-Episode,Folge einer Star-Trek-Fernsehserie
+Q653916,Pilot,Folge oder Film zur Einführung einer Fernsehserie
+Q506240,Fernsehfilm,"langformatiger Film, der für die Fernsehausstrahlung hergestellt wird"
+Q21191270,Folge einer Fernsehserie,einzelne Ausgabe einer Fernsehserie
+Q193977,Musikvideo,"Kurzfilm, der ein Musikstück filmisch umsetzt"
+Q1385610,Exzerpt,Auszug der wichtigsten Gedanken bzw. Formulierungen eines Textes
+Q21664088,Doppelfolge,"Folge einer Fernsehserie, die zwei Standard-Folgen umfasst"
+Q24862,Kurzfilm,Gegenstück zum Langfilm ausschließlich über seine Länge
+Q229390,3D-Film,"Film, der dem Zuschauer durch stereoskopische Verfahren ein bewegtes Bild mit einem Tiefeneindruck für stereoskopisches Sehen vermittelt"
+Q459435,Mockumentary,"fiktionale Dokumentarfilm, der einen echten Dokumentarfilm oder das ganze Genre parodiert"
+Q1800833,Rockumentary,Film der dokumentarisch die Geschichte einer Rockband oder eines Musikers erzählt
+Q240862,Director’s Cut,Schnittfassung eines Filmes
+Q18089617,Knetanimationsfilm,Stop-Motion-Film mit Figuren aus Knetmasse
+Q24869,Langfilm,Filmgenre: Film mit längerer Spieldauer
+Q3566966,Internetdokumentar,interaktives Medium
+Q963099,Remix-Album,Musikalbum mit neu gemixten Versionen
+Q1259759,Miniserie,Bezeichnung für eine Fernsehserie mit abgeschlossener Handlung
+Q7751682,Serial,Produktionsform von Serien-Kinofilmen
+Q20667187,Kurzstummfilm,kurzer Stummfilm
+Q17123180,Fortsetzung,"Spielfilm, der die Handlung eines Vorgängerfilms fortführt"
+Q28968511,Zeichentrickfilm,"Animationsfilm, dessen Einzelbilder handgezeichnet sind"
+Q1030329,virales Video,"Video, das durch Verbreitung durch das Internet populär wurde"
+Q134556,Single,Release mit wenigen Musiktiteln
+Q231302,Shōnen,Manga-Kategorie
+Q2518205,Versionenfilm,Filmproduktionsstrategie
+Q37087,Church of Satan,Glaubensgemeinschaft
+Q226730,Stummfilm,Tonloser Film
+Q209939,Live-Album,"Musikalbum, das mit aufgenommener Musik von Auftritten oder Konzerten bespielt ist"
+Q222910,Kompilation,Zusammenstellung von Musikstücken in Zweitverwertung
+Q394970,Boxset,Zusammenstellung mehrerer CDs- oder DVDs
+Q219557,Kultfilm,"Film, der Kultstatus erlangt hat"
+Q25110269,Real-/Animationsfilm,Kombination aus Realfilm und Animationsfilm
+Q28968258,Computeranimationsfilm,Filmgenre
+Q336144,Episodenfilm,"aus unabhängigen, abgeschlossenen Kurzfilmen bestehender Film"
+Q7725310,Mehrteiler,"zusammengehörendes literarisches, musikalisches oder filmisches Werk, das aus mindestens zwei Teilen besteht."
+Q105420,Anthologie,Sammlung ausgewählter Werke oder Werkauszüge
+Q23739,Seifenoper,serielles Programmformat
+Q1711400,Jugendserie,für jugendliches Publikum entwickelte Serie
+Q29197,Folgenpremiere,erste Episode einer neuen Folge einer TV-Serie
+Q170238,Sitcom,TV-Serien Genre
+Q220898,Original Video Animation,direkt für den Videomarkt produzierte Animes
+Q237338,Seinen,Manga-Kategorie
+Q747381,Light Novel,japanische Romane für jüngere Erwachsene
+Q242492,Shōjo,Mangas mit Zielgruppe Teenager-Mädchen
+Q7889,Computerspiel,durch implementierte Regeln beschriebenes interaktives elektronisches Spiel
+Q581714,Animationsserie,TV-Genre
+Q399811,Dorama,Fernsehserie japanischer Produktion
+Q526877,Webserie,"für das Internet produzierte, seriell online gezeigte Videoinhalte"
+Q11425,Animation,technische Verfahren zur Herstellung von Animationsfilmen
+Q1273568,Kinderserie,"TV-Serie, die sich an Kinder richtet"
+Q3464665,Staffel,Produktionabschnitt von mehreren Folgen bei Fernsehserien
+Q12198,sexuell übertragbare Erkrankung,hauptsächlich durch den Geschlechtsverkehr übertragbare Krankheiten
+Q18553248,Bakterielle Infektionskrankheit durch Kommensalen,"ansteckende Erkrankung, die durch kommensale Bakterien ausgelöst wird"
+Q18123741,Infektionskrankheit,durch Erreger hervorgerufene Erkrankung
+Q182672,Zoonose,von Tier zu Mensch und von Mensch zu Tier übertragbare Infektionskrankheit
+Q1928978,Virusinfektion,aktives oder passives Eindringen von Viren in einen Organismus und deren Vermehrung dort
+Q2723958,Grippepandemie,"Epidemie eines Grippevirus, die sich weltweit ausbreitet und einen großen Teil der Bevölkerung infiziert"
+Q12184,Pandemie,länder- und kontinentübergreifende Ausbreitung einer Krankheit
+Q2840,Influenza,Hochansteckende Infektionskrankheit
+Q2603200,Virale Lungenentzündung,Virusinfektion der Lunge
+Q19000661,Kongestives Herzversagen,Herzversagen mit Blutanstauung
+Q18556619,Mittelohrkrankheit,Krankheit
+Q5325633,Ohrkrankheit,Krankheit
+Q1143025,Mundhöhlenkarzinom,Krankheit
+Q917447,Chronisch-entzündliche Darmerkrankungen,Krankheit
+Q2397106,Tauopathie,Nervenkrankheit
+Q192102,Hautkrebs,Krankheit
+Q1755122,neurodegenerative Erkrankung,Gruppe von Störungen des Nervensystems
+Q3221083,Motoneuron-Krankheit,Nervenkrankheit
+Q2608695,Bewegungsstörungen,Krankheit
+Q18558209,Erkrankung des oberen Atemtrakts,Erkrankung des oberen Atemtrakts
+Q1983841,virale hepatitis,Krankheit
+Q2458539,Hautinfektion,"Hautkrankheiten, die durch Krankheitserreger wie zum Beispiel Bakterien, Pilze, Parasiten oder Viren ausgelöst werden"
+Q945238,Mononeuropathia multiplex,Nervenkrankheit
+Q727028,bakterielle Infektionskrankheit,durch Bakterien verursachte Krankheit
+Q215509,Nosokomiale Infektion,"Infektion, die im Zuge einer Behandlung in einem Krankenhaus oder einer Pflegeeinrichtung auftritt"
+Q162272,hämorrhagisches Fieber,mit Blutungen einhergehende Fiebererkrankung
+Q3776920,bakterielle Pneumonie,Krankheit
+Q3339235,Nervenkrankheit,Krankheit
+Q929451,vernachlässigte Krankheit,vor allem in Dritte-Welt-Ländern auftretende Krankheit mit geringer wirtschaftlicher Bedeutung
+Q184243,Zeckenstich,Hautpenetration einer Zecke
+Q3055380,Enteropathie,Krankheit
+Q578994,Wurmerkrankung,Durch Würmer (Parasiten) verursache Erkrankung
+Q815753,Filariose,Parasitose durch Vertreter der Filarioidea
+Q18555177,Pyelitis,Entzündung des Nierenbeckens
+Q156103,Gastroenteritis,entzündliche Erkrankung des Magen-Darm-Traktes
+Q3030745,Distomatose,Gruppe von Parasitosen
+Q55286823,bakterielle Infektion und Mykose,durch Bakterien und Pilze verursachte Infektionskrankheiten
+Q12192,Lungenentzündung,akute oder chronische Entzündung des Lungengewebes
+Q1779300,Kollagenose,autoimmune Erkrankung
+Q475510,Darmparasitose,Parasitenbefall des Verdauungskanals
+Q487837,Kokzidiose,Erkrankung durch Einzeller aus der Gruppe der Kokzidien
+Q7356544,Bandwurmbefall des Menschen,parasitäre Infektion
+Q12204,Tuberkulose,bakterielle Infektionskrankheit
+Q167844,Konjunktivitis,herpetica
+Q1186703,demyelinisierende Erkrankung,Nervenkrankheit
+Q383126,Krankheitsverlauf,Verlaufsmodus einer Erkrankung
+Q8084905,Autoimmunerkrankung,Art von Krankheiten
+Q170990,Arthritis,Gelenkentzündung
+Q1404470,Felty-Syndrom,Krankheit
+Q644318,Vaskulitis,Krankheit
+Q205178,Wunderkind,"Mensch, der schon als Kind Fähigkeiten zeigt, die üblicherweise erst im Erwachsenenalter oder gar nicht erreicht werden"
+Q10519151,Ehrenmitglied,"Mitgliedschaft in einer wissenschaftlichen oder künstlerischen Akademie aufgrund einer Ehrung, nicht aufgrund wissenschaftlicher Leistungen"
+Q3046146,Ehepaar,"zwei Menschen, die miteinander verheiratet sind"
+Q9212979,Musikduo,"zwei Musiker, die miteinander arbeiten"
+Q1792372,Kunstfigur,"fiktionale Figur, die nahezu alle Attribute einer lebenden Person besitzen kann"
+Q10798782,Fernsehschauspieler,"Schauspieler, der in Fernsehfilmen und -serien auftritt"
+Q183945,Musikproduzent,Leiter der Musikaufnahme im Tonstudio
+Q215048,Supergroup,"Pop- oder Rockband, deren Mitglieder zuvor bereits in anderen, oft sehr bekannten Bands erfolgreich waren"
+Q281643,Trio,"Gruppe, die aus drei Musikern besteht"
+Q1135557,Quartett,Musikensemble aus vier Musikern
+Q641066,Girlgroup,Popgruppe mit weiblichen Mitgliedern
+Q8436,Familie,"durch Partnerschaft, Heirat oder Abstammung begründete, kleinste Lebensgemeinschaft"
+Q6581097,männlich,Mensch mit männlichem Geschlecht (Verwendung mit P21)
+Q2707384,Musikprojekt,"Projekt, in dem Musik entwickelt / gespielt wird"
+Q239582,Sinfonieorchester,Klangkörper zur Wiedergabe von Orchesterwerken
+Q2470540,Kammerorchester,kleinerer instrumentaler Klangkörper
+Q216337,Boygroup,Popgruppe mit ausschließlich männlichen Mitgliedern
+Q7229089,Popduo,Popgruppe mit genau zwei Mitgliedern
+Q19201596,Rundfunksinfonieorchester,Sinfonieorchester eines Rundfunksenders
+Q7623897,All-Female Band,"Musikgruppe, die ausschließlich aus Frauen besteht"
+Q14073567,Geschwisterpaar,Verwandtschaftsgrad
+Q15851525,Terzett,Musikensemble aus drei Sängern
+Q18127,Plattenlabel,Abteilung eines Tonträgerunternehmens
+Q131186,Chor,Gemeinschaft von Singenden
+Q19832242,Gesangsduo,"Musikduo, in dem beide Mitglieder singen"
+Q2088357,Ensemble,in der Musik eine kleinere Gruppe von Ausführenden
+Q622425,Nachtclub,"Vergnügungsbetrieb, der bis spät in die Nacht oder bis zum frühen Morgen geöffnet ist"
+Q1542343,Independent-Label,unabhängiges Musiklabel
+Q24229398,Vermittler/Vetreter,"Entität, die Aktionen ausführen kann"
+Q167270,Marke,Kennzeichnung von Produkten eines Unternehmens
+Q334453,Abteilung,"Zusammenfassung mehrerer Stellen, welche gemeinsame oder direkt zusammenhängende Aufgaben erfüllen"
+Q746369,Tonstudio,"Einrichtung zur Aufnahme von Audio (Musik, Radio, Hörspielen)"
+Q1917775,Musikverlag,Unternehmen eines Musikverlegers
+Q169534,Division,militärischer Großverband geführt in Korps
+Q1001388,Budget-Label,Art von Plattenlabels
+Q12540664,Distributor,"Verteiler von Gütern, Großhändler, Filmverleiher"
+Q1824338,Musikzeitschrift,Zeitschrift über Musik und Musikkultur
+Q43060,Online-Musikdienst,Verkauf von Musik im Internet
+Q17558136,YouTube-Kanal,Veröffentlicher von YouTube-Videos
+Q867147,Distributionspolitik,alle Entscheidungen und Vertriebsaktivitäten auf dem Weg eines Produktes oder einer Dienstleistung vom Anbieter zum Kunden oder Anwender
+Q1660312,Major-Label,"Unternehmen, das zur Gruppe der marktführenden Musiklabels gerechnet wird"
+Q11780435,Monatsblatt,monatlich erscheinende Zeitschrift
+Q737498,akademische Zeitschrift,Fachzeitschrift über Themen aus  verschiedenen wissenschaftlichen Disziplinen
+Q5633421,wissenschaftliche Zeitschrift,"Zeitschrift, die regelmäßig wissenschaftliche Forschungsergebnisse veröffentlicht"
+Q2065227,Amtsblatt,behördliches Mitteilungsblatt
+Q2747456,Prinz,"Adels-Titel, männliches Mitglied der Königsfamilie"
+Q784251,Heros,kultisch verehrte Heldenfigur in der Antike
+Q162244,Held,"Person mit besonders herausragenden Fähigkeiten oder Eigenschaften, die zu Heldentaten treiben"
+Q380093,Filmhochschule,Einrichtung zur beruflichen Ausbildung für Film- und Fernsehschaffende
+Q23005231,performatischen Arten Schule,"Schule für die performatischen Arten, solch wie Theatre und Dance"
+Q383092,Kunsthochschule,künstlerische bzw. künstlerisch-wissenschaftliche Hochschule
+Q2143781,Schauspielschule,Bildungseinrichtung zur Ausbildung von Berufsschauspielern
+Q137773,Ku,"Stadtbezirk, Verwaltungseinheit in einigen Großstädten in Japan"
+Q190752,oberstes Gericht,letztes Glied eines Instanzenzuges
+Q414147,Akademie der Wissenschaften,Gelehrtengesellschaft und eine Einrichtung zur Förderung wissenschaftlicher Forschung
+Q162633,Akademie,"gelehrte Gesellschaft, Einrichtung für Forschung, Lehre, Bildung oder Ausbildung"
+Q1797187,Künstlerverein,Zusammenschluss von Künstlern
+Q7328910,Kunstsammlung,"Sammlung von Kunstwerken, z.B. in einem Museum oder einer Galerie"
+Q1110992,Lukasgilde,Malerzunft
+Q684740,Immobilie,Grundstück oder Bauwerk
+Q18674739,Veranstaltungsort,"Ort, an dem Veranstaltungen stattfinden"
+Q33506,Museum,"Institution, die Sammlungen ausstellt"
+Q748019,wissenschaftliche Gesellschaft,natur- oder geisteswissenschaftliche Fachgesellschaft
+Q1046088,Ruhmeshalle,"Ort, wo bedeutender Persönlichkeiten gedacht wird"
+Q214183,Geheimpolizei,Zusammenführung aus Polizei und Nachrichtendienst
+Q6589202,Innenministerium,"Ministerium einer Regierung, das sich mit Fragen der Innenpolitik beschäftigt"
+Q392376,Kunstgewerbeschule,künstlerische Ausbildungsstätten mit dem Schwerpunkt im Bereich der angewandten Kunst
+Q897285,Landschaftsverband,"kommunaler Zusammenschluss in Nordrhein-Westfalen und Niedersachsen, Deutschland"
+Q1110684,Standesvertretung,Vertretung akademischer Berufe in Form einer eigenen beruflichen Organisation
+Q464980,Ausstellung,Vorbereitung sowie das öffentliche Zeigen von Gegenständen
+Q1418640,Gebietskörperschaft,Körperschaft des öffentlichen Rechts in Deutschland
+Q1802758,Landeswohlfahrtsverband,deutsche Organisation
+Q16831714,Regierungsgebäude,Sitz einer Regierung
+Q896375,Bundesministerium,einem Bundesminister zugeordnete oberste Bundesbehörde
+Q1802122,Landesbehörde,Behörde eines deutschen Bundeslandes
+Q1241288,Wirtschaftsministerium,"Ministerium einer Regierung, das sich mit Fragen der Wirtschaftspolitik beschäftigt"
+Q19973795,Energieministerium,"Ministerium einer Regierung, das sich mit Fragen der Energiepolitik beschäftigt"
+Q1940786,Mittlerorganisation,"Vereinigung, die im Rahmen eines Regierungsauftrages eigenständig tätig ist"
+Q773668,Open-Access-Zeitschrift,"wissenschaftliche Fachzeitschrift, die dem Leser nach den Prinzipien des Open Access kostenfrei zur Verfügung steht"
+Q12020836,Fachwerkhaus,"Haus mit tragendem Gerüst aus Holz, gefüllt mit einem Holz-Lehm-Verbund oder Ziegelwerk"
+Q917182,Militärakademie,"Lehreinrichtung zur Aus-, Weiter- und Fortbildung vornehmlich von Offizieren"
+Q2772772,Kriegsmuseum,Museum zur Geschichte der Kriegführung
+Q1752939,unabhängige Behörden der Vereinigten Staaten,durch den Kongress per Gesetz eingerichtete Behörden
+Q1005420,Bundesamt,deutsche Bundesbehörde
+Q178885,Gottheit,übernatürliches Wesen
+Q4271324,mythische Figur,fiktiver Charakter in einer mythologischen Geschichte
+Q9163,Polytheismus,religiöse Verehrung einer Vielzahl von Göttern oder Geistern
+Q47280,abrahamitische Religionen,"Judentum, Christentum und Islam"
+Q2325038,Staatskirche,"christliche Religionsgemeinschaft, die in einem Staat zur offiziellen Religion bestimmt wurde"
+Q6957341,Weltreligion,Religion mit hoher Anzahl von Anhängern oder überregionaler Verbreitung
+Q33433,444,Jahr
+Q209928,Madhhab,Lehre von Rechtsnormen im sunnitischen Islam
+Q20011081,reformiert,reformierte oder protestantische Kirche in der Schweiz
+Q51623,Bibelkanon,Klassifikation historischer Schriftzeugnisse
+Q179461,heilige Schrift,Text mit normativer Funktion für eine Religion
+Q95074,fiktive Figur,"erfundene Personen z. B. aus Erzählungen, Gemälden, Romanen, Filmen oder Videospielen"
+Q22074477,fiktiver Cyborg,fiktives Mischwesen aus lebendigem Organismus und Maschine
+Q28816538,Flugzeugkomponente,Bauteil eines  Flugzeuges
+Q623109,Liga,Wettkampfklasse bei Mannschaftssportarten
+Q2992826,Conference,Einteilungen der Mannschaften im Sport
+Q15986354,Basketballverband,Sportverband für Basketball
+Q18608583,wiederkehrendes Sportereignis,"Sportereignis, das sich in einem bestimmten Interval wiederholt"
+Q20653564,Groupe Sportif II,Radsportteam
+Q382927,UCI ProTeam,professionelles Radsportteam (2005-2019)
+Q1756006,UCI Continental Team,internationales Radsportteam
+Q20653563,Groupe Sportif I,Radsportteam
+Q20653566,Groupe Sportif III,Radsportteam
+Q989470,Clan,E-Sport-Begriff
+Q6979593,Fußball-Nationalmannschaft,vertritt bei internationalen Wettkämpfen einen Mitgliedsverband im Fußball
+Q1066670,Tag Team,Team verschiedener Wrestler
+Q1194951,Nationalmannschaft,"Mannschaft, die eine Nation in einem sportlichem Wettkampf repräsentiert"
+Q15944511,Fußballmannschaft,"Mannschaft, welche den Fußballsport ausübt"
+Q2466826,UCI Women’s Team,Radsportteam
+Q20638319,UCI ProTeam,Radsportteam
+Q6154783,UCI WorldTeam,professionelles Radsportteam
+Q483110,Stadion,ein Austragungsort von sportlichen Wettkämpfen in Form eines Spielfeldes
+Q830528,Radrennbahn,dient zur Durchführung von Radrennen im Bahnradsport
+Q1076486,Sportstätte,"Gebäude und Einrichtungen, die zur Ausübung von einer oder mehreren Sportarten dienen"
+Q1004435,Leichtathletikanlage,Sportanlage
+Q14092,Turnhalle,Halle zur Ausübung verschiedener Sportarten
+Q1282870,Eisbahn,"Fläche, die vereist ist, wobei die Vereisung natürlich (Natureisbahn) oder künstlich (Kunsteisbahn) erfolgen kann"
+Q8719053,Veranstaltungsort für Musikdarbietungen,Veranstaltungsort für Konzerte
+Q1154710,Fußballstadion,"Stadion, das für Ballsportarten wie Fußball genutzt wird"
+Q15303456,Rugby-Union-Stadion,Stadion für die Sportart Rugby
+Q595452,Baseballstadion,"Stadion, in dem Baseball gespielt wird"
+Q1049757,Mehrzweckstadion,Art eines Stadions
+Q682943,Cricketfeld,elliptischer oder runder Rasenplatz für Cricketspiele
+Q11822917,Pferderennbahn,Rennbahn für den Pferderennsport
+Q46970,Fluggesellschaft,"Unternehmen, das Personen und Waren auf dem Luftweg befördert"
+Q5225895,public limited company,Typ von Aktiengesellschaften im Vereinigten Königreich
+Q721639,Flagcarrier,Wikimedia-Liste
+Q190915,Billigfluggesellschaft,"Fluggesellschaft mit der Marktstrategie, Flüge unter Verzicht auf übliche Komfortmerkmale erheblich billiger anzubieten als klassische Fluggesellschaften"
+Q1057026,Frachtfluggesellschaft,Fluggesellschaft zum Transport von Luftfracht
+Q936518,Flugzeughersteller,"Unternehmen oder eine Person, die sich mit der Herstellung, Entwicklung und dem Vertrieb von Flugzeugen beschäftigt"
+Q431289,Marke,Gesamtheit der wettbewerbsdifferenzierenden Eigenschaften von Produkten und Produktlinien
+Q607958,Charterfluggesellschaft,"kommerzielle Luftfahrtgesellschaft, die ganze Flugzeuge vermietet"
+Q1248784,Flughafen,"Flugplatz, auf dem normalerweise regelmäßiger kommerzieller Flugverkehr stattfindet"
+Q644371,internationaler Flughafen,"Flughafen, welcher internationale Destinationen bedient"
+Q62447,Flugplatz,Start- und Landeplatz für Luftfahrzeuge
+Q17362920,Wikimedia-Dublette,"Kennzeichnung von Wikimedia-Seiten, die mehrfach in ein und derselben Wikipedia verwendet werden und daher zusammengeführt werden sollten"
+Q32815,Moschee,Ort des gemeinschaftlichen islamischen Gebets
+Q172896,Katakombe,"unterirdische Gewölbekomplexe, die der Bestattung von Toten dienen"
+Q255595,Beinhaus,"Ort, an dem sich Gebeine von Toten befinden"
+Q167346,botanischer Garten,"geordnete Anpflanzung von Bäumen, Sträuchern und krautigen Pflanzen"
+Q2398990,Technikmuseum,"Museum, dass Objekte der angewandten Wissenschaft und technologische Entwicklungen zeigt"
+Q17431399,staatliches Museum,vom Staat betriebenes Museum
+Q92107,Kastellburg,neuzeitliche Form des Kastells
+Q483453,Zierbrunnen,"Brunnen, der Wasser in künstlerisch gestalteter Form ausstößt"
+Q1134627,Kugelbrunnen,"Skulptur aus einer grossen Kugel aus Hartgestein wie Granit, die von einem sehr dünnen Wasserfilm getragen wird in einem konkaven Brunnenbecken ebenfalls aus Hartgestein."
+Q20437094,Installation,"dreidimensionales Kunstwerk, meist aus verschiedenen Materialien und größer als eine Skulptur"
+Q29592411,Laufbrunnen,"Brunnen mit fließendem Brunnenwasser, der der öffentlichen Wasserversorgung diente."
+Q43483,Brunnen,Bauwerk zur Wassergewinnung
+Q179700,Statue,"von einem Bildhauer geschaffene, freistehende Skulptur oder Plastik, die eine Person oder ein Tier darstellt"
+Q1630622,Trinkbrunnen,im öffentlichen Raum aufgestellte Brunnenanlage mit Trinkwasserspeisung
+Q124714,Quelle,"Ort, wo dauerhaft oder zeitweise aus Niederschlägen gespeistes Grundwasser auf natürliche Weise austritt"
+Q866133,Universitätsmuseum,"Museum, das Bestandteil einer Universität ist, oftmals in Form einer Lehrsammlung"
+Q108325,Kapelle,"kleine Bet-, Gottesdienst- oder Andachtskirche oder -räumlichkeit"
+Q245117,Relief,"künstlerische Darstellung, die sich plastisch vom Hintergrund abhebt, meist aus einer Fläche oder einem Körper heraus"
+Q2736507,Wasserspiel,"Anlagen mit Springbrunnen, Wasserspeiern, künstlichen Kaskaden, verschiedenen Wasserautomaten"
+Q276173,Pavillon,Typ von Gebäude
+Q372934,Findling,ein meist einzeln liegender sehr großer Stein
+Q88291,Zitadelle,"kleine Festung, Rückzugsort in einer Festung"
+Q200334,Glockenturm,Turm in dem Glocken aufgehängt sind
+Q1007870,Kunstgalerie,Ort für Ausstellung oder Verkauf von Bildender Kunst oder zeitgenössischer Kunst
+Q1060829,Konzerthaus,"Gebäude, das als Aufführungsstätte vor allem für klassische Musik im Rahmen von Konzerten dient"
+Q2106220,Postmuseum,Museum zur Geschichte und Gegenwart der Post
+Q121594,Professor,akademischer Titel oder Teil der Amtsbezeichnung eines Hochschullehrers
+Q659396,Reiterstandbild,Form eines Denkmals
+Q28966302,Stickerei,Handarbeit
+Q184296,Wandteppich,textiles Kunstwerk
+Q7058673,Computerspielreihe,Reihe von mehreren Computerspielen
+Q46686,Altarretabel,"Altaraufsatz, der direkt auf dem Altar, hinter dem Altartisch oder an der Wand hinter dem Altar befestigt ist"
+Q79218,Triptychon,dreigeteiltes Gemälde oder dreigeteilte Relieftafel
+Q3305213,Gemälde,künstlerische Darstellung eines Bildes auf einem Träger
+Q11801536,Flügelaltar,Altar mit zwei und mehr Altarflügeln
+Q503106,Josei,Manga-Kategorie
+Q642946,Spielbuch,"Druckwerk, bei dem der Leser direkten Einfluss auf die Handlung des Geschehens nehmen kann"
+Q20650540,Anime-Film,Animationsfilm aus Japan

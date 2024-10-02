@@ -1,0 +1,6 @@
+Evaluation: TransE model
+
+Mean Rank: 34.3224
+MRR: 0.1869
+Hits@10: 0.4521
+Mean Squared Error (MSE): 14.3706
